@@ -4,209 +4,236 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ひみつの眠り姫</title>
-<meta name="description" content="リリア・ノワール／セフィリア・プリムヴェール・アジュール／ティルナ・フルーレット。三人ぶんのAIイラストを置いている、ちいさな夜の部屋です。">
+<meta name="description" content="リリア・ノワール／セフィリア・プリムヴェール・アジュール／ティルナ・フルーレット。三人ぶんのAIイラストを置いている、ちいさな部屋です。">
 <meta property="og:title" content="ひみつの眠り姫">
 <meta property="og:description" content="三人が、それぞれの部屋で待っています。">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://himitsu-nemurihime.github.io/img/lilia_room.webp">
-<meta name="theme-color" content="#150F28">
+<meta name="theme-color" content="#FFF3F8">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500&family=Zen+Maru+Gothic:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%F0%9F%8C%99%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%F0%9F%8E%80%3C/text%3E%3C/svg%3E">
 <style>
 :root{
-  /* 夜だけど、やわらかい夜 */
-  --night:#150F28;
-  --night-2:#1E1738;
-  --card:#241C44;
-  --moon:#FBF4FF;
-  --moon-dim:#BFB2DA;
-  /* パステル。ここが可愛さの本体 */
-  --pink:#FFA6CF;
-  --lav:#C9A7F5;
-  --mint:#9FE9CE;
-  --gold:#FFD79A;
-  /* 三人の色 */
-  --lilia:#B9C6F2;
-  --sefi:#FFD98E;
-  --tiru:#9FE0B8;
-  --secret:#FF8FB0;
-  --line:rgba(251,244,255,.13);
-  --soft:0 18px 44px -18px rgba(0,0,0,.7);
-  --glow:0 0 0 1px rgba(251,244,255,.09), 0 20px 50px -22px rgba(201,167,245,.7);
+  /* ぜんぶピンク寄り。白は使わず、いつも少し桜色 */
+  --bg:#FFF3F8;
+  --bg-2:#FFE9F3;
+  --paper:#FFFDFE;
+  --ink:#5C3B50;
+  --ink-dim:#A3809A;
+  /* 主役 */
+  --rose:#FF6FA5;
+  --rose-soft:#FFA8CC;
+  --rose-pale:#FFD9E8;
+  /* 添え色 */
+  --lav:#B79BEF;
+  --mint:#7FD9B6;
+  --gold:#FFC15E;
+  /* 三人の色（ピンクの上でも読める濃さに） */
+  --lilia:#8FA3E0;
+  --sefi:#E0A32E;
+  --tiru:#49B98A;
+  --line:rgba(255,111,165,.18);
+  --soft:0 16px 38px -18px rgba(255,111,165,.55);
+  --pop:0 20px 44px -16px rgba(255,111,165,.7);
+  /* 夜のほう（ここだけ暗い） */
+  --night:#241832;
+  --night-2:#2E1F3E;
+  --night-ink:#F6ECFA;
+  --night-dim:#B9A3C7;
+  --secret:#FF7FAE;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{
-  margin:0;background:var(--night);color:var(--moon);
+  margin:0;background:var(--bg);color:var(--ink);
   font-family:"Zen Maru Gothic",system-ui,sans-serif;
-  font-size:16px;line-height:1.95;overflow-x:hidden;
-  -webkit-font-smoothing:antialiased;
+  font-size:16px;line-height:1.95;overflow-x:hidden;-webkit-font-smoothing:antialiased;
 }
 h1,h2,h3,.maru{font-family:"Kiwi Maru",serif;font-weight:500;text-wrap:balance;letter-spacing:.04em}
 a{color:inherit}
 img{max-width:100%;display:block}
-button{font:inherit}
-:focus-visible{outline:2px solid var(--lav);outline-offset:3px;border-radius:8px}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--rose);outline-offset:3px;border-radius:10px}
 
-/* ── 背景（夜空＋ふわふわ） ───────────────── */
+/* ── 背景（やわらかい光と、ふわふわ） ─────────── */
 .sky{position:fixed;inset:0;z-index:0;pointer-events:none;
   background:
-    radial-gradient(1200px 780px at 80% -10%, rgba(201,167,245,.34), transparent 62%),
-    radial-gradient(980px 700px at 8% 4%,   rgba(255,166,207,.20), transparent 60%),
-    radial-gradient(820px 600px at 52% 106%,rgba(159,233,206,.14), transparent 62%);
+    radial-gradient(1200px 760px at 82% -12%, rgba(255,168,204,.55), transparent 62%),
+    radial-gradient(980px 700px at 6% 2%,    rgba(183,155,239,.34), transparent 60%),
+    radial-gradient(900px 640px at 50% 104%, rgba(127,217,182,.24), transparent 62%);
 }
 #sparkles{position:fixed;inset:0;z-index:0;pointer-events:none}
 .wrap{position:relative;z-index:1;max-width:1120px;margin:0 auto;padding:0 22px}
 
 /* ── ヒーロー ─────────────────────────────── */
-.hero{min-height:94svh;display:flex;flex-direction:column;justify-content:center;gap:30px;padding:74px 0 54px;text-align:center}
-.hero .eyebrow{margin:0;font-size:.72rem;letter-spacing:.4em;color:var(--lav)}
+.hero{min-height:94svh;display:flex;flex-direction:column;justify-content:center;gap:28px;padding:70px 0 52px;text-align:center}
+.hero .eyebrow{margin:0;font-size:.72rem;letter-spacing:.4em;color:var(--rose)}
 .hero h1{
-  margin:0;font-size:clamp(2.6rem,8.4vw,5rem);line-height:1.26;
-  background:linear-gradient(100deg,var(--pink) 0%,var(--lav) 42%,var(--mint) 78%,var(--gold) 100%);
+  margin:0;font-size:clamp(2.5rem,8.2vw,4.9rem);line-height:1.28;
+  background:linear-gradient(100deg,var(--rose) 0%,var(--lav) 46%,var(--rose-soft) 78%,var(--gold) 100%);
   -webkit-background-clip:text;background-clip:text;color:transparent;
-  filter:drop-shadow(0 6px 26px rgba(201,167,245,.42));
+  filter:drop-shadow(0 8px 22px rgba(255,111,165,.35));
 }
-.hero .sub{display:block;margin-top:1.1em;font-size:.26em;letter-spacing:.26em;
-  color:var(--moon-dim);-webkit-text-fill-color:var(--moon-dim)}
-.lead{max-width:32em;margin:0 auto;color:var(--moon-dim);font-size:1rem}
+.hero .sub{display:block;margin-top:1.15em;font-size:.25em;letter-spacing:.24em;
+  color:var(--ink-dim);-webkit-text-fill-color:var(--ink-dim)}
+.lead{max-width:32em;margin:0 auto;color:var(--ink-dim);font-size:1rem}
 
 /* 三人の丸アイコン。ふわふわ浮く */
-.avatars{display:flex;justify-content:center;gap:clamp(14px,4vw,38px);margin:0;padding:0;list-style:none}
+.avatars{display:flex;justify-content:center;gap:clamp(14px,4vw,40px);margin:0;padding:0;list-style:none}
 .avatars a{display:block;text-decoration:none;text-align:center;
   animation:float 5.5s ease-in-out infinite;transition:transform .3s}
 .avatars li:nth-child(2) a{animation-delay:-1.8s}
 .avatars li:nth-child(3) a{animation-delay:-3.6s}
-.avatars a:hover,.avatars a:focus-visible{transform:translateY(-8px) scale(1.05)}
+.avatars a:hover,.avatars a:focus-visible{transform:translateY(-9px) scale(1.06)}
 .avatars .ring{
-  width:clamp(88px,22vw,132px);aspect-ratio:1;border-radius:50%;padding:3px;
-  background:linear-gradient(140deg,var(--pink),var(--lav),var(--mint));
-  box-shadow:0 14px 34px -14px rgba(201,167,245,.9);
+  display:block;width:clamp(92px,23vw,138px);aspect-ratio:1;border-radius:50%;padding:4px;
+  background:linear-gradient(140deg,var(--rose),var(--lav),var(--rose-soft));
+  box-shadow:0 16px 32px -14px rgba(255,111,165,.8);
 }
-.avatars img{width:100%;height:100%;border-radius:50%;object-fit:cover;object-position:50% 22%;
-  border:2px solid var(--night)}
-.avatars .cap{display:block;margin-top:11px;font-family:"Kiwi Maru",serif;font-size:.86rem;letter-spacing:.06em}
+.avatars img{width:100%;height:100%;border-radius:50%;object-fit:cover;object-position:50% 20%;
+  border:3px solid var(--paper)}
+.avatars .cap{display:block;margin-top:12px;font-family:"Kiwi Maru",serif;font-size:.88rem;letter-spacing:.06em}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-11px)}}
 
-.scroll-hint{color:var(--moon-dim);font-size:.78rem;letter-spacing:.22em;margin:0}
+.scroll-hint{color:var(--rose);font-size:.78rem;letter-spacing:.22em;margin:0}
 .scroll-hint span{display:inline-block;animation:bob 1.9s ease-in-out infinite}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
 
-/* ── 見出しの共通 ─────────────────────────── */
-.sec{padding:76px 0;border-top:1px solid var(--line)}
-.sec-head{text-align:center;margin-bottom:38px}
-.sec-head h2{margin:0 0 8px;font-size:clamp(1.5rem,4vw,2.15rem)}
-.sec-head h2::before{content:"❁ ";color:var(--pink);font-size:.8em}
-.sec-head h2::after{content:" ❁";color:var(--pink);font-size:.8em}
-.sec-head p{margin:0;color:var(--moon-dim);font-size:.92rem}
+/* ── 見出し ───────────────────────────────── */
+.sec{padding:74px 0}
+.sec-head{text-align:center;margin-bottom:36px}
+.sec-head h2{margin:0 0 8px;font-size:clamp(1.5rem,4vw,2.15rem);color:var(--ink)}
+.sec-head h2::before{content:"♡ ";color:var(--rose);font-size:.78em}
+.sec-head h2::after{content:" ♡";color:var(--rose);font-size:.78em}
+.sec-head p{margin:0;color:var(--ink-dim);font-size:.92rem}
+.wave{display:block;width:78px;height:auto;margin:0 auto 28px;color:var(--rose-soft)}
 
 /* ── 部屋（キャラ紹介） ───────────────────── */
-.room{padding:60px 0;border-top:1px solid var(--line)}
+.room{padding:54px 0}
 .room-grid{display:grid;grid-template-columns:1fr;gap:30px;align-items:center}
 @media(min-width:880px){
-  .room-grid{grid-template-columns:.9fr 1.1fr;gap:52px}
+  .room-grid{grid-template-columns:.92fr 1.08fr;gap:50px}
   .room.flip .room-art{order:2}
 }
-.room-art{position:relative;border-radius:26px;padding:4px;box-shadow:var(--soft);
-  background:linear-gradient(150deg,var(--c),transparent 55%,var(--lav));
+.room-art{position:relative;border-radius:28px;padding:5px;box-shadow:var(--soft);
+  background:linear-gradient(150deg,var(--c),var(--rose-soft) 60%,var(--lav));
   transition:transform .4s}
-.room-art:hover{transform:rotate(-1deg) scale(1.012)}
-.room-art img{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:22px}
+.room-art:hover{transform:rotate(-1.1deg) scale(1.014)}
+.room-art img{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:24px}
 .room-art .sticker{
-  position:absolute;top:-14px;left:-10px;padding:7px 16px;border-radius:999px;
-  background:var(--c);color:#211A3C;font-family:"Kiwi Maru",serif;font-size:.8rem;
-  letter-spacing:.08em;box-shadow:0 10px 24px -10px rgba(0,0,0,.8);transform:rotate(-4deg);
+  position:absolute;top:-15px;left:-8px;padding:8px 18px;border-radius:999px;
+  background:var(--paper);color:var(--c);font-family:"Kiwi Maru",serif;font-size:.82rem;
+  letter-spacing:.08em;box-shadow:0 10px 22px -10px rgba(255,111,165,.8);
+  transform:rotate(-4deg);border:2px solid var(--c);
 }
 .bubble{
-  position:relative;display:inline-block;margin:0 0 20px;padding:14px 20px;border-radius:20px;
-  background:rgba(251,244,255,.07);border:1px solid var(--line);
-  font-family:"Kiwi Maru",serif;font-size:1rem;color:var(--moon);
+  position:relative;display:inline-block;margin:0 0 20px;padding:15px 22px;border-radius:22px;
+  background:var(--paper);border:2px solid var(--rose-pale);box-shadow:var(--soft);
+  font-family:"Kiwi Maru",serif;font-size:1rem;color:var(--ink);
 }
-.bubble::after{content:"";position:absolute;left:26px;bottom:-9px;width:16px;height:16px;
-  background:rgba(251,244,255,.07);border-right:1px solid var(--line);border-bottom:1px solid var(--line);
+.bubble::after,.bubble::before{content:"";position:absolute;left:28px;bottom:-11px;
+  width:18px;height:18px;background:var(--paper);
+  border-right:2px solid var(--rose-pale);border-bottom:2px solid var(--rose-pale);
   transform:rotate(45deg)}
 .room h3{margin:0 0 2px;font-size:clamp(1.45rem,3.4vw,2rem);color:var(--c)}
-.room .ruby{margin:0 0 16px;font-size:.76rem;letter-spacing:.2em;color:var(--moon-dim)}
-.room p.about{margin:0 0 20px;color:var(--moon-dim);max-width:30em}
+.room .ruby{margin:0 0 16px;font-size:.76rem;letter-spacing:.2em;color:var(--ink-dim)}
+.room p.about{margin:0 0 20px;color:var(--ink-dim);max-width:30em}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px;padding:0;list-style:none}
-.chips li{padding:5px 14px;border-radius:999px;font-size:.79rem;letter-spacing:.03em;
-  background:color-mix(in srgb,var(--c) 17%,transparent);
-  border:1px solid color-mix(in srgb,var(--c) 34%,transparent);color:var(--moon)}
+.chips li{padding:5px 15px;border-radius:999px;font-size:.79rem;
+  background:color-mix(in srgb,var(--c) 14%,var(--paper));
+  border:1.5px solid color-mix(in srgb,var(--c) 40%,transparent);
+  color:color-mix(in srgb,var(--c) 78%,var(--ink))}
 .links{display:flex;flex-wrap:wrap;gap:9px;list-style:none;margin:0;padding:0}
-.links a{display:inline-flex;align-items:center;gap:7px;padding:9px 18px;border-radius:999px;
-  text-decoration:none;font-size:.85rem;background:rgba(251,244,255,.05);
-  border:1px solid var(--line);transition:transform .25s,background .25s,border-color .25s}
+.links a{display:inline-flex;align-items:center;gap:7px;padding:9px 19px;border-radius:999px;
+  text-decoration:none;font-size:.85rem;background:var(--paper);
+  border:1.5px solid var(--rose-pale);box-shadow:0 6px 16px -10px rgba(255,111,165,.7);
+  transition:transform .25s,background .25s,border-color .25s,color .25s}
 .links a:hover,.links a:focus-visible{transform:translateY(-3px);
-  background:color-mix(in srgb,var(--c) 20%,transparent);border-color:var(--c)}
+  background:color-mix(in srgb,var(--c) 15%,var(--paper));border-color:var(--c);color:var(--c)}
 
 /* ── ギャラリー ───────────────────────────── */
 .tabs{display:flex;flex-wrap:wrap;justify-content:center;gap:9px;margin:0 0 26px;padding:0;list-style:none}
-.tab{padding:9px 20px;border-radius:999px;cursor:pointer;font-size:.87rem;
-  background:rgba(251,244,255,.05);border:1px solid var(--line);color:var(--moon);
-  transition:transform .22s,background .22s,border-color .22s}
-.tab:hover{transform:translateY(-2px)}
-.tab[aria-selected="true"]{background:linear-gradient(120deg,var(--pink),var(--lav));
-  color:#241A38;border-color:transparent;font-weight:700}
-.tab .n{opacity:.72;font-size:.78em;margin-left:5px}
+.tab{padding:9px 21px;border-radius:999px;cursor:pointer;font-size:.87rem;text-decoration:none;
+  background:var(--paper);border:1.5px solid var(--rose-pale);color:var(--ink);
+  box-shadow:0 6px 16px -12px rgba(255,111,165,.8);
+  transition:transform .22s,background .22s,border-color .22s,color .22s}
+.tab:hover{transform:translateY(-3px);border-color:var(--rose)}
+.tab[aria-selected="true"]{background:linear-gradient(120deg,var(--rose),var(--lav));
+  color:#fff;border-color:transparent;font-weight:700;box-shadow:var(--pop)}
+.tab .n{opacity:.75;font-size:.78em;margin-left:5px}
 
 .grid{columns:2 160px;column-gap:12px}
 @media(min-width:700px){.grid{columns:3 210px;column-gap:14px}}
 @media(min-width:1000px){.grid{columns:4 220px}}
-.card{break-inside:avoid;margin:0 0 12px;position:relative;border-radius:18px;overflow:hidden;
-  background:var(--card);border:1px solid var(--line);cursor:zoom-in;display:block;width:100%;padding:0;
+.card{break-inside:avoid;margin:0 0 12px;position:relative;border-radius:20px;overflow:hidden;
+  background:var(--paper);border:2px solid var(--rose-pale);cursor:zoom-in;display:block;
+  width:100%;padding:0;box-shadow:0 10px 24px -18px rgba(255,111,165,.9);
   transition:transform .3s,box-shadow .3s,border-color .3s;
   opacity:0;transform:translateY(14px);animation:pop .55s ease forwards}
 @keyframes pop{to{opacity:1;transform:none}}
-.card:hover,.card:focus-visible{transform:translateY(-5px);box-shadow:var(--glow);border-color:var(--lav)}
+.card:hover,.card:focus-visible{transform:translateY(-6px) rotate(-.6deg);
+  box-shadow:var(--pop);border-color:var(--rose)}
 .card img{width:100%;height:auto}
-.card .meta{position:absolute;inset:auto 0 0 0;padding:26px 12px 10px;text-align:left;
-  background:linear-gradient(to top,rgba(15,10,30,.94),transparent);
-  font-size:.76rem;line-height:1.55;color:var(--moon);
-  opacity:0;transition:opacity .3s}
+.card .meta{position:absolute;inset:auto 0 0 0;padding:30px 13px 11px;text-align:left;
+  background:linear-gradient(to top,rgba(92,59,80,.92),transparent);
+  font-size:.76rem;line-height:1.55;color:#fff;opacity:0;transition:opacity .3s}
 .card:hover .meta,.card:focus-visible .meta{opacity:1}
-.card .who{display:inline-block;padding:2px 9px;border-radius:999px;font-size:.68rem;
-  background:var(--c);color:#211A3C;margin-bottom:4px}
-.empty{text-align:center;color:var(--moon-dim);padding:44px 0;font-size:.92rem}
+.card .who{display:inline-block;padding:2px 10px;border-radius:999px;font-size:.68rem;
+  background:var(--c);color:#fff;margin-bottom:5px}
+.empty{text-align:center;color:var(--ink-dim);padding:44px 0;font-size:.92rem}
 
 /* 大きく見る */
 .viewer{position:fixed;inset:0;z-index:60;display:grid;place-items:center;padding:18px;
-  background:rgba(12,8,24,.93);backdrop-filter:blur(7px)}
+  background:rgba(92,59,80,.82);backdrop-filter:blur(8px)}
 .viewer[hidden]{display:none}
-.viewer img{max-width:min(96vw,1100px);max-height:80svh;border-radius:16px;box-shadow:var(--soft)}
-.viewer .cap{margin-top:14px;text-align:center;color:var(--moon-dim);font-size:.88rem}
-.viewer .x{position:absolute;top:14px;right:16px;width:44px;height:44px;border-radius:50%;
-  background:rgba(251,244,255,.12);border:1px solid var(--line);color:var(--moon);cursor:pointer;font-size:1.2rem}
-.viewer .nav{position:absolute;top:50%;transform:translateY(-50%);width:50px;height:50px;border-radius:50%;
-  background:rgba(251,244,255,.1);border:1px solid var(--line);color:var(--moon);cursor:pointer;font-size:1.3rem}
+.viewer img{max-width:min(96vw,1100px);max-height:80svh;border-radius:18px;
+  border:4px solid var(--paper);box-shadow:0 30px 70px -20px rgba(0,0,0,.6)}
+.viewer .cap{margin-top:14px;text-align:center;color:#FFE7F1;font-size:.88rem}
+.viewer .x,.viewer .nav{border-radius:50%;cursor:pointer;color:var(--rose);
+  background:var(--paper);border:2px solid var(--rose-pale);position:absolute}
+.viewer .x{top:14px;right:16px;width:46px;height:46px;font-size:1.2rem}
+.viewer .nav{top:50%;transform:translateY(-50%);width:52px;height:52px;font-size:1.4rem}
 .viewer .prev{left:14px}.viewer .next{right:14px}
 
 /* ── 置き場所 ─────────────────────────────── */
-.shelf{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:13px}
-.shelf a{display:block;padding:20px 22px;border-radius:20px;text-decoration:none;
-  background:var(--night-2);border:1px solid var(--line);
-  transition:transform .28s,background .28s,border-color .28s}
-.shelf a:hover,.shelf a:focus-visible{transform:translateY(-4px);background:var(--card);border-color:var(--lav)}
-.shelf .name{font-family:"Kiwi Maru",serif;font-size:1.04rem}
-.shelf .desc{display:block;color:var(--moon-dim);font-size:.79rem;margin-top:5px}
+.shelf{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:14px}
+.shelf a{display:block;padding:22px 24px;border-radius:22px;text-decoration:none;
+  background:var(--paper);border:2px solid var(--rose-pale);
+  box-shadow:0 10px 26px -20px rgba(255,111,165,.9);
+  transition:transform .28s,border-color .28s,box-shadow .28s}
+.shelf a:hover,.shelf a:focus-visible{transform:translateY(-5px);border-color:var(--rose);box-shadow:var(--pop)}
+.shelf .name{font-family:"Kiwi Maru",serif;font-size:1.05rem;color:var(--rose)}
+.shelf .desc{display:block;color:var(--ink-dim);font-size:.79rem;margin-top:5px}
 
-/* ── 🔞の扉 ───────────────────────────────── */
-.gate{padding:76px 0 100px;border-top:1px solid var(--line)}
-.door{border-radius:26px;padding:44px 26px;text-align:center;
-  border:1px solid rgba(255,143,176,.34);background:rgba(255,143,176,.07)}
-.door h2{margin:0 0 8px;font-size:1.35rem;color:var(--secret)}
-.door p{margin:0 auto 22px;max-width:26em;color:var(--moon-dim);font-size:.9rem}
+/* ── 🔞の扉。ここだけ夜 ───────────────────── */
+.gate{padding:74px 0 96px}
+.door{border-radius:28px;padding:46px 26px;text-align:center;
+  background:var(--night);color:var(--night-ink);box-shadow:var(--soft)}
+.door h2{margin:0 0 8px;font-size:1.4rem;color:var(--secret)}
+.door p{margin:0 auto 24px;max-width:26em;color:var(--night-dim);font-size:.9rem}
 .gate-btn{padding:13px 32px;border-radius:999px;cursor:pointer;font-size:.93rem;letter-spacing:.08em;
-  border:1px solid var(--secret);background:transparent;color:var(--secret);transition:background .25s,color .25s}
+  border:2px solid var(--secret);background:transparent;color:var(--secret);
+  transition:background .25s,color .25s}
 .gate-btn:hover{background:var(--secret);color:var(--night)}
-.gate-btn.ghost{border-color:var(--line);color:var(--moon-dim);font-size:.8rem;padding:9px 20px}
+.gate-btn.ghost{border-color:rgba(246,236,250,.3);color:var(--night-dim);font-size:.8rem;padding:9px 20px}
 #secret[hidden]{display:none}
-#secret{animation:open .6s ease both}
+#secret{animation:open .6s ease both;background:var(--night);color:var(--night-ink);
+  border-radius:28px;padding:36px 22px 34px;box-shadow:var(--soft)}
 @keyframes open{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+#secret .sec-head h2{color:var(--secret)}
+#secret .sec-head h2::before,#secret .sec-head h2::after{color:var(--secret)}
+#secret .sec-head p{color:var(--night-dim)}
+#secret .tab{background:var(--night-2);border-color:rgba(255,127,174,.34);color:var(--night-ink);box-shadow:none}
+#secret .tab[aria-selected="true"]{background:var(--secret);color:var(--night);border-color:transparent}
+#secret .card{background:var(--night-2);border-color:rgba(255,127,174,.3);box-shadow:none}
+#secret .card:hover{border-color:var(--secret)}
+#secret .empty{color:var(--night-dim)}
 
-footer{padding:44px 0 66px;border-top:1px solid var(--line);color:var(--moon-dim);font-size:.79rem;text-align:center}
+footer{padding:42px 0 66px;color:var(--ink-dim);font-size:.79rem;text-align:center}
 footer p{margin:0 0 6px}
+footer .heart{color:var(--rose)}
 
 @media(prefers-reduced-motion:reduce){
   *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
@@ -329,28 +356,28 @@ footer p{margin:0 0 6px}
     </div>
 
     <div id="secret" hidden>
-      <div class="sec-head" style="margin-top:8px">
-        <h2 style="color:var(--secret)">夜のほう</h2>
+      <div class="sec-head" style="margin-top:0">
+        <h2>夜のほう</h2>
         <p>誰も見ていない時間の、三人です。</p>
       </div>
       <ul class="tabs" id="ntabs" role="tablist"></ul>
       <div class="grid" id="ngrid"></div>
       <p class="empty" id="nempty" hidden>夜のほうの絵は、まだここにはありません。</p>
 
-      <div class="tabs" style="margin-top:30px">
-        <a class="tab" href="https://x.com/h_nemurihime">X（夜）</a>
-        <a class="tab" href="https://bsky.app/profile/himitunonemurihime.bsky.social">Bluesky（夜）</a>
-        <a class="tab" href="https://www.chichi-pui.com/users/nemurihime/">ちちぷい</a>
-        <a class="tab" href="https://www.pixiv.net/users/128342739">pixiv</a>
-      </div>
-      <p style="text-align:center;margin-top:22px">
+      <ul class="tabs" style="margin-top:30px">
+        <li><a class="tab" href="https://x.com/h_nemurihime">X（夜）</a></li>
+        <li><a class="tab" href="https://bsky.app/profile/himitunonemurihime.bsky.social">Bluesky（夜）</a></li>
+        <li><a class="tab" href="https://www.chichi-pui.com/users/nemurihime/">ちちぷい</a></li>
+        <li><a class="tab" href="https://www.pixiv.net/users/128342739">pixiv</a></li>
+      </ul>
+      <p style="text-align:center;margin:22px 0 0">
         <button class="gate-btn ghost" id="closeBtn" type="button">閉じる</button>
       </p>
     </div>
   </section>
 
   <footer>
-    <p>ひみつの眠り姫</p>
+    <p>ひみつの眠り姫 <span class="heart">♡</span></p>
     <p>掲載している絵はすべてAIで生成したものです。無断転載はご遠慮ください。</p>
     <p id="updated"></p>
   </footer>
@@ -370,32 +397,45 @@ footer p{margin:0 0 6px}
 <script>
 var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-/* ── 夜空。星と、ときどきハートと花びら ───────────── */
+/* ── ふわふわ。ハートと花びらとキラキラ ───────────── */
 (function(){
   var c=document.getElementById('sparkles'); if(!c) return;
-  var x=c.getContext('2d'), stars=[], fluff=[];
-  var TINT=['rgba(255,166,207,','rgba(201,167,245,','rgba(159,233,206,','rgba(255,215,154,'];
+  var x=c.getContext('2d'), dots=[], puffs=[];
+  var TINT=['rgba(255,111,165,','rgba(183,155,239,','rgba(255,193,94,','rgba(127,217,182,'];
+
+  function heart(g,px,py,s,fill){         // ちいさなハート
+    g.save(); g.translate(px,py); g.scale(s,s); g.beginPath();
+    g.moveTo(0,3);
+    g.bezierCurveTo(-4,-1.6,-4,-6.4,0,-4.4);
+    g.bezierCurveTo(4,-6.4,4,-1.6,0,3);
+    g.closePath(); g.fillStyle=fill; g.fill(); g.restore();
+  }
   function size(){ c.width=innerWidth; c.height=innerHeight; make(); }
   function make(){
-    stars=[]; fluff=[];
-    var n=Math.round(innerWidth*innerHeight/11000);
-    for(var i=0;i<n;i++) stars.push({x:Math.random()*c.width,y:Math.random()*c.height,
-      r:Math.random()*1.3+.25,a:Math.random()*.6+.18,s:Math.random()*.009+.002,
+    dots=[]; puffs=[];
+    var n=Math.round(innerWidth*innerHeight/13000);
+    for(var i=0;i<n;i++) dots.push({x:Math.random()*c.width,y:Math.random()*c.height,
+      r:Math.random()*1.5+.3,a:Math.random()*.42+.12,s:Math.random()*.009+.002,
       t:TINT[i%TINT.length]});
-    var m=Math.round(innerWidth/46);
-    for(var j=0;j<m;j++) fluff.push({x:Math.random()*c.width,y:Math.random()*c.height,
-      r:Math.random()*3.4+1.6,vy:-(Math.random()*.22+.07),vx:(Math.random()-.5)*.16,
-      a:Math.random()*.3+.1,t:TINT[j%TINT.length]});
+    var m=Math.round(innerWidth/42);
+    for(var j=0;j<m;j++) puffs.push({x:Math.random()*c.width,y:Math.random()*c.height,
+      s:Math.random()*1.5+.9,vy:-(Math.random()*.24+.08),vx:(Math.random()-.5)*.18,
+      a:Math.random()*.34+.12,spin:(Math.random()-.5)*.02,rot:Math.random()*6.3,
+      t:TINT[j%2===0?0:1], heart:(j%3!==0)});
   }
   function draw(t){
     x.clearRect(0,0,c.width,c.height);
-    for(var i=0;i<stars.length;i++){ var s=stars[i];
-      var a=REDUCE? s.a : s.a*(.6+.4*Math.sin(t*s.s+i));
-      x.beginPath(); x.arc(s.x,s.y,s.r,0,6.283); x.fillStyle=s.t+a.toFixed(3)+')'; x.fill(); }
-    for(var j=0;j<fluff.length;j++){ var f=fluff[j];
-      if(!REDUCE){ f.y+=f.vy; f.x+=f.vx+Math.sin((t/1400)+j)*.16;
-        if(f.y<-12){ f.y=c.height+12; f.x=Math.random()*c.width; } }
-      x.beginPath(); x.arc(f.x,f.y,f.r,0,6.283); x.fillStyle=f.t+f.a.toFixed(3)+')'; x.fill(); }
+    for(var i=0;i<dots.length;i++){ var d=dots[i];
+      var a=REDUCE? d.a : d.a*(.58+.42*Math.sin(t*d.s+i));
+      x.beginPath(); x.arc(d.x,d.y,d.r,0,6.283); x.fillStyle=d.t+a.toFixed(3)+')'; x.fill(); }
+    for(var j=0;j<puffs.length;j++){ var p=puffs[j];
+      if(!REDUCE){ p.y+=p.vy; p.x+=p.vx+Math.sin((t/1500)+j)*.18; p.rot+=p.spin;
+        if(p.y<-16){ p.y=c.height+16; p.x=Math.random()*c.width; } }
+      var col=p.t+p.a.toFixed(3)+')';
+      if(p.heart){ x.save(); x.translate(p.x,p.y); x.rotate(p.rot);
+        heart(x,0,0,p.s*1.7,col); x.restore(); }
+      else { x.beginPath(); x.arc(p.x,p.y,p.s*2.1,0,6.283); x.fillStyle=col; x.fill(); }
+    }
     if(!REDUCE) requestAnimationFrame(draw);
   }
   addEventListener('resize',size); size();
@@ -412,8 +452,8 @@ var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
     .then(function(r){ if(!r.ok) throw 0; return r.json(); })
     .then(function(d){ DATA=d; render(); })
     .catch(function(){
-      document.getElementById('gempty').hidden=false;
-      document.getElementById('gempty').textContent='絵の一覧を読み込めませんでした。';
+      var e=document.getElementById('gempty');
+      e.hidden=false; e.textContent='絵の一覧を読み込めませんでした。';
     });
 
   function shortOf(k){ return (DATA.chars[k]||{}).short || k; }
@@ -430,8 +470,7 @@ var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
       var b=document.createElement('button');
       b.className='tab'; b.type='button'; b.setAttribute('role','tab');
       b.setAttribute('aria-selected', idx===0 ? 'true':'false');
-      b.innerHTML=d.label+'<span class="n">'+d.n+'</span>';
-      if(d.k!=='all') b.style.setProperty('--c',CHAR_COLOR[d.k]);
+      b.innerHTML=esc(d.label)+'<span class="n">'+d.n+'</span>';
       b.addEventListener('click',function(){
         Array.prototype.forEach.call(tabsEl.querySelectorAll('.tab'),function(t){
           t.setAttribute('aria-selected','false'); });
@@ -458,7 +497,7 @@ var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
       img.width=it.w; img.height=it.h;
       var meta=document.createElement('span');
       meta.className='meta';
-      meta.innerHTML='<span class="who">'+shortOf(it.char)+'</span><br>'+esc(it.title);
+      meta.innerHTML='<span class="who">'+esc(shortOf(it.char))+'</span><br>'+esc(it.title);
       b.appendChild(img); b.appendChild(meta);
       b.addEventListener('click',function(){ view=list; open(idx); });
       gridEl.appendChild(b);

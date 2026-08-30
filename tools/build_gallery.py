@@ -103,22 +103,55 @@ def read_post(folder):
     return body, (d.group(1) if d else "")
 
 
-def caption(body, folder):
-    """一覧に出す短い言葉。本文の最初の中身のある行を使う。"""
-    for line in (body or "").splitlines():
-        s = line.strip()
-        if not s or s.startswith("#"):
-            continue
-        if re.fullmatch(r"(リリア|セフィリア|ティルナ)です[。．!！]?", norm(s)):
-            continue
-        s = re.sub(r"\s*#\S+", "", s).strip()
-        if len(s) >= 4:
-            return s[:60]
-    # 本文が無ければフォルダ名から場面を作る
-    f = re.sub(r"^\d+_\d{3,4}_", "", folder)
-    f = re.sub(r"^(Threads|Bluesky|X)_", "", f)
-    f = re.sub(r"_(lilia|sefi|tiru|リリア|セフィリア|ティルナ)(_\d+)?$", "", f)
-    return f.replace("_", " ").strip()[:60] or "無題"
+PLANS = r"C:\ClaudeCode\aibs-ops\scripts\sns\_plans"
+_scene_map = None
+
+
+def scene_map():
+    """フォルダ名は長さで切られている。計画JSONの label→scene で元に戻す。"""
+    global _scene_map
+    if _scene_map is not None:
+        return _scene_map
+    _scene_map = {}
+    for cur, _d, files in os.walk(PLANS):
+        for f in files:
+            if not f.endswith(".json"):
+                continue
+            try:
+                doc = json.load(io.open(os.path.join(cur, f), encoding="utf-8"))
+            except Exception:
+                continue
+            if isinstance(doc, list):                     # 形の違うJSONが混ざっている
+                continue
+            for p in doc.get("posts", []):
+                if not isinstance(p, dict):
+                    continue
+                lab, sc = (p.get("label") or "").strip(), (p.get("scene") or "").strip()
+                if lab and sc and lab != sc:
+                    _scene_map[lab] = sc
+    return _scene_map
+
+
+def caption(folder):
+    """一覧に出す短い言葉。**フォルダ名の場面**だけから作る。
+
+    🚨投稿文の本文は使わない（るぴちゃん指示 2026-08-31＝
+      「投稿文のセリフは投稿時に変えていたりするので使わない」）。
+    """
+    f = re.sub(r"^\d+[_\-]\d{3,4}[_\-]", "", folder)      # 先頭の「3_2130_」
+    f = re.sub(r"^(投稿|予約)?[#＃]?", lambda m: "#" if "#" in m.group(0) or "＃" in m.group(0) else "", f, count=1)
+    while True:                                            # 「Threads_Bluesky_」
+        n = re.sub(r"^(Threads|Bluesky|X|Discord)[_\-]", "", f)
+        if n == f:
+            break
+        f = n
+    f = re.sub(r"[_\-](lilia|sefi|tiru|リリア|セフィリア|ティルナ)(_\d+)?$", "", f, flags=re.I)
+    f = re.sub(r"^\d{4}-\d{2}-\d{2}[_\-]", "", f)
+    f = f.replace("_", " ").strip()
+    full = scene_map().get(f)                              # 切られた名前を元に戻す
+    if full:
+        f = full
+    return f[:60] or "無題"
 
 
 def date_of(path, fallback):
@@ -153,8 +186,7 @@ def collect():
                 p = os.path.join(cur, f)
                 out.append(dict(
                     src=p, char=key, nsfw=is_r18,
-                    title=caption(body, base),
-                    body=(body or "").strip(),
+                    title=caption(base),
                     date=date_of(cur, day),
                     folder=base, no=i,
                 ))
