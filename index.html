@@ -164,9 +164,10 @@ button{font:inherit;color:inherit}
   color:#fff;border-color:transparent;font-weight:700;box-shadow:var(--pop)}
 .tab .n{opacity:.75;font-size:.78em;margin-left:5px}
 
-.grid{columns:2 160px;column-gap:12px}
-@media(min-width:700px){.grid{columns:3 210px;column-gap:14px}}
-@media(min-width:1000px){.grid{columns:4 220px}}
+/* 狭い画面でも必ず2列。最小幅を上げると1列に落ちるので低めにしてある */
+.grid{columns:2 118px;column-gap:11px}
+@media(min-width:700px){.grid{columns:3 200px;column-gap:14px}}
+@media(min-width:1000px){.grid{columns:4 215px}}
 .card{break-inside:avoid;margin:0 0 12px;position:relative;border-radius:20px;overflow:hidden;
   background:var(--paper);border:2px solid var(--rose-pale);cursor:zoom-in;display:block;
   width:100%;padding:0;box-shadow:0 10px 24px -18px rgba(255,111,165,.9);
