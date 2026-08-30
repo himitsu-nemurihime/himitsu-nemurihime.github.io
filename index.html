@@ -231,6 +231,13 @@ button{font:inherit;color:inherit}
 #secret .card{background:var(--night-2);border-color:rgba(255,127,174,.3);box-shadow:none}
 #secret .card:hover{border-color:var(--secret)}
 #secret .empty{color:var(--night-dim)}
+/* その先は外のサイトへ、という案内 */
+.beyond{margin-top:30px;padding:26px 22px;border-radius:22px;text-align:center;
+  background:var(--night-2);border:1px solid rgba(255,127,174,.3)}
+.beyond-lead{margin:0 0 18px;color:var(--night-dim);font-size:.9rem;line-height:1.85}
+.beyond-lead b{color:var(--secret);font-weight:700}
+#secret .tab.strong{background:var(--secret);color:var(--night);border-color:transparent;font-weight:700}
+#secret .tab.strong:hover{filter:brightness(1.08)}
 
 footer{padding:42px 0 66px;color:var(--ink-dim);font-size:.79rem;text-align:center}
 footer p{margin:0 0 6px}
@@ -365,11 +372,18 @@ footer .heart{color:var(--rose)}
       <div class="grid" id="ngrid"></div>
       <p class="empty" id="nempty" hidden>夜のほうの絵は、まだここにはありません。</p>
 
-      <ul class="tabs" style="margin-top:30px">
+      <div class="beyond">
+        <p class="beyond-lead">ここに出しているのは、<b>控えめなものだけ</b>です。<br>
+          その先の絵は、こちらに置いています。<span id="heldnote"></span></p>
+        <ul class="tabs" style="margin:0">
+          <li><a class="tab strong" href="https://www.chichi-pui.com/users/nemurihime/">ちちぷいで見る</a></li>
+          <li><a class="tab strong" href="https://www.pixiv.net/users/128342739">pixivで見る</a></li>
+        </ul>
+      </div>
+
+      <ul class="tabs" style="margin-top:22px">
         <li><a class="tab" href="https://x.com/h_nemurihime">X（夜）</a></li>
         <li><a class="tab" href="https://bsky.app/profile/himitunonemurihime.bsky.social">Bluesky（夜）</a></li>
-        <li><a class="tab" href="https://www.chichi-pui.com/users/nemurihime/">ちちぷい</a></li>
-        <li><a class="tab" href="https://www.pixiv.net/users/128342739">pixiv</a></li>
       </ul>
       <p style="text-align:center;margin:22px 0 0">
         <button class="gate-btn ghost" id="closeBtn" type="button">閉じる</button>
@@ -518,6 +532,8 @@ var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
     document.getElementById('gcount').textContent='いまは '+n+' 枚。';
     build('nsfw',document.getElementById('ntabs'),
           document.getElementById('ngrid'),document.getElementById('nempty'));
+    if(DATA.held>0) document.getElementById('heldnote').textContent=
+      '（いまのところ '+DATA.held+' 枚）';
     if(DATA.updated) document.getElementById('updated').textContent='さいごの絵：'+DATA.updated;
   }
 

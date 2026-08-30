@@ -103,8 +103,18 @@ def read_post(folder):
     return body, (d.group(1) if d else "")
 
 
-PLANS = r"C:\ClaudeCode\aibs-ops\scripts\sns\_plans"
+SNS = r"C:\ClaudeCode\aibs-ops\scripts\sns"
+PLANS = os.path.join(SNS, "_plans")
+PLANS_SITES = os.path.join(SNS, "_plans_sites")
+
+# 🚨🔞ここが「どこまで載せるか」の線（るぴちゃん決定 2026-08-31）＝
+#   「**Level1までに絞ってGitHubに置いて、それ以上はちちぷい/pixivへ導線だけ**」。
+#   GitHubの利用規約は性的にわいせつな内容を禁じているので、Level2/3は**置かない**。
+#   Levelが引けなかった絵も**載せない**（安全側に倒す）。
+MAX_NSFW_LEVEL = 1
+
 _scene_map = None
+_level_map = None
 
 
 def scene_map():
@@ -130,6 +140,57 @@ def scene_map():
                 if lab and sc and lab != sc:
                     _scene_map[lab] = sc
     return _scene_map
+
+
+def level_map():
+    """枠の名前 → Level。定時は `label`／`scene`、イベントは `tag` で引ける。
+
+    同じ名前に複数のLevelがぶら下がったら**高いほうを採る**（安全側）。
+    """
+    global _level_map
+    if _level_map is not None:
+        return _level_map
+    _level_map = {}
+
+    def put(key, lv):
+        key = (key or "").strip()
+        if not key or lv is None:
+            return
+        try:
+            lv = int(lv)
+        except (TypeError, ValueError):
+            return
+        _level_map[key] = max(_level_map.get(key, -1), lv)
+
+    for root in (PLANS, PLANS_SITES):
+        for cur, _d, files in os.walk(root):
+            for f in files:
+                if not f.endswith(".json"):
+                    continue
+                try:
+                    doc = json.load(io.open(os.path.join(cur, f), encoding="utf-8"))
+                except Exception:
+                    continue
+                if not isinstance(doc, dict):
+                    continue
+                for k in ("posts", "events"):
+                    for e in (doc.get(k) or []):
+                        if not isinstance(e, dict):
+                            continue
+                        lv = e.get("level")
+                        for key in (e.get("label"), e.get("scene"), e.get("tag")):
+                            put(key, lv)
+    return _level_map
+
+
+def level_of(title, folder):
+    """その絵のLevel。分からなければ None。"""
+    m = level_map()
+    for key in (title, folder, re.sub(r"[_\-](lilia|sefi|tiru|リリア|セフィリア|ティルナ)(_\d+)?$",
+                                      "", folder, flags=re.I)):
+        if key and key.strip() in m:
+            return m[key.strip()]
+    return None
 
 
 def caption(folder):
@@ -159,8 +220,32 @@ def date_of(path, fallback):
     return "-".join(m.groups()) if m else fallback
 
 
+def sha_of(path):
+    with io.open(path, "rb") as fh:
+        return hashlib.sha1(fh.read()).hexdigest()[:12]
+
+
+def known_levels():
+    """前に出した目録に残っているLevel。
+
+    🚨計画JSONは古いものが消える。そのとき Level が引けなくなって、
+    　 **一度載せた絵が次のビルドで消えてしまう**。前回の判定を覚えておく。
+    """
+    p = os.path.join(DATA, "gallery.json")
+    if not os.path.exists(p):
+        return {}
+    try:
+        doc = json.load(io.open(p, encoding="utf-8"))
+    except Exception:
+        return {}
+    return {e["id"]: e["level"] for e in doc.get("items", [])
+            if isinstance(e, dict) and e.get("level") is not None}
+
+
 def collect():
     out = []
+    held = []                      # 🔞Level2以上＝サイトには置かず、外部への導線だけにする
+    prev = known_levels()
     for folder_name, is_r18 in SOURCES:
         root = os.path.join(REVIEW, folder_name, "✅済み")
         if not os.path.isdir(root):
@@ -182,21 +267,36 @@ def collect():
             if key is None:
                 print("[skip] キャラが分からない:", base)
                 continue
+            title = caption(base)
+            lv = level_of(title, base) if is_r18 else None
             for i, f in enumerate(pics, 1):
-                p = os.path.join(cur, f)
+                src = os.path.join(cur, f)
+                this = lv
+                if is_r18:
+                    if this is None:                       # 計画JSONが消えていたら前回の判定
+                        this = prev.get(sha_of(src))
+                    # 🚨🔞Level2以上と、**分からないもの**はサイトに置かない
+                    if this is None or this > MAX_NSFW_LEVEL:
+                        held.append((base, "Level%s" % ("不明" if this is None else this), 1))
+                        continue
                 out.append(dict(
-                    src=p, char=key, nsfw=is_r18,
-                    title=caption(base),
-                    date=date_of(cur, day),
-                    folder=base, no=i,
+                    src=src, char=key, nsfw=is_r18, level=this,
+                    title=title, date=date_of(cur, day), folder=base, no=i,
                 ))
-    return out
+    if held:
+        n = sum(x[2] for x in held)
+        print("🔞サイトに置かなかった: %d枠 %d枚（Level%d超・または不明）"
+              % (len(held), n, MAX_NSFW_LEVEL))
+        for b, why, c in held[:10]:
+            print("   ", why, b[:46], "(%d枚)" % c)
+        if len(held) > 10:
+            print("    ほか %d枠" % (len(held) - 10))
+    return out, sum(x[2] for x in held)
 
 
 def convert(item, force=False):
     """webpを作って、相対パスと寸法を返す。"""
-    with io.open(item["src"], "rb") as fh:
-        h = hashlib.sha1(fh.read()).hexdigest()[:12]
+    h = sha_of(item["src"])
     zone = "nsfw" if item["nsfw"] else "sfw"
     d = os.path.join(IMG, zone, item["char"])
     os.makedirs(d, exist_ok=True)
@@ -221,7 +321,7 @@ def main():
     ap.add_argument("--dry", action="store_true", help="書かずに数える")
     a = ap.parse_args()
 
-    items = collect()
+    items, held = collect()
     print("見つけた絵:", len(items), "枚")
     if a.dry:
         for it in items[:200]:
@@ -240,6 +340,7 @@ def main():
             continue
         seen.add(hid)
         entries.append(dict(id=hid, char=it["char"], nsfw=it["nsfw"],
+                            level=it.get("level"),
                             title=it["title"], date=it["date"],
                             src=full, thumb=thumb, w=w, h=h))
 
@@ -253,6 +354,8 @@ def main():
         updated=max([e["date"] for e in entries] or [""]),
         chars={k: v for k, v in CHARS.items()},
         counts=counts,
+        max_nsfw_level=MAX_NSFW_LEVEL,
+        held=held,                 # サイトに置かなかった枚数（外部への導線に添える）
         items=entries,
     )
     io.open(os.path.join(DATA, "gallery.json"), "w", encoding="utf-8").write(
