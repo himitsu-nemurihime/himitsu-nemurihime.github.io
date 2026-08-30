@@ -477,6 +477,10 @@ var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
           t.setAttribute('aria-selected','false'); });
         b.setAttribute('aria-selected','true');
         paint(all, d.k, gridEl, emptyEl);
+        // 枚数が変わるとページの高さが変わって、いま見ていた場所からずれる。
+        // タブの位置に戻してあげる。
+        var top=tabsEl.getBoundingClientRect().top;
+        if(top<0 || top>innerHeight*.5) tabsEl.scrollIntoView({block:'center'});
       });
       li.appendChild(b); tabsEl.appendChild(li);
     });
