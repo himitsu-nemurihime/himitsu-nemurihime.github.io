@@ -18,6 +18,7 @@
 消えた絵はJSONから外れ、webpも掃除する（--keep で残せる）。
 """
 import argparse
+import datetime
 import hashlib
 import io
 import json
@@ -44,6 +45,31 @@ SOURCES = [
 SHIPPED = ("投稿済み", "送信済み", "完了")
 # 拾わない枝
 SKIP = ("_旧", "手の拡大", "未使用", "見送り", "振り分け直し前", "定時にまわした")
+
+# 🚨2026-09-02 るぴちゃん決定（B案）＝**「予約済み」も、その日が過ぎていれば拾う**。
+#   きっかけ＝`✅済み\定時_予約済み\` に入った絵は、投稿が終わってもそこから動かないため、
+#   **8/11〜8/21 に出した絵がサイトに1枚も載っていなかった**（2026-09-02に発覚）。
+#   ただし**まだ出していない絵をサイトに先出ししない**よう、日付が今日以降のものは拾わない
+#   （例＝9/2に9/3ぶんを出荷しても、9/3になるまでは載らない）。
+BOOKED = "予約済み"
+
+
+def booked_day_passed(rel: str, today) -> bool:
+    """「予約済み」の枝で、フォルダ名の日付が**昨日まで**なら True。
+
+    パスは `定時_予約済み\\2026-08-19\\1_0930_..._lilia` のような形。
+    日付フォルダは `2026-08-19_リリア` のように後ろが付くことがある。
+    """
+    if BOOKED not in rel:
+        return False
+    m = re.search(r"(\d{4})-(\d{2})-(\d{2})", rel)
+    if not m:
+        return False
+    try:
+        d = datetime.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+    except ValueError:
+        return False
+    return d < today
 
 CHARS = {
     "lilia": dict(name="リリア・ノワール", short="リリア", color="#C9D3E8"),
@@ -256,7 +282,9 @@ def collect():
             if any(s in cur for s in SKIP):
                 dirs[:] = []
                 continue
-            if not any(s in rel for s in SHIPPED):
+            # 「投稿済み/送信済み/完了」か、「予約済みで日付が過ぎたもの」を拾う
+            if not (any(s in rel for s in SHIPPED)
+                    or booked_day_passed(rel, datetime.date.today())):
                 continue
             pics = sorted(f for f in files if f.lower().endswith(".png"))
             if not pics:
