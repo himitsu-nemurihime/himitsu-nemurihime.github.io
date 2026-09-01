@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>これまでの絵｜ひみつの眠り姫</title>
+<meta name="description" content="ひみつの眠り姫の、これまでの絵をぜんぶ並べています。リリア・セフィリア・ティルナのキャラクター別に見られます。">
+<meta property="og:title" content="これまでの絵｜ひみつの眠り姫">
+<meta property="og:description" content="三人ぶんの絵を、ぜんぶここに置いています。">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://himitsu-nemurihime.github.io/img/lilia_room.webp">
+<meta name="theme-color" content="#FFF3F8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500&family=Zen+Maru+Gothic:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%F0%9F%8E%80%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="sky"></div>
+
+<main class="wrap">
+
+  <!-- これまでの絵（全件） -->
+  <section class="sec" id="gallery">
+    <div class="sec-head">
+      <h2>これまでの絵</h2>
+      <p>投稿したものを、ぜんぶここに置いています。<span id="gcount"></span></p>
+    </div>
+    <ul class="tabs" id="tabs" role="tablist"></ul>
+    <!-- 🚨data-limit を付けていない＝全件を出す（トップは12枚だけ・2026-09-01） -->
+    <div class="grid" id="grid"></div>
+    <p class="empty" id="gempty" hidden>まだ絵がありません。</p>
+
+    <p style="text-align:center;margin:34px 0 0">
+      <a class="gate-btn ghost" href="index.html">部屋に戻る</a>
+    </p>
+  </section>
+
+</main>
+
+<!-- 大きく見る（🚨index.html と同じ構造・同じidにすること。gallery.js が id で引いている） -->
+<div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-label="大きく見る">
+  <button class="x" id="vx" type="button" aria-label="閉じる">✕</button>
+  <button class="nav prev" id="vprev" type="button" aria-label="前へ">‹</button>
+  <button class="nav next" id="vnext" type="button" aria-label="次へ">›</button>
+  <div>
+    <img id="vimg" src="" alt="">
+    <p class="cap" id="vcap"></p>
+  </div>
+</div>
+
+<script src="assets/gallery.js"></script>
+</body>
+</html>

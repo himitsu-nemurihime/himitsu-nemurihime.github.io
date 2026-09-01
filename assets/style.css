@@ -1,0 +1,236 @@
+/* ひみつの眠り姫サイト 共通スタイル
+   🚨2026-09-01：index.html のインライン <style> を切り出した。
+   ギャラリー専用ページ(gallery.html)と共有するため。
+   直すときは両方のページに効くことを忘れないこと。 */
+:root{
+  /* ぜんぶピンク寄り。白は使わず、いつも少し桜色 */
+  --bg:#FFF3F8;
+  --bg-2:#FFE9F3;
+  --paper:#FFFDFE;
+  --ink:#5C3B50;
+  --ink-dim:#A3809A;
+  /* 主役 */
+  --rose:#FF6FA5;
+  --rose-soft:#FFA8CC;
+  --rose-pale:#FFD9E8;
+  /* 添え色 */
+  --lav:#B79BEF;
+  --mint:#7FD9B6;
+  --gold:#FFC15E;
+  /* 三人の色（ピンクの上でも読める濃さに） */
+  --lilia:#8FA3E0;
+  --sefi:#E0A32E;
+  --tiru:#49B98A;
+  --line:rgba(255,111,165,.18);
+  --soft:0 16px 38px -18px rgba(255,111,165,.55);
+  --pop:0 20px 44px -16px rgba(255,111,165,.7);
+  /* 夜のほう（ここだけ暗い） */
+  --night:#241832;
+  --night-2:#2E1F3E;
+  --night-ink:#F6ECFA;
+  --night-dim:#B9A3C7;
+  --secret:#FF7FAE;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Zen Maru Gothic",system-ui,sans-serif;
+  font-size:16px;line-height:1.95;overflow-x:hidden;-webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,.maru{font-family:"Kiwi Maru",serif;font-weight:500;text-wrap:balance;letter-spacing:.04em}
+a{color:inherit}
+img{max-width:100%;display:block}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--rose);outline-offset:3px;border-radius:10px}
+
+/* ── 背景（やわらかい光と、ふわふわ） ─────────── */
+.sky{position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:
+    radial-gradient(1200px 760px at 82% -12%, rgba(255,168,204,.55), transparent 62%),
+    radial-gradient(980px 700px at 6% 2%,    rgba(183,155,239,.34), transparent 60%),
+    radial-gradient(900px 640px at 50% 104%, rgba(127,217,182,.24), transparent 62%);
+}
+#sparkles{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1120px;margin:0 auto;padding:0 22px}
+
+/* ── ヒーロー ─────────────────────────────── */
+.hero{min-height:94svh;display:flex;flex-direction:column;justify-content:center;gap:28px;padding:70px 0 52px;text-align:center}
+.hero .eyebrow{margin:0;font-size:.72rem;letter-spacing:.4em;color:var(--rose)}
+.hero h1{
+  margin:0;font-size:clamp(2.5rem,8.2vw,4.9rem);line-height:1.28;
+  background:linear-gradient(100deg,var(--rose) 0%,var(--lav) 46%,var(--rose-soft) 78%,var(--gold) 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+  filter:drop-shadow(0 8px 22px rgba(255,111,165,.35));
+}
+.hero .sub{display:block;margin-top:1.15em;font-size:.25em;letter-spacing:.24em;
+  color:var(--ink-dim);-webkit-text-fill-color:var(--ink-dim)}
+.lead{max-width:32em;margin:0 auto;color:var(--ink-dim);font-size:1rem}
+
+/* 三人の丸アイコン。ふわふわ浮く */
+.avatars{display:flex;justify-content:center;gap:clamp(14px,4vw,40px);margin:0;padding:0;list-style:none}
+.avatars a{display:block;text-decoration:none;text-align:center;
+  animation:float 5.5s ease-in-out infinite;transition:transform .3s}
+.avatars li:nth-child(2) a{animation-delay:-1.8s}
+.avatars li:nth-child(3) a{animation-delay:-3.6s}
+.avatars a:hover,.avatars a:focus-visible{transform:translateY(-9px) scale(1.06)}
+.avatars .ring{
+  display:block;width:clamp(92px,23vw,138px);aspect-ratio:1;border-radius:50%;padding:4px;
+  background:linear-gradient(140deg,var(--rose),var(--lav),var(--rose-soft));
+  box-shadow:0 16px 32px -14px rgba(255,111,165,.8);
+}
+.avatars img{width:100%;height:100%;border-radius:50%;object-fit:cover;object-position:50% 20%;
+  border:3px solid var(--paper)}
+.avatars .cap{display:block;margin-top:12px;font-family:"Kiwi Maru",serif;font-size:.88rem;letter-spacing:.06em}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-11px)}}
+
+.scroll-hint{color:var(--rose);font-size:.78rem;letter-spacing:.22em;margin:0}
+.scroll-hint span{display:inline-block;animation:bob 1.9s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
+
+/* ── 見出し ───────────────────────────────── */
+.sec{padding:74px 0}
+.sec-head{text-align:center;margin-bottom:36px}
+.sec-head h2{margin:0 0 8px;font-size:clamp(1.5rem,4vw,2.15rem);color:var(--ink)}
+.sec-head h2::before{content:"♡ ";color:var(--rose);font-size:.78em}
+.sec-head h2::after{content:" ♡";color:var(--rose);font-size:.78em}
+.sec-head p{margin:0;color:var(--ink-dim);font-size:.92rem}
+.wave{display:block;width:78px;height:auto;margin:0 auto 28px;color:var(--rose-soft)}
+
+/* ── 部屋（キャラ紹介） ───────────────────── */
+.room{padding:54px 0}
+.room-grid{display:grid;grid-template-columns:1fr;gap:30px;align-items:center}
+@media(min-width:880px){
+  .room-grid{grid-template-columns:.92fr 1.08fr;gap:50px}
+  .room.flip .room-art{order:2}
+}
+.room-art{position:relative;border-radius:28px;padding:5px;box-shadow:var(--soft);
+  background:linear-gradient(150deg,var(--c),var(--rose-soft) 60%,var(--lav));
+  transition:transform .4s}
+.room-art:hover{transform:rotate(-1.1deg) scale(1.014)}
+.room-art img{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:24px}
+.room-art .sticker{
+  position:absolute;top:-15px;left:-8px;padding:8px 18px;border-radius:999px;
+  background:var(--paper);color:var(--c);font-family:"Kiwi Maru",serif;font-size:.82rem;
+  letter-spacing:.08em;box-shadow:0 10px 22px -10px rgba(255,111,165,.8);
+  transform:rotate(-4deg);border:2px solid var(--c);
+}
+.bubble{
+  position:relative;display:inline-block;margin:0 0 20px;padding:15px 22px;border-radius:22px;
+  background:var(--paper);border:2px solid var(--rose-pale);box-shadow:var(--soft);
+  font-family:"Kiwi Maru",serif;font-size:1rem;color:var(--ink);
+}
+.bubble::after,.bubble::before{content:"";position:absolute;left:28px;bottom:-11px;
+  width:18px;height:18px;background:var(--paper);
+  border-right:2px solid var(--rose-pale);border-bottom:2px solid var(--rose-pale);
+  transform:rotate(45deg)}
+.room h3{margin:0 0 2px;font-size:clamp(1.45rem,3.4vw,2rem);color:var(--c)}
+.room .ruby{margin:0 0 16px;font-size:.76rem;letter-spacing:.2em;color:var(--ink-dim)}
+.room p.about{margin:0 0 20px;color:var(--ink-dim);max-width:30em}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px;padding:0;list-style:none}
+.chips li{padding:5px 15px;border-radius:999px;font-size:.79rem;
+  background:color-mix(in srgb,var(--c) 14%,var(--paper));
+  border:1.5px solid color-mix(in srgb,var(--c) 40%,transparent);
+  color:color-mix(in srgb,var(--c) 78%,var(--ink))}
+.links{display:flex;flex-wrap:wrap;gap:9px;list-style:none;margin:0;padding:0}
+.links a{display:inline-flex;align-items:center;gap:7px;padding:9px 19px;border-radius:999px;
+  text-decoration:none;font-size:.85rem;background:var(--paper);
+  border:1.5px solid var(--rose-pale);box-shadow:0 6px 16px -10px rgba(255,111,165,.7);
+  transition:transform .25s,background .25s,border-color .25s,color .25s}
+.links a:hover,.links a:focus-visible{transform:translateY(-3px);
+  background:color-mix(in srgb,var(--c) 15%,var(--paper));border-color:var(--c);color:var(--c)}
+
+/* ── ギャラリー ───────────────────────────── */
+.tabs{display:flex;flex-wrap:wrap;justify-content:center;gap:9px;margin:0 0 26px;padding:0;list-style:none}
+.tab{padding:9px 21px;border-radius:999px;cursor:pointer;font-size:.87rem;text-decoration:none;
+  background:var(--paper);border:1.5px solid var(--rose-pale);color:var(--ink);
+  box-shadow:0 6px 16px -12px rgba(255,111,165,.8);
+  transition:transform .22s,background .22s,border-color .22s,color .22s}
+.tab:hover{transform:translateY(-3px);border-color:var(--rose)}
+.tab[aria-selected="true"]{background:linear-gradient(120deg,var(--rose),var(--lav));
+  color:#fff;border-color:transparent;font-weight:700;box-shadow:var(--pop)}
+.tab .n{opacity:.75;font-size:.78em;margin-left:5px}
+
+/* 狭い画面でも必ず2列。最小幅を上げると1列に落ちるので低めにしてある */
+.grid{columns:2 118px;column-gap:11px}
+@media(min-width:700px){.grid{columns:3 200px;column-gap:14px}}
+@media(min-width:1000px){.grid{columns:4 215px}}
+.card{break-inside:avoid;margin:0 0 12px;position:relative;border-radius:20px;overflow:hidden;
+  background:var(--paper);border:2px solid var(--rose-pale);cursor:zoom-in;display:block;
+  width:100%;padding:0;box-shadow:0 10px 24px -18px rgba(255,111,165,.9);
+  transition:transform .3s,box-shadow .3s,border-color .3s;
+  opacity:0;transform:translateY(14px);animation:pop .55s ease forwards}
+@keyframes pop{to{opacity:1;transform:none}}
+.card:hover,.card:focus-visible{transform:translateY(-6px) rotate(-.6deg);
+  box-shadow:var(--pop);border-color:var(--rose)}
+.card img{width:100%;height:auto}
+.card .meta{position:absolute;inset:auto 0 0 0;padding:30px 13px 11px;text-align:left;
+  background:linear-gradient(to top,rgba(92,59,80,.92),transparent);
+  font-size:.76rem;line-height:1.55;color:#fff;opacity:0;transition:opacity .3s}
+.card:hover .meta,.card:focus-visible .meta{opacity:1}
+.card .who{display:inline-block;padding:2px 10px;border-radius:999px;font-size:.68rem;
+  background:var(--c);color:#fff;margin-bottom:5px}
+.empty{text-align:center;color:var(--ink-dim);padding:44px 0;font-size:.92rem}
+
+/* 大きく見る */
+.viewer{position:fixed;inset:0;z-index:60;display:grid;place-items:center;padding:18px;
+  background:rgba(92,59,80,.82);backdrop-filter:blur(8px)}
+.viewer[hidden]{display:none}
+.viewer img{max-width:min(96vw,1100px);max-height:80svh;border-radius:18px;
+  border:4px solid var(--paper);box-shadow:0 30px 70px -20px rgba(0,0,0,.6)}
+.viewer .cap{margin-top:14px;text-align:center;color:#FFE7F1;font-size:.88rem}
+.viewer .x,.viewer .nav{border-radius:50%;cursor:pointer;color:var(--rose);
+  background:var(--paper);border:2px solid var(--rose-pale);position:absolute}
+.viewer .x{top:14px;right:16px;width:46px;height:46px;font-size:1.2rem}
+.viewer .nav{top:50%;transform:translateY(-50%);width:52px;height:52px;font-size:1.4rem}
+.viewer .prev{left:14px}.viewer .next{right:14px}
+
+/* ── 置き場所 ─────────────────────────────── */
+.shelf{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:14px}
+.shelf a{display:block;padding:22px 24px;border-radius:22px;text-decoration:none;
+  background:var(--paper);border:2px solid var(--rose-pale);
+  box-shadow:0 10px 26px -20px rgba(255,111,165,.9);
+  transition:transform .28s,border-color .28s,box-shadow .28s}
+.shelf a:hover,.shelf a:focus-visible{transform:translateY(-5px);border-color:var(--rose);box-shadow:var(--pop)}
+.shelf .name{font-family:"Kiwi Maru",serif;font-size:1.05rem;color:var(--rose)}
+.shelf .desc{display:block;color:var(--ink-dim);font-size:.79rem;margin-top:5px}
+
+/* ── 🔞の扉。ここだけ夜 ───────────────────── */
+.gate{padding:74px 0 96px}
+.door{border-radius:28px;padding:46px 26px;text-align:center;
+  background:var(--night);color:var(--night-ink);box-shadow:var(--soft)}
+.door h2{margin:0 0 8px;font-size:1.4rem;color:var(--secret)}
+.door p{margin:0 auto 24px;max-width:26em;color:var(--night-dim);font-size:.9rem}
+.gate-btn{padding:13px 32px;border-radius:999px;cursor:pointer;font-size:.93rem;letter-spacing:.08em;
+  border:2px solid var(--secret);background:transparent;color:var(--secret);
+  transition:background .25s,color .25s}
+.gate-btn:hover{background:var(--secret);color:var(--night)}
+.gate-btn.ghost{border-color:rgba(246,236,250,.3);color:var(--night-dim);font-size:.8rem;padding:9px 20px}
+#secret[hidden]{display:none}
+#secret{animation:open .6s ease both;background:var(--night);color:var(--night-ink);
+  border-radius:28px;padding:36px 22px 34px;box-shadow:var(--soft)}
+@keyframes open{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+#secret .sec-head h2{color:var(--secret)}
+#secret .sec-head h2::before,#secret .sec-head h2::after{color:var(--secret)}
+#secret .sec-head p{color:var(--night-dim)}
+#secret .tab{background:var(--night-2);border-color:rgba(255,127,174,.34);color:var(--night-ink);box-shadow:none}
+#secret .tab[aria-selected="true"]{background:var(--secret);color:var(--night);border-color:transparent}
+#secret .card{background:var(--night-2);border-color:rgba(255,127,174,.3);box-shadow:none}
+#secret .card:hover{border-color:var(--secret)}
+#secret .empty{color:var(--night-dim)}
+/* その先は外のサイトへ、という案内 */
+.beyond{margin-top:30px;padding:26px 22px;border-radius:22px;text-align:center;
+  background:var(--night-2);border:1px solid rgba(255,127,174,.3)}
+.beyond-lead{margin:0 0 18px;color:var(--night-dim);font-size:.9rem;line-height:1.85}
+.beyond-lead b{color:var(--secret);font-weight:700}
+#secret .tab.strong{background:var(--secret);color:var(--night);border-color:transparent;font-weight:700}
+#secret .tab.strong:hover{filter:brightness(1.08)}
+
+footer{padding:42px 0 66px;color:var(--ink-dim);font-size:.79rem;text-align:center}
+footer p{margin:0 0 6px}
+footer .heart{color:var(--rose)}
+
+@media(prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+  .card{opacity:1;transform:none}
+}
