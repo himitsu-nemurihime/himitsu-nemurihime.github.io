@@ -72,6 +72,14 @@
       meta.className='meta';
       meta.innerHTML='<span class="who">'+esc(shortOf(it.char))+'</span><br>'+esc(it.title);
       b.appendChild(img); b.appendChild(meta);
+      /* 🚨2026-09-02＝夜のアカウントから出した絵に印を付ける（るぴちゃん決定
+         「混ぜるけど印を付ける」）。Level0/1 なので中身は普通の絵。 */
+      if(it.r18 && !it.nsfw){
+        var mk=document.createElement('span');
+        mk.className='mark'; mk.title='夜のほうのアカウントから出した絵';
+        mk.textContent='🌙';
+        b.appendChild(mk);
+      }
       b.addEventListener('click',function(){ view=list; open(idx); });
       gridEl.appendChild(b);
     });

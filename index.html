@@ -14,7 +14,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500&family=Zen+Maru+Gothic:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%F0%9F%8E%80%3C/text%3E%3C/svg%3E">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=20260902">
 </head>
 <body>
 <div class="sky"></div>
@@ -129,17 +129,21 @@
       <button class="gate-btn" id="openBtn" type="button" aria-expanded="false" aria-controls="secret">18歳以上です</button>
     </div>
 
+    <!-- 🚨🚨2026-09-02 るぴちゃん決定でここの作りを変えた＝
+         ・**Level0/1 の絵は上の「さいきんの絵」に混ぜた**（「全然R18じゃないから
+           普通のギャラリーにいれていいよ」）。混ざったものには 🌙 の印が付く
+         ・ここは **Level2以上への導線だけ**にする。GitHubの利用規約は
+           性行為の描写を（**イラスト・CGも実写と同列に**）禁じているので、
+           Level2以上の絵はこのサイトには置かない（2026-09-02 に規約を再確認）
+         → だから絵を並べる ntabs/ngrid は置いていない -->
     <div id="secret" hidden>
       <div class="sec-head" style="margin-top:0">
         <h2>夜のほう</h2>
         <p>誰も見ていない時間の、三人です。</p>
       </div>
-      <ul class="tabs" id="ntabs" role="tablist"></ul>
-      <div class="grid" id="ngrid"></div>
-      <p class="empty" id="nempty" hidden>夜のほうの絵は、まだここにはありません。</p>
 
       <div class="beyond">
-        <p class="beyond-lead">ここに出しているのは、<b>控えめなものだけ</b>です。<br>
+        <p class="beyond-lead">控えめなものは、<b>上の「さいきんの絵」に 🌙 の印を付けて並べています</b>。<br>
           その先の絵は、こちらに置いています。<span id="heldnote"></span></p>
         <ul class="tabs" style="margin:0">
           <li><a class="tab strong" href="https://www.chichi-pui.com/users/nemurihime/">ちちぷいで見る</a></li>
@@ -242,6 +246,6 @@ var REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
   try{ if(localStorage.getItem('hn_gate')==='1') show(false); }catch(e){}
 })();
 </script>
-<script src="assets/gallery.js"></script>
+<script src="assets/gallery.js?v=20260902"></script>
 </body>
 </html>

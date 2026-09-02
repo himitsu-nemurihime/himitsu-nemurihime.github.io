@@ -234,3 +234,9 @@ footer .heart{color:var(--rose)}
   *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
   .card{opacity:1;transform:none}
 }
+
+/* 🌙 夜のほうのアカウントから出した絵の印（2026-09-02 るぴちゃん決定
+   「混ぜるけど印を付ける」）。中身は Level0/1 なので普通の絵。 */
+.card .mark{position:absolute;top:8px;right:9px;font-size:.82rem;line-height:1;
+  padding:4px 6px;border-radius:999px;background:rgba(92,59,80,.55);
+  backdrop-filter:blur(3px);pointer-events:none}
