@@ -1,22 +1,28 @@
-/* ひみつの眠り姫サイト ギャラリー
+/* 出荷済みの絵のギャラリー
    🚨2026-09-01：index.html から切り出した。index.html と gallery.html が共有する。
+   🚨2026-09-02：**ルピナスのサイトの三姉妹ギャラリーと同じものを使う**ようにした
+     （中身を2本持つとズレるため。作りは gallery_core.py と同じ考え方）。
+     ・キャラの色と並び順は**目録（gallery.json）の chars から読む**（決め打ちしない）
+     ・目録の場所は #grid の data-src。無ければ data/gallery.json
    ・data-limit 属性が付いていたら、その枚数だけ出す（トップの「最近の絵」用）
-   ・付いていなければ全件（gallery.html 用）
+   ・付いていなければ全件（一覧ページ用）
    ・NSFWゾーン(ntabs/ngrid)は要素がある時だけ組み立てる */
 (function(){
-  var CHAR_COLOR={lilia:'var(--lilia)',sefi:'var(--sefi)',tiru:'var(--tiru)',three:'var(--lav)'};
-  var ORDER=['lilia','sefi','tiru','three'];
-  var DATA=null, view=[], cur=0;
+  var DATA=null, view=[], cur=0, ORDER=[];
 
-  fetch('data/gallery.json',{cache:'no-cache'})
+  var g0=document.getElementById('grid');
+  var SRC=(g0 && g0.getAttribute('data-src')) || 'data/gallery.json';
+
+  fetch(SRC,{cache:'no-cache'})
     .then(function(r){ if(!r.ok) throw 0; return r.json(); })
-    .then(function(d){ DATA=d; render(); })
+    .then(function(d){ DATA=d; ORDER=Object.keys(d.chars||{}); render(); })
     .catch(function(){
       var e=document.getElementById('gempty');
-      e.hidden=false; e.textContent='絵の一覧を読み込めませんでした。';
+      if(e){ e.hidden=false; e.textContent='絵の一覧を読み込めませんでした。'; }
     });
 
   function shortOf(k){ return (DATA.chars[k]||{}).short || k; }
+  function colorOf(k){ return (DATA.chars[k]||{}).color || 'currentColor'; }
 
   /* limit ＝ 0 なら全件、1以上ならその枚数だけ（新しい順に先頭から） */
   function build(zone, tabsEl, gridEl, emptyEl, limit){
@@ -57,7 +63,7 @@
     list.forEach(function(it,idx){
       var b=document.createElement('button');
       b.className='card'; b.type='button';
-      b.style.setProperty('--c',CHAR_COLOR[it.char]);
+      b.style.setProperty('--c',colorOf(it.char));
       b.style.animationDelay=Math.min(idx,14)*40+'ms';
       var img=document.createElement('img');
       img.src=it.thumb; img.alt=it.title; img.loading='lazy';
