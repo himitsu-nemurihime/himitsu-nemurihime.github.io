@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01",
+ "updated": "2026-09-02",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -26,10 +26,12 @@
   "sfw:lilia": 40,
   "sfw:sefi": 22,
   "sfw:tiru": 23,
-  "nsfw:lilia": 1
+  "nsfw:sefi": 3,
+  "nsfw:lilia": 13,
+  "nsfw:tiru": 4
  },
  "max_nsfw_level": 1,
- "held": 71,
+ "held": 49,
  "items": [
   {
    "id": "c40784089231",
@@ -37,9 +39,21 @@
    "nsfw": false,
    "level": null,
    "title": "#宇宙旅行AIイラストコンテスト",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "src": "img/g/sfw/lilia/c40784089231.webp",
    "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "9cf09f7bd2b5",
+   "char": "sefi",
+   "nsfw": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト 2",
+   "date": "2026-09-02",
+   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
+   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
    "w": 1024,
    "h": 1280
   },
@@ -53,18 +67,6 @@
    "src": "img/g/sfw/lilia/b1e055a351cb.webp",
    "thumb": "img/g/sfw/lilia/b1e055a351cb_t.webp",
    "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "9cf09f7bd2b5",
-   "char": "sefi",
-   "nsfw": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト 2",
-   "date": "2026-09-01",
-   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
-   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
-   "w": 1024,
    "h": 1280
   },
   {
@@ -140,6 +142,42 @@
    "h": 1280
   },
   {
+   "id": "b1da38dc6915",
+   "char": "sefi",
+   "nsfw": true,
+   "level": 1,
+   "title": "花畑に仰向けで倒れこみ、息を整える",
+   "date": "2026-08-31",
+   "src": "img/g/nsfw/sefi/b1da38dc6915.webp",
+   "thumb": "img/g/nsfw/sefi/b1da38dc6915_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "af11965cb535",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 0,
+   "title": "証明写真ボックスで、何度撮っても表情が決まらない",
+   "date": "2026-08-31",
+   "src": "img/g/nsfw/lilia/af11965cb535.webp",
+   "thumb": "img/g/nsfw/lilia/af11965cb535_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5ecf14e17a0e",
+   "char": "tiru",
+   "nsfw": true,
+   "level": 0,
+   "title": "石鹸の泡が手の中で消えるのを見つめる",
+   "date": "2026-08-31",
+   "src": "img/g/nsfw/tiru/5ecf14e17a0e.webp",
+   "thumb": "img/g/nsfw/tiru/5ecf14e17a0e_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "0aff2c29595c",
    "char": "lilia",
    "nsfw": false,
@@ -200,6 +238,18 @@
    "h": 720
   },
   {
+   "id": "f386c313b9b5",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "はじめてのプールで、浮き輪の使い方がわからない",
+   "date": "2026-08-27",
+   "src": "img/g/nsfw/lilia/f386c313b9b5.webp",
+   "thumb": "img/g/nsfw/lilia/f386c313b9b5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ca372de3f8cd",
    "char": "tiru",
    "nsfw": false,
@@ -224,6 +274,18 @@
    "h": 1280
   },
   {
+   "id": "9901e8fbb42c",
+   "char": "tiru",
+   "nsfw": true,
+   "level": 0,
+   "title": "傘を逆さに持って雨を溜めようとする",
+   "date": "2026-08-27",
+   "src": "img/g/nsfw/tiru/9901e8fbb42c.webp",
+   "thumb": "img/g/nsfw/tiru/9901e8fbb42c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "5aedf9ddfe13",
    "char": "sefi",
    "nsfw": false,
@@ -232,6 +294,18 @@
    "date": "2026-08-27",
    "src": "img/g/sfw/sefi/5aedf9ddfe13.webp",
    "thumb": "img/g/sfw/sefi/5aedf9ddfe13_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "400f817276b2",
+   "char": "sefi",
+   "nsfw": true,
+   "level": 0,
+   "title": "灯台のらせん階段を登りきり、はじめて海を見渡す",
+   "date": "2026-08-27",
+   "src": "img/g/nsfw/sefi/400f817276b2.webp",
+   "thumb": "img/g/nsfw/sefi/400f817276b2_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -260,6 +334,18 @@
    "h": 1280
   },
   {
+   "id": "c9b8a1947098",
+   "char": "sefi",
+   "nsfw": true,
+   "level": 0,
+   "title": "パン屋で全種類を指さして店主を固まらせる",
+   "date": "2026-08-26",
+   "src": "img/g/nsfw/sefi/c9b8a1947098.webp",
+   "thumb": "img/g/nsfw/sefi/c9b8a1947098_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "937039e3bb0d",
    "char": "lilia",
    "nsfw": false,
@@ -268,6 +354,18 @@
    "date": "2026-08-26",
    "src": "img/g/sfw/lilia/937039e3bb0d.webp",
    "thumb": "img/g/sfw/lilia/937039e3bb0d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8cfa2b391163",
+   "char": "tiru",
+   "nsfw": true,
+   "level": 0,
+   "title": "自動販売機に話しかけて返事を待つ",
+   "date": "2026-08-26",
+   "src": "img/g/nsfw/tiru/8cfa2b391163.webp",
+   "thumb": "img/g/nsfw/tiru/8cfa2b391163_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -284,6 +382,18 @@
    "h": 1280
   },
   {
+   "id": "3399167a1131",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 0,
+   "title": "猫カフェで一匹も寄ってこない",
+   "date": "2026-08-26",
+   "src": "img/g/nsfw/lilia/3399167a1131.webp",
+   "thumb": "img/g/nsfw/lilia/3399167a1131_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "2d5574af8493",
    "char": "tiru",
    "nsfw": false,
@@ -294,6 +404,18 @@
    "thumb": "img/g/sfw/tiru/2d5574af8493_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "081a57905751",
+   "char": "tiru",
+   "nsfw": true,
+   "level": 1,
+   "title": "寝床の葉が背中に貼りついて取れない",
+   "date": "2026-08-26",
+   "src": "img/g/nsfw/tiru/081a57905751.webp",
+   "thumb": "img/g/nsfw/tiru/081a57905751_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "a736356a6bdf",
@@ -316,6 +438,18 @@
    "date": "2026-08-25",
    "src": "img/g/sfw/sefi/2ee5dcb09db8.webp",
    "thumb": "img/g/sfw/sefi/2ee5dcb09db8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2b084e07c779",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 0,
+   "title": "はじめての自動改札にカードをかざす角度を間違える",
+   "date": "2026-08-25",
+   "src": "img/g/nsfw/lilia/2b084e07c779.webp",
+   "thumb": "img/g/nsfw/lilia/2b084e07c779_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -752,6 +886,18 @@
    "h": 1280
   },
   {
+   "id": "6bf38d4d0ee6",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "木の実つぶし。胸でつぶすのが森のやり方だと思っている",
+   "date": "2026-08-19",
+   "src": "img/g/nsfw/lilia/6bf38d4d0ee6.webp",
+   "thumb": "img/g/nsfw/lilia/6bf38d4d0ee6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "c55ca75060c2",
    "char": "lilia",
    "nsfw": false,
@@ -761,6 +907,18 @@
    "src": "img/g/sfw/lilia/c55ca75060c2.webp",
    "thumb": "img/g/sfw/lilia/c55ca75060c2_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "af82337235f9",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "木の実つぶし。胸でつぶすのが森のやり方だと思っている",
+   "date": "2026-08-18",
+   "src": "img/g/nsfw/lilia/af82337235f9.webp",
+   "thumb": "img/g/nsfw/lilia/af82337235f9_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -797,6 +955,18 @@
    "src": "img/g/sfw/tiru/33a7a9397ebb.webp",
    "thumb": "img/g/sfw/tiru/33a7a9397ebb_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "21b98dd220fa",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "木の実つぶし。胸でつぶすのが森のやり方だと思っている",
+   "date": "2026-08-17",
+   "src": "img/g/nsfw/lilia/21b98dd220fa.webp",
+   "thumb": "img/g/nsfw/lilia/21b98dd220fa_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -869,6 +1039,18 @@
    "src": "img/g/sfw/tiru/fe72e1a3822f.webp",
    "thumb": "img/g/sfw/tiru/fe72e1a3822f_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d81495e05bc2",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "寝起きのまま窓を開ける朝",
+   "date": "2026-08-15",
+   "src": "img/g/nsfw/lilia/d81495e05bc2.webp",
+   "thumb": "img/g/nsfw/lilia/d81495e05bc2_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -956,6 +1138,30 @@
    "h": 1280
   },
   {
+   "id": "2260616e49c2",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "ゴスロリを脱ぎかけたまま座り込む",
+   "date": "2026-08-14",
+   "src": "img/g/nsfw/lilia/2260616e49c2.webp",
+   "thumb": "img/g/nsfw/lilia/2260616e49c2_t.webp",
+   "w": 996,
+   "h": 1280
+  },
+  {
+   "id": "d876ba6cb98b",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "ベッドに入る直前の read ランプ",
+   "date": "2026-08-13",
+   "src": "img/g/nsfw/lilia/d876ba6cb98b.webp",
+   "thumb": "img/g/nsfw/lilia/d876ba6cb98b_t.webp",
+   "w": 996,
+   "h": 1280
+  },
+  {
    "id": "c5ba31ae6a25",
    "char": "lilia",
    "nsfw": false,
@@ -1004,6 +1210,18 @@
    "h": 1280
   },
   {
+   "id": "19c6cfad4af2",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "ゴスロリを脱ぎかけたまま座り込む",
+   "date": "2026-08-12",
+   "src": "img/g/nsfw/lilia/19c6cfad4af2.webp",
+   "thumb": "img/g/nsfw/lilia/19c6cfad4af2_t.webp",
+   "w": 996,
+   "h": 1280
+  },
+  {
    "id": "174fcbf7b94b",
    "char": "lilia",
    "nsfw": false,
@@ -1048,6 +1266,18 @@
    "date": "2026-08-11",
    "src": "img/g/nsfw/lilia/80856bc935b3.webp",
    "thumb": "img/g/nsfw/lilia/80856bc935b3_t.webp",
+   "w": 996,
+   "h": 1280
+  },
+  {
+   "id": "33784fdd6f2c",
+   "char": "lilia",
+   "nsfw": true,
+   "level": 1,
+   "title": "ソファに沈み込んだ休日の夜",
+   "date": "2026-08-11",
+   "src": "img/g/nsfw/lilia/33784fdd6f2c.webp",
+   "thumb": "img/g/nsfw/lilia/33784fdd6f2c_t.webp",
    "w": 996,
    "h": 1280
   },

@@ -19,6 +19,7 @@
 """
 import argparse
 import datetime
+import glob
 import hashlib
 import io
 import json
@@ -206,16 +207,133 @@ def level_map():
                         lv = e.get("level")
                         for key in (e.get("label"), e.get("scene"), e.get("tag")):
                             put(key, lv)
+
+    # 🚨🚨2026-09-02 追加＝**ネタ帳からも引く**。
+    #   実害＝R18の絵が **71枠すべて「Level不明」で落ちて**いて、サイトに1枚しか
+    #   載っていなかった（2026-09-02 に実測）。原因は Level2/3 ではなく、
+    #   **計画JSONに `level` が写っていなかった**こと（同日 `daily_sns_prepare.py` で
+    #   根っこを直したが、**それ以前に作られた計画は level が空のまま**）。
+    #   ネタ帳（`topics/*.json`）には最初から level があるので、そこから引き直す。
+    #   🚨計画JSONを**上書きしない**（`put` は高いほうを採るので安全側のまま）。
+    for f in sorted(glob.glob(os.path.join(SNS, "topics", "*.json"))):
+        try:
+            doc = json.load(io.open(f, encoding="utf-8"))
+        except Exception:
+            continue
+        if not isinstance(doc, dict):
+            continue
+        for t in (doc.get("topics") or doc.get("items") or []):
+            if not isinstance(t, dict):
+                continue
+            for key in (t.get("scene"), t.get("label"), t.get("id")):
+                put(key, t.get("level"))
     return _level_map
 
 
-def level_of(title, folder):
+_slot_map = None
+
+
+def slot_map():
+    """**(日付, HHMM, キャラ) → その枠の (Level, 場面)**。
+
+    🚨2026-09-02 追加。実害＝`1_2140_X_Bluesky_定時_リリア` のように
+    　 **場面名が「定時」としか入っていない**フォルダが多く、名前では Level を引けず
+    　 「不明」で落ちていた。フォルダ名の先頭 `{通し}_{HHMM}_` は**投稿時刻**なので、
+    　 計画JSONの `time` / `bluesky_time` などと突き合わせれば枠が決まる。
+
+    🚨🚨**`topic_id` からネタ帳を引いてはいけない**（2026-09-02 に実測して分かった）。
+    　 ネタ帳の**IDは使い回されている**＝`N03` が `lilia_r18`(Level1)・`sefi_r18`(Level3)・
+    　 `tiru_r18`(Level3) の3冊にあり、しかも計画の N03 の場面（夜の回廊…）と
+    　 ネタ帳の N03 の場面（城の庭園…）が**別物**だった。
+    　 IDで引くと**Level1の絵をLevel3と誤判定して落とす**（実際に3枠が誤爆した）。
+    　 → 引くのは **`level` そのもの**か、**`scene`（文章なので衝突しない）**だけにする。
+
+    🚨キャラまでキーに入れる＝別アカウントの同日同時刻の枠と混ざらないように。
+    """
+    global _slot_map
+    if _slot_map is not None:
+        return _slot_map
+    _slot_map = {}
+    for cur, _d, files in os.walk(PLANS):
+        # 計画ディレクトリ名（`sefi_r18` など）からキャラを推す（cast が無い枠の保険）
+        dir_char = None
+        for k, names in ALIAS:
+            if os.path.basename(cur).startswith(k):
+                dir_char = k
+                break
+        for f in files:
+            m = re.match(r"^(\d{4}-\d{2}-\d{2})\.json$", f)
+            if not m:
+                continue
+            day = m.group(1)
+            try:
+                doc = json.load(io.open(os.path.join(cur, f), encoding="utf-8"))
+            except Exception:
+                continue
+            if not isinstance(doc, dict):
+                continue
+            for p in (doc.get("posts") or []):
+                if not isinstance(p, dict):
+                    continue
+                cast = p.get("cast") or []
+                who_key = (cast[0] if cast else None) or dir_char
+                if not who_key:
+                    continue
+                lv = p.get("level")
+                try:
+                    lv = int(lv) if lv is not None else None
+                except (TypeError, ValueError):
+                    lv = None
+                sc = (p.get("scene") or p.get("label") or "").strip() or None
+                if lv is None and not sc:
+                    continue
+                for tm in (p.get("time"), p.get("bluesky_time"),
+                           p.get("threads_time"), p.get("x_time")):
+                    if not tm or ":" not in str(tm):
+                        continue
+                    key = (day, str(tm).replace(":", ""), who_key)
+                    old = _slot_map.get(key)
+                    if old is None:
+                        _slot_map[key] = (lv, sc)
+                    else:
+                        # 同じ枠に複数ぶら下がったら Level は**高いほう**（安全側）
+                        _slot_map[key] = (max(x for x in (lv, old[0]) if x is not None)
+                                          if (lv is not None or old[0] is not None) else None,
+                                          old[1] or sc)
+    return _slot_map
+
+
+def level_of(title, folder, path="", char=None):
     """その絵のLevel。分からなければ None。"""
     m = level_map()
     for key in (title, folder, re.sub(r"[_\-](lilia|sefi|tiru|リリア|セフィリア|ティルナ)(_\d+)?$",
                                       "", folder, flags=re.I)):
         if key and key.strip() in m:
             return m[key.strip()]
+
+    # 🚨2026-09-02 追加①＝**日付＋時刻＋キャラ**で計画JSONの枠を引き当てる
+    #   （フォルダ名が「定時」としか入っていない枠を救う）。
+    tm = re.match(r"^\d+[_\-](\d{4})[_\-]", folder)
+    day = re.search(r"(20\d\d-\d\d-\d\d)", path or "")
+    if tm and day and char:
+        hit = slot_map().get((day.group(1), tm.group(1), char))
+        if hit:
+            lv, sc = hit
+            if lv is not None:
+                return lv
+            if sc and sc in m:                 # 場面から引き直す（IDは使わない）
+                return m[sc]
+
+    # 🚨2026-09-02 追加②＝**切られた場面名を前方一致で引く**。
+    #   フォルダ名は長さで切られるので（`森の中でかごを提げてきのこを覗き込んでい`）、
+    #   計画JSONが消えていると `scene_map()` で元に戻せない。
+    #   🚨**当たりが1つのときだけ**採る。複数当たったら別の場面と混ざっている恐れが
+    #   　 あるので**不明のまま**にする（安全側）。
+    t = (title or "").strip()
+    if len(t) >= 12:
+        cand = {v for k, v in m.items() if k.startswith(t)}
+        if len(cand) == 1:
+            return cand.pop()
     return None
 
 
@@ -296,7 +414,7 @@ def collect():
                 print("[skip] キャラが分からない:", base)
                 continue
             title = caption(base)
-            lv = level_of(title, base) if is_r18 else None
+            lv = level_of(title, base, cur, key) if is_r18 else None
             for i, f in enumerate(pics, 1):
                 src = os.path.join(cur, f)
                 this = lv
