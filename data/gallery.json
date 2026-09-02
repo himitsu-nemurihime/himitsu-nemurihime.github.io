@@ -28,10 +28,10 @@
   "sfw:tiru": 23,
   "nsfw:tiru": 10,
   "nsfw:sefi": 4,
-  "nsfw:lilia": 13
+  "nsfw:lilia": 10
  },
  "max_nsfw_level": 1,
- "held": 42,
+ "held": 33,
  "items": [
   {
    "id": "c40784089231",
@@ -958,18 +958,6 @@
    "h": 1280
   },
   {
-   "id": "6bf38d4d0ee6",
-   "char": "lilia",
-   "nsfw": true,
-   "level": 1,
-   "title": "木の実つぶし。胸でつぶすのが森のやり方だと思っている",
-   "date": "2026-08-19",
-   "src": "img/g/nsfw/lilia/6bf38d4d0ee6.webp",
-   "thumb": "img/g/nsfw/lilia/6bf38d4d0ee6_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
    "id": "e86a655cfdd6",
    "char": "tiru",
    "nsfw": true,
@@ -991,18 +979,6 @@
    "src": "img/g/sfw/lilia/c55ca75060c2.webp",
    "thumb": "img/g/sfw/lilia/c55ca75060c2_t.webp",
    "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "af82337235f9",
-   "char": "lilia",
-   "nsfw": true,
-   "level": 1,
-   "title": "木の実つぶし。胸でつぶすのが森のやり方だと思っている",
-   "date": "2026-08-18",
-   "src": "img/g/nsfw/lilia/af82337235f9.webp",
-   "thumb": "img/g/nsfw/lilia/af82337235f9_t.webp",
-   "w": 1280,
    "h": 1280
   },
   {
@@ -1039,18 +1015,6 @@
    "src": "img/g/sfw/tiru/33a7a9397ebb.webp",
    "thumb": "img/g/sfw/tiru/33a7a9397ebb_t.webp",
    "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "21b98dd220fa",
-   "char": "lilia",
-   "nsfw": true,
-   "level": 1,
-   "title": "木の実つぶし。胸でつぶすのが森のやり方だと思っている",
-   "date": "2026-08-17",
-   "src": "img/g/nsfw/lilia/21b98dd220fa.webp",
-   "thumb": "img/g/nsfw/lilia/21b98dd220fa_t.webp",
-   "w": 1280,
    "h": 1280
   },
   {
