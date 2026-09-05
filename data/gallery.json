@@ -23,13 +23,39 @@
   }
  },
  "counts": {
-  "sfw:lilia": 61,
-  "sfw:sefi": 39,
-  "sfw:tiru": 41
+  "sfw:sefi": 42,
+  "sfw:lilia": 65,
+  "sfw:tiru": 45
  },
  "max_nsfw_level": 1,
- "held": 55,
+ "held": 58,
  "items": [
+  {
+   "id": "dfc2061f9e05",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#AQUA制服登校日",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/sefi/dfc2061f9e05.webp",
+   "thumb": "img/g/sfw/sefi/dfc2061f9e05_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cebaa0da4055",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#AI夜景イラスト",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/lilia/cebaa0da4055.webp",
+   "thumb": "img/g/sfw/lilia/cebaa0da4055_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "c40784089231",
    "char": "lilia",
@@ -44,6 +70,45 @@
    "h": 1280
   },
   {
+   "id": "c114abac1f8b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#何故なんだ……",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/lilia/c114abac1f8b.webp",
+   "thumb": "img/g/sfw/lilia/c114abac1f8b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "bd1687f6e60e",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#MinisukaPolice",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/sefi/bd1687f6e60e.webp",
+   "thumb": "img/g/sfw/sefi/bd1687f6e60e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a602093b0cb7",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#懺悔します",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/tiru/a602093b0cb7.webp",
+   "thumb": "img/g/sfw/tiru/a602093b0cb7_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "9cf09f7bd2b5",
    "char": "sefi",
    "nsfw": false,
@@ -54,6 +119,84 @@
    "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
    "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
    "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "9ac3a5aba73d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#秋風に乱れる髪",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/lilia/9ac3a5aba73d.webp",
+   "thumb": "img/g/sfw/lilia/9ac3a5aba73d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "58f34a407c42",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#何故なんだ……",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/lilia/58f34a407c42.webp",
+   "thumb": "img/g/sfw/lilia/58f34a407c42_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "4d58b3a7193f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#MinisukaPolice",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/sefi/4d58b3a7193f.webp",
+   "thumb": "img/g/sfw/sefi/4d58b3a7193f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4a8135bc4fb6",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#AIアンドロイドの彼女",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/tiru/4a8135bc4fb6.webp",
+   "thumb": "img/g/sfw/tiru/4a8135bc4fb6_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "0f5a3f343379",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "#懺悔します",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/tiru/0f5a3f343379.webp",
+   "thumb": "img/g/sfw/tiru/0f5a3f343379_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "020d0d967e48",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#秋のはじまりの風景",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/tiru/020d0d967e48.webp",
+   "thumb": "img/g/sfw/tiru/020d0d967e48_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
