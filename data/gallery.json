@@ -57,19 +57,6 @@
    "h": 1280
   },
   {
-   "id": "c40784089231",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト",
-   "date": "2026-09-05",
-   "src": "img/g/sfw/lilia/c40784089231.webp",
-   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
-   "w": 1024,
-   "h": 1280
-  },
-  {
    "id": "c114abac1f8b",
    "char": "lilia",
    "nsfw": false,
@@ -106,19 +93,6 @@
    "src": "img/g/sfw/tiru/a602093b0cb7.webp",
    "thumb": "img/g/sfw/tiru/a602093b0cb7_t.webp",
    "w": 1280,
-   "h": 1280
-  },
-  {
-   "id": "9cf09f7bd2b5",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト 2",
-   "date": "2026-09-05",
-   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
-   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
-   "w": 1024,
    "h": 1280
   },
   {
@@ -499,6 +473,19 @@
    "h": 702
   },
   {
+   "id": "c40784089231",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト",
+   "date": "2026-09-02",
+   "src": "img/g/sfw/lilia/c40784089231.webp",
+   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
+  {
    "id": "babc34009f81",
    "char": "tiru",
    "nsfw": false,
@@ -535,6 +522,19 @@
    "src": "img/g/sfw/sefi/9f823fa2c443.webp",
    "thumb": "img/g/sfw/sefi/9f823fa2c443_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "9cf09f7bd2b5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト 2",
+   "date": "2026-09-02",
+   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
+   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
+   "w": 1024,
    "h": 1280
   },
   {
