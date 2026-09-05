@@ -23,13 +23,26 @@
   }
  },
  "counts": {
-  "sfw:sefi": 42,
-  "sfw:lilia": 65,
-  "sfw:tiru": 45
+  "sfw:tiru": 45,
+  "sfw:sefi": 43,
+  "sfw:lilia": 65
  },
  "max_nsfw_level": 1,
- "held": 58,
+ "held": 68,
  "items": [
+  {
+   "id": "e0024427a1bc",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "畑で収穫した野菜を籠に入れる",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/tiru/e0024427a1bc.webp",
+   "thumb": "img/g/sfw/tiru/e0024427a1bc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "dfc2061f9e05",
    "char": "sefi",
@@ -57,19 +70,6 @@
    "h": 1280
   },
   {
-   "id": "c114abac1f8b",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": true,
-   "level": 1,
-   "title": "#何故なんだ……",
-   "date": "2026-09-05",
-   "src": "img/g/sfw/lilia/c114abac1f8b.webp",
-   "thumb": "img/g/sfw/lilia/c114abac1f8b_t.webp",
-   "w": 1280,
-   "h": 1280
-  },
-  {
    "id": "bd1687f6e60e",
    "char": "sefi",
    "nsfw": false,
@@ -83,17 +83,17 @@
    "h": 1280
   },
   {
-   "id": "a602093b0cb7",
+   "id": "ac9ed1f42694",
    "char": "tiru",
    "nsfw": false,
-   "r18": true,
-   "level": 1,
-   "title": "#懺悔します",
+   "r18": false,
+   "level": null,
+   "title": "木漏れ日の下でうつ伏せになって虫を観察する",
    "date": "2026-09-05",
-   "src": "img/g/sfw/tiru/a602093b0cb7.webp",
-   "thumb": "img/g/sfw/tiru/a602093b0cb7_t.webp",
+   "src": "img/g/sfw/tiru/ac9ed1f42694.webp",
+   "thumb": "img/g/sfw/tiru/ac9ed1f42694_t.webp",
    "w": 1280,
-   "h": 1280
+   "h": 720
   },
   {
    "id": "9ac3a5aba73d",
@@ -109,16 +109,16 @@
    "h": 1280
   },
   {
-   "id": "58f34a407c42",
-   "char": "lilia",
+   "id": "52207d4bcd84",
+   "char": "sefi",
    "nsfw": false,
-   "r18": true,
-   "level": 1,
-   "title": "#何故なんだ……",
+   "r18": false,
+   "level": null,
+   "title": "国民栄誉賞の日にちなんで、トロフィーと花束、表彰のリボンと過ごす",
    "date": "2026-09-05",
-   "src": "img/g/sfw/lilia/58f34a407c42.webp",
-   "thumb": "img/g/sfw/lilia/58f34a407c42_t.webp",
-   "w": 1280,
+   "src": "img/g/sfw/sefi/52207d4bcd84.webp",
+   "thumb": "img/g/sfw/sefi/52207d4bcd84_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -148,15 +148,28 @@
    "h": 1280
   },
   {
-   "id": "0f5a3f343379",
-   "char": "tiru",
+   "id": "3a25bbff1304",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "布団の中で反り返って伸びをする",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/lilia/3a25bbff1304.webp",
+   "thumb": "img/g/sfw/lilia/3a25bbff1304_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "25373a386162",
+   "char": "lilia",
    "nsfw": false,
    "r18": true,
    "level": 1,
-   "title": "#懺悔します",
+   "title": "温泉あがり、浴衣の合わせがうまく直せない",
    "date": "2026-09-05",
-   "src": "img/g/sfw/tiru/0f5a3f343379.webp",
-   "thumb": "img/g/sfw/tiru/0f5a3f343379_t.webp",
+   "src": "img/g/sfw/lilia/25373a386162.webp",
+   "thumb": "img/g/sfw/lilia/25373a386162_t.webp",
    "w": 1280,
    "h": 1280
   },
@@ -473,19 +486,6 @@
    "h": 702
   },
   {
-   "id": "c40784089231",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/lilia/c40784089231.webp",
-   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
-   "w": 1024,
-   "h": 1280
-  },
-  {
    "id": "babc34009f81",
    "char": "tiru",
    "nsfw": false,
@@ -522,19 +522,6 @@
    "src": "img/g/sfw/sefi/9f823fa2c443.webp",
    "thumb": "img/g/sfw/sefi/9f823fa2c443_t.webp",
    "w": 1280,
-   "h": 1280
-  },
-  {
-   "id": "9cf09f7bd2b5",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト 2",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
-   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
-   "w": 1024,
    "h": 1280
   },
   {
@@ -1667,6 +1654,32 @@
    "thumb": "img/g/sfw/tiru/f74ea2cae37a_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "c40784089231",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト",
+   "date": "2026-08-16",
+   "src": "img/g/sfw/lilia/c40784089231.webp",
+   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "9cf09f7bd2b5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト 2",
+   "date": "2026-08-16",
+   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
+   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
+   "w": 1024,
+   "h": 1280
   },
   {
    "id": "95ffd2eb5578",
