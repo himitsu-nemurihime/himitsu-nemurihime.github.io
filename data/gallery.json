@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04",
+ "updated": "2026-09-05",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,13 +23,39 @@
   }
  },
  "counts": {
-  "sfw:tiru": 41,
   "sfw:lilia": 61,
-  "sfw:sefi": 39
+  "sfw:sefi": 39,
+  "sfw:tiru": 41
  },
  "max_nsfw_level": 1,
  "held": 55,
  "items": [
+  {
+   "id": "c40784089231",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/lilia/c40784089231.webp",
+   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "9cf09f7bd2b5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト 2",
+   "date": "2026-09-05",
+   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
+   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
   {
    "id": "fcac93a60506",
    "char": "tiru",
@@ -1498,32 +1524,6 @@
    "thumb": "img/g/sfw/tiru/f74ea2cae37a_t.webp",
    "w": 1280,
    "h": 720
-  },
-  {
-   "id": "c40784089231",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト",
-   "date": "2026-08-16",
-   "src": "img/g/sfw/lilia/c40784089231.webp",
-   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
-   "w": 1024,
-   "h": 1280
-  },
-  {
-   "id": "9cf09f7bd2b5",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト 2",
-   "date": "2026-08-16",
-   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
-   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
-   "w": 1024,
-   "h": 1280
   },
   {
    "id": "95ffd2eb5578",
