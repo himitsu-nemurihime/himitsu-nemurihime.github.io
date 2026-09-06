@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,13 +23,78 @@
   }
  },
  "counts": {
-  "sfw:sefi": 47,
-  "sfw:lilia": 69,
-  "sfw:tiru": 48
+  "sfw:sefi": 44,
+  "sfw:tiru": 48,
+  "sfw:lilia": 66
  },
  "max_nsfw_level": 1,
- "held": 67,
+ "held": 64,
  "items": [
+  {
+   "id": "d35f502f8fa2",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "城の図書室、梯子の上で背表紙に手を伸ばす",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/sefi/d35f502f8fa2.webp",
+   "thumb": "img/g/sfw/sefi/d35f502f8fa2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cabd03fb154b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "はじめての水着。布の少なさに落ち着かない",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/tiru/cabd03fb154b.webp",
+   "thumb": "img/g/sfw/tiru/cabd03fb154b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2aa36a0694d1",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "赤い受話器を持って『三十分以内にお電話を』と言ってみる",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/sefi/2aa36a0694d1.webp",
+   "thumb": "img/g/sfw/sefi/2aa36a0694d1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0d0c654de6c1",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "竹の里で剣の型を教わり、まず空を指す",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/tiru/0d0c654de6c1.webp",
+   "thumb": "img/g/sfw/tiru/0d0c654de6c1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0af142a79495",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "商店街のコロッケを揚げたてのまま持って熱がる",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/lilia/0af142a79495.webp",
+   "thumb": "img/g/sfw/lilia/0af142a79495_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f95dec88099d",
    "char": "sefi",
@@ -447,45 +512,6 @@
    "h": 720
   },
   {
-   "id": "e311db11bac3",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "朝、鳥の声で目を覚まして窓から身を乗り出す",
-   "date": "2026-09-03",
-   "src": "img/g/sfw/tiru/e311db11bac3.webp",
-   "thumb": "img/g/sfw/tiru/e311db11bac3_t.webp",
-   "w": 1280,
-   "h": 468
-  },
-  {
-   "id": "af9b21fccfee",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "ホームラン記念日にちなんで、跳び上がってフライをグローブで捕る",
-   "date": "2026-09-03",
-   "src": "img/g/sfw/sefi/af9b21fccfee.webp",
-   "thumb": "img/g/sfw/sefi/af9b21fccfee_t.webp",
-   "w": 640,
-   "h": 702
-  },
-  {
-   "id": "7a6228bc5371",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "砂浜にしゃがんで貝殻を並べる",
-   "date": "2026-09-03",
-   "src": "img/g/sfw/sefi/7a6228bc5371.webp",
-   "thumb": "img/g/sfw/sefi/7a6228bc5371_t.webp",
-   "w": 1280,
-   "h": 913
-  },
-  {
    "id": "68737fc69621",
    "char": "tiru",
    "nsfw": false,
@@ -536,32 +562,6 @@
    "thumb": "img/g/sfw/sefi/260ec1893d79_t.webp",
    "w": 720,
    "h": 1280
-  },
-  {
-   "id": "240341a9eac8",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": true,
-   "level": 1,
-   "title": "寝る前、ネグリジェの肩紐が落ちたのに気づかない",
-   "date": "2026-09-03",
-   "src": "img/g/sfw/lilia/240341a9eac8.webp",
-   "thumb": "img/g/sfw/lilia/240341a9eac8_t.webp",
-   "w": 1280,
-   "h": 468
-  },
-  {
-   "id": "03ca993eaa11",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "ベッドにうつ伏せのまま充電ケーブルに手が届かない",
-   "date": "2026-09-03",
-   "src": "img/g/sfw/lilia/03ca993eaa11.webp",
-   "thumb": "img/g/sfw/lilia/03ca993eaa11_t.webp",
-   "w": 640,
-   "h": 702
   },
   {
    "id": "0234dbf848de",
@@ -616,19 +616,6 @@
    "h": 1280
   },
   {
-   "id": "d310c73c8b65",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": true,
-   "level": 0,
-   "title": "電車のつり革にぶら下がって注意される",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/tiru/d310c73c8b65.webp",
-   "thumb": "img/g/sfw/tiru/d310c73c8b65_t.webp",
-   "w": 1280,
-   "h": 702
-  },
-  {
    "id": "babc34009f81",
    "char": "tiru",
    "nsfw": false,
@@ -640,19 +627,6 @@
    "thumb": "img/g/sfw/tiru/babc34009f81_t.webp",
    "w": 720,
    "h": 1280
-  },
-  {
-   "id": "a09dd4e2bc00",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "道場で竹刀を構え素振りをする",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/sefi/a09dd4e2bc00.webp",
-   "thumb": "img/g/sfw/sefi/a09dd4e2bc00_t.webp",
-   "w": 1280,
-   "h": 702
   },
   {
    "id": "9f823fa2c443",
@@ -668,19 +642,6 @@
    "h": 1280
   },
   {
-   "id": "7fec65eb3fd0",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "はじめて商店街を歩く。八百屋の呼び込みに驚いて立ち止まる",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/sefi/7fec65eb3fd0.webp",
-   "thumb": "img/g/sfw/sefi/7fec65eb3fd0_t.webp",
-   "w": 640,
-   "h": 702
-  },
-  {
    "id": "7cbb63bc81bf",
    "char": "sefi",
    "nsfw": false,
@@ -692,45 +653,6 @@
    "thumb": "img/g/sfw/sefi/7cbb63bc81bf_t.webp",
    "w": 720,
    "h": 1280
-  },
-  {
-   "id": "71770617a6b5",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "図書館の返却期限に気づいて青ざめる",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/lilia/71770617a6b5.webp",
-   "thumb": "img/g/sfw/lilia/71770617a6b5_t.webp",
-   "w": 640,
-   "h": 702
-  },
-  {
-   "id": "4f66ce6bf098",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "（イベント用に作った絵を定時へ回した分）",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/lilia/4f66ce6bf098.webp",
-   "thumb": "img/g/sfw/lilia/4f66ce6bf098_t.webp",
-   "w": 1280,
-   "h": 702
-  },
-  {
-   "id": "29d7969e12dc",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": true,
-   "level": 0,
-   "title": "竪琴の弦を一本ずつ弾いて音の違いに驚く",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/sefi/29d7969e12dc.webp",
-   "thumb": "img/g/sfw/sefi/29d7969e12dc_t.webp",
-   "w": 1280,
-   "h": 702
   },
   {
    "id": "241faabfab39",
