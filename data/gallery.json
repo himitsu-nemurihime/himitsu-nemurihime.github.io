@@ -25,10 +25,10 @@
  "counts": {
   "sfw:sefi": 44,
   "sfw:tiru": 48,
-  "sfw:lilia": 66
+  "sfw:lilia": 70
  },
  "max_nsfw_level": 1,
- "held": 64,
+ "held": 68,
  "items": [
   {
    "id": "d35f502f8fa2",
@@ -213,6 +213,19 @@
    "h": 720
   },
   {
+   "id": "cdee501a564f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライCM 池袋 正方形 ひみつの眠り姫 take5 三人",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/lilia/cdee501a564f.webp",
+   "thumb": "img/g/sfw/lilia/cdee501a564f_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "baae31e1e01d",
    "char": "sefi",
    "nsfw": false,
@@ -235,6 +248,45 @@
    "date": "2026-09-06",
    "src": "img/g/sfw/tiru/9ecf4a0eac14.webp",
    "thumb": "img/g/sfw/tiru/9ecf4a0eac14_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "6e9927419654",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライCM 秋葉原 縦 ひみつの眠り姫 take4 三人",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/lilia/6e9927419654.webp",
+   "thumb": "img/g/sfw/lilia/6e9927419654_t.webp",
+   "w": 922,
+   "h": 1280
+  },
+  {
+   "id": "3bee55616434",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライCM 秋葉原 縦 ひみつの眠り姫 take3 三人",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/lilia/3bee55616434.webp",
+   "thumb": "img/g/sfw/lilia/3bee55616434_t.webp",
+   "w": 922,
+   "h": 1280
+  },
+  {
+   "id": "2053cbd97286",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライCM 池袋 正方形 ひみつの眠り姫 take4 三人",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/lilia/2053cbd97286.webp",
+   "thumb": "img/g/sfw/lilia/2053cbd97286_t.webp",
    "w": 1280,
    "h": 1280
   },
