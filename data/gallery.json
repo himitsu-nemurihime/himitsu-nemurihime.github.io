@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05",
+ "updated": "2026-09-06",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,13 +23,91 @@
   }
  },
  "counts": {
-  "sfw:tiru": 45,
-  "sfw:sefi": 43,
-  "sfw:lilia": 65
+  "sfw:tiru": 47,
+  "sfw:lilia": 67,
+  "sfw:sefi": 45
  },
  "max_nsfw_level": 1,
- "held": 64,
+ "held": 65,
  "items": [
+  {
+   "id": "f15bab26579f",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "花の蜜を吸おうとして、顔じゅうに花粉をつける",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/tiru/f15bab26579f.webp",
+   "thumb": "img/g/sfw/tiru/f15bab26579f_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "e89e128ba414",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "洗車を手伝って頭から水を浴びる",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/lilia/e89e128ba414.webp",
+   "thumb": "img/g/sfw/lilia/e89e128ba414_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d36b32fe99f7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "蝋燭の前で頬杖をついて、口元がゆるむ",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/lilia/d36b32fe99f7.webp",
+   "thumb": "img/g/sfw/lilia/d36b32fe99f7_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "d008084b43cd",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "寝苦しい夜、絹の寝衣が汗で背に貼りつく",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/sefi/d008084b43cd.webp",
+   "thumb": "img/g/sfw/sefi/d008084b43cd_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "baae31e1e01d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "窓辺で胸元をくつろげて風を待つ",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/sefi/baae31e1e01d.webp",
+   "thumb": "img/g/sfw/sefi/baae31e1e01d_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "9ecf4a0eac14",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "道ばたでもらった花を持って、あらためて自己紹介",
+   "date": "2026-09-06",
+   "src": "img/g/sfw/tiru/9ecf4a0eac14.webp",
+   "thumb": "img/g/sfw/tiru/9ecf4a0eac14_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "e0024427a1bc",
    "char": "tiru",
