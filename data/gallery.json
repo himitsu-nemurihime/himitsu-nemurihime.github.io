@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:sefi": 46,
-  "sfw:tiru": 50,
-  "sfw:lilia": 69,
+  "sfw:sefi": 45,
+  "sfw:tiru": 49,
+  "sfw:lilia": 68,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
@@ -133,6 +133,32 @@
    "src": "img/g/sfw/sefi/dd03beeccc87.webp",
    "thumb": "img/g/sfw/sefi/dd03beeccc87_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c40784089231",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト",
+   "date": "2026-09-07",
+   "src": "img/g/sfw/lilia/c40784089231.webp",
+   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "9cf09f7bd2b5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト 2",
+   "date": "2026-09-07",
+   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
+   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
+   "w": 1024,
    "h": 1280
   },
   {
@@ -721,19 +747,6 @@
    "h": 1280
   },
   {
-   "id": "dc3008208542",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#幸運シチュエーション",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/lilia/dc3008208542.webp",
-   "thumb": "img/g/sfw/lilia/dc3008208542_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
    "id": "babc34009f81",
    "char": "tiru",
    "nsfw": false,
@@ -760,19 +773,6 @@
    "h": 1280
   },
   {
-   "id": "9c7acb95f1ca",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#幸運シチュエーション 3",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/tiru/9c7acb95f1ca.webp",
-   "thumb": "img/g/sfw/tiru/9c7acb95f1ca_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
    "id": "7cbb63bc81bf",
    "char": "sefi",
    "nsfw": false,
@@ -795,19 +795,6 @@
    "date": "2026-09-02",
    "src": "img/g/sfw/sefi/241faabfab39.webp",
    "thumb": "img/g/sfw/sefi/241faabfab39_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "1b1c86b84c75",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#幸運シチュエーション 2",
-   "date": "2026-09-02",
-   "src": "img/g/sfw/sefi/1b1c86b84c75.webp",
-   "thumb": "img/g/sfw/sefi/1b1c86b84c75_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -1863,32 +1850,6 @@
    "thumb": "img/g/sfw/tiru/f74ea2cae37a_t.webp",
    "w": 1280,
    "h": 720
-  },
-  {
-   "id": "c40784089231",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト",
-   "date": "2026-08-16",
-   "src": "img/g/sfw/lilia/c40784089231.webp",
-   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
-   "w": 1024,
-   "h": 1280
-  },
-  {
-   "id": "9cf09f7bd2b5",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト 2",
-   "date": "2026-08-16",
-   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
-   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
-   "w": 1024,
-   "h": 1280
   },
   {
    "id": "95ffd2eb5578",
