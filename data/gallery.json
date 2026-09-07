@@ -25,7 +25,7 @@
  "counts": {
   "sfw:sefi": 45,
   "sfw:tiru": 49,
-  "sfw:lilia": 68,
+  "sfw:lilia": 70,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
@@ -123,6 +123,19 @@
    "h": 1280
   },
   {
+   "id": "e2a638884b7f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#幸運シチュエーション 4",
+   "date": "2026-09-07",
+   "src": "img/g/sfw/lilia/e2a638884b7f.webp",
+   "thumb": "img/g/sfw/lilia/e2a638884b7f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "dd03beeccc87",
    "char": "sefi",
    "nsfw": false,
@@ -184,6 +197,19 @@
    "date": "2026-09-07",
    "src": "img/g/sfw/lilia/33b3f19ae026.webp",
    "thumb": "img/g/sfw/lilia/33b3f19ae026_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2b3e7830352e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#幸運シチュエーション 4",
+   "date": "2026-09-07",
+   "src": "img/g/sfw/lilia/2b3e7830352e.webp",
+   "thumb": "img/g/sfw/lilia/2b3e7830352e_t.webp",
    "w": 720,
    "h": 1280
   },
