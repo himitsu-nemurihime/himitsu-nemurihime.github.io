@@ -23,14 +23,40 @@
   }
  },
  "counts": {
-  "sfw:sefi": 47,
-  "sfw:tiru": 50,
-  "sfw:lilia": 69,
+  "sfw:tiru": 51,
+  "sfw:sefi": 49,
+  "sfw:lilia": 70,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
  "held": 68,
  "items": [
+  {
+   "id": "deebc60b3886",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "井戸水で顔を洗って、袖まで濡らす",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/tiru/deebc60b3886.webp",
+   "thumb": "img/g/sfw/tiru/deebc60b3886_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "ddcfc7883c73",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "虫の音を聴く日。庭の草むらに膝をついて、虫かごの声を探す",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/sefi/ddcfc7883c73.webp",
+   "thumb": "img/g/sfw/sefi/ddcfc7883c73_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "d35f502f8fa2",
    "char": "sefi",
@@ -81,6 +107,32 @@
    "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
    "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
    "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "8f6478340f86",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "はじめての自転車。スカートが風にあおられる",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/sefi/8f6478340f86.webp",
+   "thumb": "img/g/sfw/sefi/8f6478340f86_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7fbe6cf1261c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "お風呂上がり、髪を乾かしながらぼーっとする",
+   "date": "2026-09-08",
+   "src": "img/g/sfw/lilia/7fbe6cf1261c.webp",
+   "thumb": "img/g/sfw/lilia/7fbe6cf1261c_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
