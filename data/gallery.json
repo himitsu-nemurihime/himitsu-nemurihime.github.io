@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09",
+ "updated": "2026-09-10",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,79 @@
   }
  },
  "counts": {
-  "sfw:lilia": 70,
-  "sfw:sefi": 49,
-  "sfw:tiru": 51,
+  "sfw:sefi": 53,
+  "sfw:tiru": 55,
+  "sfw:lilia": 75,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
- "held": 68,
+ "held": 69,
  "items": [
+  {
+   "id": "582b718bbd86",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#くらげ 2",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/sefi/582b718bbd86.webp",
+   "thumb": "img/g/sfw/sefi/582b718bbd86_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "30df831fba1d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#くらげ 3",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/tiru/30df831fba1d.webp",
+   "thumb": "img/g/sfw/tiru/30df831fba1d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2d6cf2262f5c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#くらげ",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/lilia/2d6cf2262f5c.webp",
+   "thumb": "img/g/sfw/lilia/2d6cf2262f5c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "fd7f4103bc9f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "ピンクのワンピースで鏡の前でピース、自分の笑顔にびっくり",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/lilia/fd7f4103bc9f.webp",
+   "thumb": "img/g/sfw/lilia/fd7f4103bc9f_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "e15518c8eb30",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "蝋燭の灯りか ランプの灯りか",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/sefi/e15518c8eb30.webp",
+   "thumb": "img/g/sfw/sefi/e15518c8eb30_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "c40784089231",
    "char": "lilia",
@@ -45,6 +110,19 @@
    "h": 1280
   },
   {
+   "id": "9ecc35235220",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "重陽の節句。菊を活けた卓で、盃をのぞきこんで花びらを浮かべる",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/lilia/9ecc35235220.webp",
+   "thumb": "img/g/sfw/lilia/9ecc35235220_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "9cf09f7bd2b5",
    "char": "sefi",
    "nsfw": false,
@@ -55,6 +133,97 @@
    "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
    "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
    "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "99c5b73239ef",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "展示室で白手袋をつけ、絵画を解説する",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/sefi/99c5b73239ef.webp",
+   "thumb": "img/g/sfw/sefi/99c5b73239ef_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8ae385dd73ff",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "和菓子屋の店番を任され、串団子を一本くわえたまま「いらっしゃいませ」の練習をして、串ごと落とす",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/tiru/8ae385dd73ff.webp",
+   "thumb": "img/g/sfw/tiru/8ae385dd73ff_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "48897e391961",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "祭りの広場でセフィリアが前に出て手を伸ばす",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/sefi/48897e391961.webp",
+   "thumb": "img/g/sfw/sefi/48897e391961_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "3f185fe67f55",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "黒いドレスに金の糸、シャンデリアの下で裾が光る",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/lilia/3f185fe67f55.webp",
+   "thumb": "img/g/sfw/lilia/3f185fe67f55_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3616f287119a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "和菓子屋の手伝い。着物にたすき掛けで、季節の練り切りを試食していたら頬が落ちそうな顔を店主に見られる",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/lilia/3616f287119a.webp",
+   "thumb": "img/g/sfw/lilia/3616f287119a_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "2eeaf1627cab",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "町のチアの練習に混ぜてもらい、ハイキックでスカートが翻ってポンポンを空に投げ、着地で尻もちをつく",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/tiru/2eeaf1627cab.webp",
+   "thumb": "img/g/sfw/tiru/2eeaf1627cab_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "00d71ec282b1",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "パン屋の店員、朝の焼きたてパン",
+   "date": "2026-09-09",
+   "src": "img/g/sfw/tiru/00d71ec282b1.webp",
+   "thumb": "img/g/sfw/tiru/00d71ec282b1_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
