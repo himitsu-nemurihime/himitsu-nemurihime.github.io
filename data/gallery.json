@@ -23,51 +23,38 @@
   }
  },
  "counts": {
-  "sfw:sefi": 53,
-  "sfw:tiru": 55,
-  "sfw:lilia": 75,
+  "sfw:lilia": 74,
+  "sfw:sefi": 52,
+  "sfw:tiru": 54,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
- "held": 69,
+ "held": 71,
  "items": [
   {
-   "id": "582b718bbd86",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#くらげ 2",
-   "date": "2026-09-10",
-   "src": "img/g/sfw/sefi/582b718bbd86.webp",
-   "thumb": "img/g/sfw/sefi/582b718bbd86_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "30df831fba1d",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#くらげ 3",
-   "date": "2026-09-10",
-   "src": "img/g/sfw/tiru/30df831fba1d.webp",
-   "thumb": "img/g/sfw/tiru/30df831fba1d_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "2d6cf2262f5c",
+   "id": "c40784089231",
    "char": "lilia",
    "nsfw": false,
    "r18": false,
    "level": null,
-   "title": "#くらげ",
+   "title": "#宇宙旅行AIイラストコンテスト",
    "date": "2026-09-10",
-   "src": "img/g/sfw/lilia/2d6cf2262f5c.webp",
-   "thumb": "img/g/sfw/lilia/2d6cf2262f5c_t.webp",
-   "w": 720,
+   "src": "img/g/sfw/lilia/c40784089231.webp",
+   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "9cf09f7bd2b5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宇宙旅行AIイラストコンテスト 2",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
+   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
+   "w": 1024,
    "h": 1280
   },
   {
@@ -97,19 +84,6 @@
    "h": 1280
   },
   {
-   "id": "c40784089231",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト",
-   "date": "2026-09-09",
-   "src": "img/g/sfw/lilia/c40784089231.webp",
-   "thumb": "img/g/sfw/lilia/c40784089231_t.webp",
-   "w": 1024,
-   "h": 1280
-  },
-  {
    "id": "9ecc35235220",
    "char": "lilia",
    "nsfw": false,
@@ -120,19 +94,6 @@
    "src": "img/g/sfw/lilia/9ecc35235220.webp",
    "thumb": "img/g/sfw/lilia/9ecc35235220_t.webp",
    "w": 1280,
-   "h": 1280
-  },
-  {
-   "id": "9cf09f7bd2b5",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#宇宙旅行AIイラストコンテスト 2",
-   "date": "2026-09-09",
-   "src": "img/g/sfw/sefi/9cf09f7bd2b5.webp",
-   "thumb": "img/g/sfw/sefi/9cf09f7bd2b5_t.webp",
-   "w": 1024,
    "h": 1280
   },
   {
