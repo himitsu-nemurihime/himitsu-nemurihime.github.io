@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 78,
-  "sfw:tiru": 56,
-  "sfw:sefi": 53,
+  "sfw:lilia": 79,
+  "sfw:tiru": 58,
+  "sfw:sefi": 54,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
@@ -97,6 +97,19 @@
    "h": 1254
   },
   {
+   "id": "6c994af48c9c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "温泉街の射的。温泉まんじゅうを頬張ったままコルク銃の照準を合わせ、下駄が脱げて片足で立つ",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/tiru/6c994af48c9c.webp",
+   "thumb": "img/g/sfw/tiru/6c994af48c9c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "36a7864e0c64",
    "char": "lilia",
    "nsfw": false,
@@ -107,6 +120,19 @@
    "src": "img/g/sfw/lilia/36a7864e0c64.webp",
    "thumb": "img/g/sfw/lilia/36a7864e0c64_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "23998ccf0ab3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "洗面台で髪を洗い、泡が目に入って片目をつぶる",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/lilia/23998ccf0ab3.webp",
+   "thumb": "img/g/sfw/lilia/23998ccf0ab3_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -133,6 +159,32 @@
    "src": "img/g/sfw/lilia/195f1b762acc.webp",
    "thumb": "img/g/sfw/lilia/195f1b762acc_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "17c452be84ca",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "石畳の道で猫に懐かれ、腕の中で丸くなられて動けなくなる",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/sefi/17c452be84ca.webp",
+   "thumb": "img/g/sfw/sefi/17c452be84ca_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "12e95a686504",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "洞窟の泉に足を入れて、冷たさに声を上げる。差し込む光に水しぶきが光る",
+   "date": "2026-09-10",
+   "src": "img/g/sfw/tiru/12e95a686504.webp",
+   "thumb": "img/g/sfw/tiru/12e95a686504_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
