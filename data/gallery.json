@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12",
+ "updated": "2026-09-13",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:tiru": 68,
-  "sfw:sefi": 62,
-  "sfw:lilia": 87,
+  "sfw:sefi": 65,
+  "sfw:lilia": 90,
+  "sfw:tiru": 70,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
  "held": 75,
  "items": [
+  {
+   "id": "fe8d9e698894",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "秋のぶどう狩り。棚の下で背伸びしても房に届かず、ドレスの裾が上がっているのに気づかない",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/sefi/fe8d9e698894.webp",
+   "thumb": "img/g/sfw/sefi/fe8d9e698894_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ed2e296429b2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "お父さんの日。書斎で手紙をしたためて蝋で封をし、封筒を差し出す",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/lilia/ed2e296429b2.webp",
+   "thumb": "img/g/sfw/lilia/ed2e296429b2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c368a3cc617b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "城の夜会の演奏が終わり、控えで金の上着を肩から落として天井を仰ぐ",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/sefi/c368a3cc617b.webp",
+   "thumb": "img/g/sfw/sefi/c368a3cc617b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "abe6c53522a1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "通勤の朝、駅のホームで缶コーヒーを両手で包んで、湯気に目を丸くする",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/lilia/abe6c53522a1.webp",
+   "thumb": "img/g/sfw/lilia/abe6c53522a1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9f1e9c9bd9ab",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "町内の運動会、借り物競走。ジャージを脱ぎ捨てて全力疾走、Tシャツが汗で貼りつく",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/tiru/9f1e9c9bd9ab.webp",
+   "thumb": "img/g/sfw/tiru/9f1e9c9bd9ab_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9e9a27db9e40",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "薪に火が点かず、薪を抱えたまま屈んで息を吹き込み続けて前髪が煤で灰色になる",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/lilia/9e9a27db9e40.webp",
+   "thumb": "img/g/sfw/lilia/9e9a27db9e40_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8e7ad1c58f23",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "喫茶店の制服でトレイにコーヒーを載せて、ブレンドコーヒーか紅茶かを聞く",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/tiru/8e7ad1c58f23.webp",
+   "thumb": "img/g/sfw/tiru/8e7ad1c58f23_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "1c78e3e17c40",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "城の厨房にお忍びで入り、初めて玉ねぎを切って、包丁を持ったまま涙目",
+   "date": "2026-09-13",
+   "src": "img/g/sfw/sefi/1c78e3e17c40.webp",
+   "thumb": "img/g/sfw/sefi/1c78e3e17c40_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "ee95682a7bcd",
    "char": "tiru",
