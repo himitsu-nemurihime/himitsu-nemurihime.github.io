@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13",
+ "updated": "2026-09-14",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:sefi": 65,
-  "sfw:lilia": 90,
-  "sfw:tiru": 70,
+  "sfw:lilia": 94,
+  "sfw:sefi": 67,
+  "sfw:tiru": 72,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
  "held": 75,
  "items": [
+  {
+   "id": "b0e3e93634a7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "休日に初めてのボルダリング。壁に張り付いたまま、降り方が分からなくて固まる",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/lilia/b0e3e93634a7.webp",
+   "thumb": "img/g/sfw/lilia/b0e3e93634a7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "af9c20174455",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "お忍びの商店街。八百屋のさつまいもを金貨で買おうとして、店主と一緒に首をかしげる",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/sefi/af9c20174455.webp",
+   "thumb": "img/g/sfw/sefi/af9c20174455_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a8af109259fd",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "もらった林檎をスカートの裾で磨いていたら、裾を上げすぎて太ももまで見えているのに気づかない",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/sefi/a8af109259fd.webp",
+   "thumb": "img/g/sfw/sefi/a8af109259fd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8c1fb86cf78a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "メンズバレンタインデーにちなんで、夕暮れの橋の上で花束を背中に隠し、振り返って片目をつむる",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/lilia/8c1fb86cf78a.webp",
+   "thumb": "img/g/sfw/lilia/8c1fb86cf78a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6fdb0a8a27b1",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "川下りのボート。岩に当たった水しぶきを頭から浴びて、Tシャツが透ける",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/tiru/6fdb0a8a27b1.webp",
+   "thumb": "img/g/sfw/tiru/6fdb0a8a27b1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6de2544e3f87",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "ナース服の衣装合わせ。裾を引っぱって見下ろし、丈の短さにいま気づく",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/lilia/6de2544e3f87.webp",
+   "thumb": "img/g/sfw/lilia/6de2544e3f87_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "3a5f4b58d757",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "里の人が薪を運ぶのを真似して、大きな丸太を一本だけ両腕で抱えてよろよろ歩く",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/tiru/3a5f4b58d757.webp",
+   "thumb": "img/g/sfw/tiru/3a5f4b58d757_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2a91e2495f2b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "ゴスロリ姿で懐中時計のねじを巻きながら、首をかしげて片目をつむる",
+   "date": "2026-09-14",
+   "src": "img/g/sfw/lilia/2a91e2495f2b.webp",
+   "thumb": "img/g/sfw/lilia/2a91e2495f2b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "fe8d9e698894",
    "char": "sefi",
