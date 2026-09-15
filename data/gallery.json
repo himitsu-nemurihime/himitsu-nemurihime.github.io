@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14",
+ "updated": "2026-09-15",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:lilia": 94,
-  "sfw:sefi": 67,
-  "sfw:tiru": 72,
+  "sfw:lilia": 98,
+  "sfw:tiru": 74,
+  "sfw:sefi": 69,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
  "held": 75,
  "items": [
+  {
+   "id": "fd986ff61acf",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "タクシー乗り場。自動で開いた後部ドアに驚いて、両手を上げて後ずさる",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/lilia/fd986ff61acf.webp",
+   "thumb": "img/g/sfw/lilia/fd986ff61acf_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e741391124c4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "ジムのヨガ教室。隣の人の真似で前屈したら、体が思ったより伸びなくて背中が丸まる",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/lilia/e741391124c4.webp",
+   "thumb": "img/g/sfw/lilia/e741391124c4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b3dd18f16c61",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "妖精の羽をつけたハロウィンの仮装で、お菓子のかごを片手に跳ねて、もう片手でキャンディを差し出す",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/tiru/b3dd18f16c61.webp",
+   "thumb": "img/g/sfw/tiru/b3dd18f16c61_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "84484a8b15c1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "厨房で蕎麦を打つ。のし棒で生地を伸ばしていたら粉がふわっと舞って、片目をつむって笑う",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/lilia/84484a8b15c1.webp",
+   "thumb": "img/g/sfw/lilia/84484a8b15c1_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "24b14631db91",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "老人の日にちなんで、縁側に座布団を並べ、お盆で運んだ湯のみのお茶を膝をついて差し出す",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/sefi/24b14631db91.webp",
+   "thumb": "img/g/sfw/sefi/24b14631db91_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "14d670fa53d2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "動物病院の手伝い。診察台の柴犬に顔じゅう舐められて、聴診器を落として大笑い",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/tiru/14d670fa53d2.webp",
+   "thumb": "img/g/sfw/tiru/14d670fa53d2_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "0830abca6715",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "侍女が休みの朝。自分でコルセットの紐を締められず、後ろ手で必死にもがく",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/sefi/0830abca6715.webp",
+   "thumb": "img/g/sfw/sefi/0830abca6715_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "05197ca3dd0a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "回転寿司。流れてくる皿を全部取ろうとして、両手が皿でいっぱいになる",
+   "date": "2026-09-15",
+   "src": "img/g/sfw/lilia/05197ca3dd0a.webp",
+   "thumb": "img/g/sfw/lilia/05197ca3dd0a_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "b0e3e93634a7",
    "char": "lilia",
