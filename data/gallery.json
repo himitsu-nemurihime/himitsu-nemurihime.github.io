@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15",
+ "updated": "2026-09-16",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,131 @@
   }
  },
  "counts": {
-  "sfw:lilia": 98,
-  "sfw:tiru": 74,
-  "sfw:sefi": 69,
+  "sfw:lilia": 102,
+  "sfw:tiru": 77,
+  "sfw:sefi": 71,
   "sfw:three": 4
  },
  "max_nsfw_level": 1,
- "held": 75,
+ "held": 77,
  "items": [
+  {
+   "id": "db9f4d44b08c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "昼下がりの縁側でうつ伏せに寝そべって、黒猫と並んで頬杖をつき、足を上げてぱたぱたさせる。庭には蝶と風鈴",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/lilia/db9f4d44b08c.webp",
+   "thumb": "img/g/sfw/lilia/db9f4d44b08c_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "cf6d706ea76d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "初めての自転車。補助輪付きで公園を走り、耳が風でぱたぱたする",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/tiru/cf6d706ea76d.webp",
+   "thumb": "img/g/sfw/tiru/cf6d706ea76d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "adaa6906287c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "騎士の訓練場。木剣を持たせてもらったが、構えが決まらず騎士たちに笑われる",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/sefi/adaa6906287c.webp",
+   "thumb": "img/g/sfw/sefi/adaa6906287c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9c03944ec54e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA おでこにキスして寝かしつける",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/lilia/9c03944ec54e.webp",
+   "thumb": "img/g/sfw/lilia/9c03944ec54e_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "7da87851c11c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "マッチの日。夕暮れの庭で、木に吊るしたランタンと足元のろうそくに火を灯し終え、かごを提げて振り返って笑う",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/tiru/7da87851c11c.webp",
+   "thumb": "img/g/sfw/tiru/7da87851c11c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "322f5f5db22c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "宇宙の日の夜。里の屋上に寝転んで流れ星を数えるうち、パーカーの裾がめくれてお腹が出る",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/tiru/322f5f5db22c.webp",
+   "thumb": "img/g/sfw/tiru/322f5f5db22c_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "0ca525147708",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜、蝋燭の灯る部屋で、ゴスロリ姿のリリアが茶葉の入った瓶を両手で抱えてウインクし、今夜の紅茶の淹れ方を問いかける",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/lilia/0ca525147708.webp",
+   "thumb": "img/g/sfw/lilia/0ca525147708_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "085762a772ff",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "昼休みのビルの屋上。ビル風にスカートを押さえながら、片手でお弁当を守る",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/lilia/085762a772ff.webp",
+   "thumb": "img/g/sfw/lilia/085762a772ff_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "01764a4dc56f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の道場で、片膝をついて薙刀を横に払う。素振りの一振りで髪がなびき、口元だけ得意げ",
+   "date": "2026-09-16",
+   "src": "img/g/sfw/sefi/01764a4dc56f.webp",
+   "thumb": "img/g/sfw/sefi/01764a4dc56f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "fd986ff61acf",
    "char": "lilia",
