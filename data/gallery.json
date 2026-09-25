@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,27 @@
   }
  },
  "counts": {
+  "sfw:lilia": 135,
   "sfw:sefi": 90,
-  "sfw:lilia": 134,
   "sfw:tiru": 102,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 99,
  "items": [
+  {
+   "id": "0cdfd4fe8da9",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA ランジェリーショップの試着室のカーテンを",
+   "date": "2026-09-26",
+   "src": "img/g/sfw/lilia/0cdfd4fe8da9.webp",
+   "thumb": "img/g/sfw/lilia/0cdfd4fe8da9_t.webp",
+   "w": 1280,
+   "h": 720
+  },
   {
    "id": "f1b016b88dcc",
    "char": "sefi",
