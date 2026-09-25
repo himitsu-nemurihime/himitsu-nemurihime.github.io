@@ -25,7 +25,7 @@
  "counts": {
   "sfw:tiru": 99,
   "sfw:sefi": 88,
-  "sfw:lilia": 127,
+  "sfw:lilia": 128,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -132,6 +132,19 @@
    "date": "2026-09-24",
    "src": "img/g/sfw/sefi/5404dbfbcd40.webp",
    "thumb": "img/g/sfw/sefi/5404dbfbcd40_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4fc721a35643",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 H3動画 両手を前で重ねて丁寧にお辞儀し、顔を上げ",
+   "date": "2026-09-24",
+   "src": "img/g/sfw/lilia/4fc721a35643.webp",
+   "thumb": "img/g/sfw/lilia/4fc721a35643_t.webp",
    "w": 720,
    "h": 1280
   },
