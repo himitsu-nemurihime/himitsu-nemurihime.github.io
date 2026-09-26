@@ -25,11 +25,11 @@
  "counts": {
   "sfw:tiru": 105,
   "sfw:sefi": 95,
-  "sfw:lilia": 141,
+  "sfw:lilia": 142,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 101,
+ "held": 102,
  "items": [
   {
    "id": "e9d326436ea5",
@@ -67,6 +67,19 @@
    "date": "2026-09-27",
    "src": "img/g/sfw/lilia/96cb44b08267.webp",
    "thumb": "img/g/sfw/lilia/96cb44b08267_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "4f11988b3dc1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 男装の子が花嫁をお姫様抱っこして退場する",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/lilia/4f11988b3dc1.webp",
+   "thumb": "img/g/sfw/lilia/4f11988b3dc1_t.webp",
    "w": 1280,
    "h": 720
   },
