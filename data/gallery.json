@@ -23,14 +23,40 @@
   }
  },
  "counts": {
-  "sfw:tiru": 105,
-  "sfw:sefi": 95,
-  "sfw:lilia": 142,
+  "sfw:tiru": 107,
+  "sfw:lilia": 144,
+  "sfw:sefi": 98,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 102,
+ "held": 103,
  "items": [
+  {
+   "id": "fa679406a435",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "森の湯屋で長湯をして、手ぬぐいを頭に載せたまま船を漕ぎはじめる",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/tiru/fa679406a435.webp",
+   "thumb": "img/g/sfw/tiru/fa679406a435_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "ec58002f10c8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "世界観光の日にちなんで、スーツケースと旅",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/lilia/ec58002f10c8.webp",
+   "thumb": "img/g/sfw/lilia/ec58002f10c8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "e9d326436ea5",
    "char": "tiru",
@@ -42,6 +68,19 @@
    "src": "img/g/sfw/tiru/e9d326436ea5.webp",
    "thumb": "img/g/sfw/tiru/e9d326436ea5_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "e17068dd1dba",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "森のきのこ狩りで、籠がいっぱいになる前に食べられる種類が一つも分からなくなる",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/lilia/e17068dd1dba.webp",
+   "thumb": "img/g/sfw/lilia/e17068dd1dba_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -58,6 +97,19 @@
    "h": 1280
   },
   {
+   "id": "a7405993180e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 H3動画 両手を胸の前で合わせてから、頬の横で指ハ",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/tiru/a7405993180e.webp",
+   "thumb": "img/g/sfw/tiru/a7405993180e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "96cb44b08267",
    "char": "lilia",
    "nsfw": false,
@@ -69,6 +121,32 @@
    "thumb": "img/g/sfw/lilia/96cb44b08267_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "651e8c8f51eb",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 戦いのあと倒れた相手を抱き起こす",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/sefi/651e8c8f51eb.webp",
+   "thumb": "img/g/sfw/sefi/651e8c8f51eb_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "64a5055b6261",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "午後の調香室で、セフィリアが香水瓶のふたを開け、目を閉じて香りを確かめている",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/sefi/64a5055b6261.webp",
+   "thumb": "img/g/sfw/sefi/64a5055b6261_t.webp",
+   "w": 1280,
+   "h": 1280
   },
   {
    "id": "4f11988b3dc1",
@@ -95,6 +173,19 @@
    "thumb": "img/g/sfw/lilia/3a195fd8fc5d_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "147f76a884ed",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 戦いのあと倒れた相手を抱き起こす",
+   "date": "2026-09-27",
+   "src": "img/g/sfw/sefi/147f76a884ed.webp",
+   "thumb": "img/g/sfw/sefi/147f76a884ed_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "f37522811e31",
