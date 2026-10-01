@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 160,
-  "sfw:sefi": 108,
-  "sfw:tiru": 117,
+  "sfw:lilia": 163,
+  "sfw:sefi": 109,
+  "sfw:tiru": 118,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -58,6 +58,19 @@
    "h": 1280
   },
   {
+   "id": "c9d601ac2ce2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "人波が引いた会場で、誘導灯の明かりを一本ずつ消して回る",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/lilia/c9d601ac2ce2.webp",
+   "thumb": "img/g/sfw/lilia/c9d601ac2ce2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "aad74bcbc866",
    "char": "sefi",
    "nsfw": false,
@@ -84,6 +97,32 @@
    "h": 1280
   },
   {
+   "id": "89bb6b2b1c1f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "衣替えの日。リリアが寝室の床で夏服をたたんで箱にしまい、出したセーターを胸に当てて見せる",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/lilia/89bb6b2b1c1f.webp",
+   "thumb": "img/g/sfw/lilia/89bb6b2b1c1f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7bfe380b2dfe",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "在宅ワークの合間、集中が切れたセフィリアがノートパソコンの前で大きく伸びをする",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/sefi/7bfe380b2dfe.webp",
+   "thumb": "img/g/sfw/sefi/7bfe380b2dfe_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "6e8e2b04298c",
    "char": "tiru",
    "nsfw": false,
@@ -95,6 +134,32 @@
    "thumb": "img/g/sfw/tiru/6e8e2b04298c_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "221a89f2f313",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA ハロウィンの衣装の着付け。リリアがティル",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/lilia/221a89f2f313.webp",
+   "thumb": "img/g/sfw/lilia/221a89f2f313_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "037a0e851606",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "森の妖精の里の朝市で、焼きたての蜂蜜パンを両手で掲げ、パン屋の店先で背伸びしてお礼を言う",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/tiru/037a0e851606.webp",
+   "thumb": "img/g/sfw/tiru/037a0e851606_t.webp",
+   "w": 1280,
+   "h": 1280
   },
   {
    "id": "f9b41f099584",
