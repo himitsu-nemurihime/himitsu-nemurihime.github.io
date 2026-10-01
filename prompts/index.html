@@ -90,12 +90,12 @@
 </section>
 </main>
 <footer><p>ひみつの眠り姫 <span class="heart">♡</span></p></footer>
-<script>(function(){document.querySelectorAll('.ps-copy').forEach(function(b){
+<script>window.psCopyBind=function(root){root.querySelectorAll('.ps-copy').forEach(function(b){
 b.addEventListener('click',function(){var t=document.getElementById(b.getAttribute('data-target'));
 var txt=t.value;function ok(){b.textContent='コピーしました';b.classList.add('done');
 setTimeout(function(){b.textContent='📋 ワンタップでコピー';b.classList.remove('done');},1800);}
 if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(ok,function(){t.select();document.execCommand('copy');ok();});}
 else{t.select();document.execCommand('copy');ok();}});});
-document.querySelectorAll('.ps-box pre').forEach(function(pr){pr.addEventListener('click',function(){var b=pr.parentNode.querySelector('.ps-copy');if(b)b.click();});});})();</script>
+root.querySelectorAll('.ps-box pre').forEach(function(pr){pr.addEventListener('click',function(){var b=pr.parentNode.querySelector('.ps-copy');if(b)b.click();});});};psCopyBind(document);</script>
 </body>
 </html>
