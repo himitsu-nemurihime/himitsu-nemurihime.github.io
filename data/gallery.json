@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,79 @@
   }
  },
  "counts": {
-  "sfw:sefi": 106,
-  "sfw:lilia": 158,
-  "sfw:tiru": 116,
+  "sfw:lilia": 160,
+  "sfw:sefi": 108,
+  "sfw:tiru": 117,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 108,
+ "held": 109,
  "items": [
+  {
+   "id": "fb96128663e6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 窓辺のソファで一冊の本を二人で読み、同じ",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/lilia/fb96128663e6.webp",
+   "thumb": "img/g/sfw/lilia/fb96128663e6_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "e05933bf3db2",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "街の酒場の給仕を代わり、盆を高く上げたまま人混みを抜けようとして服が乱れる",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/sefi/e05933bf3db2.webp",
+   "thumb": "img/g/sfw/sefi/e05933bf3db2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "aad74bcbc866",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "温泉。湯気の中で肩まで浸かって溶けている",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/sefi/aad74bcbc866.webp",
+   "thumb": "img/g/sfw/sefi/aad74bcbc866_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "90b7e7f5d46f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "コンビニの新商品の前で3分動かない",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/lilia/90b7e7f5d46f.webp",
+   "thumb": "img/g/sfw/lilia/90b7e7f5d46f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6e8e2b04298c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "夜露で寝床が濡れ、服が背に貼りついたまま目を覚ます",
+   "date": "2026-10-01",
+   "src": "img/g/sfw/tiru/6e8e2b04298c.webp",
+   "thumb": "img/g/sfw/tiru/6e8e2b04298c_t.webp",
+   "w": 1280,
+   "h": 720
+  },
   {
    "id": "f9b41f099584",
    "char": "sefi",
