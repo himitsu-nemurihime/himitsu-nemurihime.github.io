@@ -183,8 +183,11 @@
 </section>
 </main>
 <footer><p>ひみつの眠り姫 <span class="heart">♡</span></p></footer>
+<script>window.goatcounter={path:function(p){return location.host+p}};</script>
+<script data-goatcounter="https://aibs-prompts.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script>window.psCopyBind=function(root){root.querySelectorAll('.ps-copy').forEach(function(b){
 b.addEventListener('click',function(){var t=document.getElementById(b.getAttribute('data-target'));
+if(window.goatcounter&&goatcounter.count)goatcounter.count({path:'copy-'+location.host+location.pathname+'#'+b.getAttribute('data-target'),title:'プロンプトをコピー',event:true});
 var txt=t.value;function ok(){b.textContent='コピーしました';b.classList.add('done');
 setTimeout(function(){b.textContent='📋 ワンタップでコピー';b.classList.remove('done');},1800);}
 if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(ok,function(){t.select();document.execCommand('copy');ok();});}
