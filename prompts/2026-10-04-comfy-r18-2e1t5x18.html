@@ -83,6 +83,7 @@ full body, from below, looking at viewer, happy, smile, heart-shaped pupils, ope
 <p style="text-align:center;margin:34px 0 0"><a class="gate-btn ghost" href="../index.html" style="color:var(--ink-dim);border-color:var(--line)">部屋に戻る</a></p>
 </section></template>
 <script>(function(){var g=document.getElementById('psgate'),t=document.getElementById('psr18'),o=document.getElementById('psr18out');document.getElementById('psopen').addEventListener('click',function(){o.appendChild(document.importNode(t.content,true));g.remove();if(window.psCopyBind)psCopyBind(o);if(window.goatcounter&&goatcounter.count)goatcounter.count({path:location.host+location.pathname});});})();</script>
+<p id="ps-views" hidden style="text-align:center;font-size:12px;opacity:.55;margin:22px 0 6px"></p>
 </main>
 <footer><p>ひみつの眠り姫 <span class="heart">♡</span></p></footer>
 <script>window.goatcounter={path:function(p){return location.host+p},no_onload:true};</script>
@@ -95,5 +96,6 @@ setTimeout(function(){b.textContent='📋 ワンタップでコピー';b.classLi
 if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(ok,function(){t.select();document.execCommand('copy');ok();});}
 else{t.select();document.execCommand('copy');ok();}});});
 root.querySelectorAll('.ps-box pre').forEach(function(pr){pr.addEventListener('click',function(){var b=pr.parentNode.querySelector('.ps-copy');if(b)b.click();});});};psCopyBind(document);</script>
+<script>(function(){var e=document.getElementById('ps-views');if(!e||!window.fetch)return;fetch('https://aibs-prompts.goatcounter.com/counter/'+encodeURIComponent(location.host+location.pathname)+'.json').then(function(r){return r.ok?r.json():null}).then(function(j){if(j&&j.count){e.textContent='👀 このページの閲覧 '+j.count;e.hidden=false;}}).catch(function(){});})();</script>
 </body>
 </html>
