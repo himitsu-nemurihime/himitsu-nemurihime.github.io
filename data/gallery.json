@@ -23,14 +23,53 @@
   }
  },
  "counts": {
-  "sfw:lilia": 168,
-  "sfw:sefi": 113,
-  "sfw:tiru": 120,
+  "sfw:lilia": 171,
+  "sfw:sefi": 116,
+  "sfw:tiru": 122,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 110,
  "items": [
+  {
+   "id": "fc0aa1289fad",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIメガNee Nii",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/fc0aa1289fad.webp",
+   "thumb": "img/g/sfw/lilia/fc0aa1289fad_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "f52e23fbe58c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#まさしく愛だ",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/f52e23fbe58c.webp",
+   "thumb": "img/g/sfw/lilia/f52e23fbe58c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d63f9bdd836c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI晴れたらいいね",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/sefi/d63f9bdd836c.webp",
+   "thumb": "img/g/sfw/sefi/d63f9bdd836c_t.webp",
+   "w": 1280,
+   "h": 720
+  },
   {
    "id": "acfd061106b3",
    "char": "lilia",
@@ -42,6 +81,71 @@
    "src": "img/g/sfw/lilia/acfd061106b3.webp",
    "thumb": "img/g/sfw/lilia/acfd061106b3_t.webp",
    "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "860274b3194c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIオクトーバーフェスト2026",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/sefi/860274b3194c.webp",
+   "thumb": "img/g/sfw/sefi/860274b3194c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5d33b3957527",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#むちむちフライデー",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/sefi/5d33b3957527.webp",
+   "thumb": "img/g/sfw/sefi/5d33b3957527_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "51f52243afcf",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#おばけたちのお菓子パーティー",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/tiru/51f52243afcf.webp",
+   "thumb": "img/g/sfw/tiru/51f52243afcf_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "4147c4ac471c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#街角の土曜な衣装店",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/tiru/4147c4ac471c.webp",
+   "thumb": "img/g/sfw/tiru/4147c4ac471c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2a020ed57d4d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#水墨グラビティ",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/2a020ed57d4d.webp",
+   "thumb": "img/g/sfw/lilia/2a020ed57d4d_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
