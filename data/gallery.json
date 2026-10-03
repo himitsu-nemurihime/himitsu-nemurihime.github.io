@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,27 @@
   }
  },
  "counts": {
+  "sfw:lilia": 168,
   "sfw:sefi": 113,
   "sfw:tiru": 120,
-  "sfw:lilia": 167,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 110,
  "items": [
+  {
+   "id": "acfd061106b3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#世界の聖剣",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/acfd061106b3.webp",
+   "thumb": "img/g/sfw/lilia/acfd061106b3_t.webp",
+   "w": 1024,
+   "h": 1280
+  },
   {
    "id": "db21dc27eea5",
    "char": "sefi",
