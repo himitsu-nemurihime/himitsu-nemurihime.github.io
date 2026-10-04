@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 174,
+  "sfw:lilia": 175,
   "sfw:sefi": 117,
   "sfw:tiru": 123,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 110,
+ "held": 111,
  "items": [
   {
    "id": "1c9dc7c9e738",
@@ -94,6 +94,19 @@
    "src": "img/g/sfw/lilia/d3d1039b887b.webp",
    "thumb": "img/g/sfw/lilia/d3d1039b887b_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c7a7168aa334",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 洋館の午後、紅茶を注ぐ側と受ける側",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/c7a7168aa334.webp",
+   "thumb": "img/g/sfw/lilia/c7a7168aa334_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
