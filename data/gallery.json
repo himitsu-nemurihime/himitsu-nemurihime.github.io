@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 179,
-  "sfw:tiru": 124,
-  "sfw:sefi": 119,
+  "sfw:lilia": 185,
+  "sfw:sefi": 122,
+  "sfw:tiru": 126,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 111,
+ "held": 114,
  "items": [
   {
    "id": "1c9dc7c9e738",
@@ -45,6 +45,32 @@
    "h": 720
   },
   {
+   "id": "f69a6bc2a3b3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 洋館の温室で背の高い鉢に二人がかりで水を",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/f69a6bc2a3b3.webp",
+   "thumb": "img/g/sfw/lilia/f69a6bc2a3b3_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "ec3344a07709",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 流れ星が走った瞬間、屋根の上の二人が同時",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/ec3344a07709.webp",
+   "thumb": "img/g/sfw/lilia/ec3344a07709_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "e914e3ddfa57",
    "char": "lilia",
    "nsfw": false,
@@ -55,6 +81,84 @@
    "src": "img/g/sfw/lilia/e914e3ddfa57.webp",
    "thumb": "img/g/sfw/lilia/e914e3ddfa57_t.webp",
    "w": 960,
+   "h": 1280
+  },
+  {
+   "id": "e2a9c76d3c17",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "硬貨を数えるたびに数が合わなくなる",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/sefi/e2a9c76d3c17.webp",
+   "thumb": "img/g/sfw/sefi/e2a9c76d3c17_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "d61907cd2f3a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "村の祭りの輪踊りで、わざとスカートを大きく翻してショーツを見せ、振り返って舌を出して笑う",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/tiru/d61907cd2f3a.webp",
+   "thumb": "img/g/sfw/tiru/d61907cd2f3a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b11f87ffab9e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夜明けの漁港。朝焼けを背にした岸壁で、競りに並んだ魚の木箱を覗き込み、バケツを提げたまま首をかしげる",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/b11f87ffab9e.webp",
+   "thumb": "img/g/sfw/lilia/b11f87ffab9e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a15cec044ed9",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "丘の上の村で、石段をのぼりきったところで強い風に髪とスカートをあおられて驚く",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/sefi/a15cec044ed9.webp",
+   "thumb": "img/g/sfw/sefi/a15cec044ed9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6c319d60a2c1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "読書の秋。本屋の新刊の棚の前で、トートバッグを提げたリリアが表紙を見比べて目を輝かせる",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/6c319d60a2c1.webp",
+   "thumb": "img/g/sfw/lilia/6c319d60a2c1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "61cd595ae360",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "ハロウィンの前の夜、魔女の格好のティルナが脚立の上でかぼちゃのランタンを飾り、片目をつぶっていたずらっぽく笑う",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/tiru/61cd595ae360.webp",
+   "thumb": "img/g/sfw/tiru/61cd595ae360_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -81,6 +185,45 @@
    "src": "img/g/sfw/lilia/3ff925aa6ed2.webp",
    "thumb": "img/g/sfw/lilia/3ff925aa6ed2_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "12a01ce64424",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 紅葉の森のハンモックで子猫とうたた寝（C",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/12a01ce64424.webp",
+   "thumb": "img/g/sfw/lilia/12a01ce64424_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "109d64d273c6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "紅葉狩りの山道でおにぎりを頬張っていたら、目の前の枝に栗鼠が来て、口に入れたまま固まる",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/109d64d273c6.webp",
+   "thumb": "img/g/sfw/lilia/109d64d273c6_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "084a136460a8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "世界動物の日にちなんで、動物図鑑と虫眼鏡",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/sefi/084a136460a8.webp",
+   "thumb": "img/g/sfw/sefi/084a136460a8_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
