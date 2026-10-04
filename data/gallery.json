@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 171,
-  "sfw:sefi": 116,
-  "sfw:tiru": 122,
+  "sfw:lilia": 173,
+  "sfw:sefi": 117,
+  "sfw:tiru": 123,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -71,6 +71,19 @@
    "h": 720
   },
   {
+   "id": "d3d1039b887b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "著者順か ジャンル順か",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/d3d1039b887b.webp",
+   "thumb": "img/g/sfw/lilia/d3d1039b887b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "acfd061106b3",
    "char": "lilia",
    "nsfw": false,
@@ -81,6 +94,19 @@
    "src": "img/g/sfw/lilia/acfd061106b3.webp",
    "thumb": "img/g/sfw/lilia/acfd061106b3_t.webp",
    "w": 1024,
+   "h": 1280
+  },
+  {
+   "id": "abdae0a33523",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "登山の日。紅葉の山道の途中、セフィリアが岩に片足をかけて、ひと息ついて水筒を掲げる",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/sefi/abdae0a33523.webp",
+   "thumb": "img/g/sfw/sefi/abdae0a33523_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -106,6 +132,19 @@
    "date": "2026-10-03",
    "src": "img/g/sfw/sefi/5d33b3957527.webp",
    "thumb": "img/g/sfw/sefi/5d33b3957527_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "56d503f0fc0e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "放水の水圧に負けて、ホースを抱えたまま後ろへよろける",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/tiru/56d503f0fc0e.webp",
+   "thumb": "img/g/sfw/tiru/56d503f0fc0e_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -146,6 +185,19 @@
    "src": "img/g/sfw/lilia/2a020ed57d4d.webp",
    "thumb": "img/g/sfw/lilia/2a020ed57d4d_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "11d8b5b0b808",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "寝る前、ろうそくの灯りの中で着替えの途中に振り返って、見られていたことにむくれる",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/11d8b5b0b808.webp",
+   "thumb": "img/g/sfw/lilia/11d8b5b0b808_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
