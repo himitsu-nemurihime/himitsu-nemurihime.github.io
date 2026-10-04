@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 175,
-  "sfw:sefi": 117,
-  "sfw:tiru": 123,
+  "sfw:lilia": 179,
+  "sfw:tiru": 124,
+  "sfw:sefi": 119,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -43,6 +43,45 @@
    "thumb": "img/g/sfw/lilia/1c9dc7c9e738_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "e914e3ddfa57",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#怪異に出会った私たち",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/e914e3ddfa57.webp",
+   "thumb": "img/g/sfw/lilia/e914e3ddfa57_t.webp",
+   "w": 960,
+   "h": 1280
+  },
+  {
+   "id": "4c9c4de47cf0",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ゆるまよ犬猫感謝祭",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/tiru/4c9c4de47cf0.webp",
+   "thumb": "img/g/sfw/tiru/4c9c4de47cf0_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "3ff925aa6ed2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#天冥神話譚",
+   "date": "2026-10-04",
+   "src": "img/g/sfw/lilia/3ff925aa6ed2.webp",
+   "thumb": "img/g/sfw/lilia/3ff925aa6ed2_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "fc0aa1289fad",
@@ -136,6 +175,32 @@
    "h": 1280
   },
   {
+   "id": "9292d31d8119",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#伝説のセーターVS彼シャツ",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/sefi/9292d31d8119.webp",
+   "thumb": "img/g/sfw/sefi/9292d31d8119_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "88a19b37601d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#伝説のセーターVS彼シャツ",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/sefi/88a19b37601d.webp",
+   "thumb": "img/g/sfw/sefi/88a19b37601d_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "860274b3194c",
    "char": "sefi",
    "nsfw": false,
@@ -145,6 +210,19 @@
    "date": "2026-10-03",
    "src": "img/g/sfw/sefi/860274b3194c.webp",
    "thumb": "img/g/sfw/sefi/860274b3194c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "70f4bf97376b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#最高のデカとワルで埋め尽くしたい",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/70f4bf97376b.webp",
+   "thumb": "img/g/sfw/lilia/70f4bf97376b_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -224,6 +302,19 @@
    "src": "img/g/sfw/lilia/11d8b5b0b808.webp",
    "thumb": "img/g/sfw/lilia/11d8b5b0b808_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "009b39712854",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#最高のデカとワルで埋め尽くしたい",
+   "date": "2026-10-03",
+   "src": "img/g/sfw/lilia/009b39712854.webp",
+   "thumb": "img/g/sfw/lilia/009b39712854_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
