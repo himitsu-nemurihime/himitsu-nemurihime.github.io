@@ -25,7 +25,7 @@
  "counts": {
   "sfw:lilia": 194,
   "sfw:sefi": 129,
-  "sfw:tiru": 135,
+  "sfw:tiru": 136,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -782,6 +782,19 @@
    "date": "2026-10-03",
    "src": "img/g/sfw/lilia/009b39712854.webp",
    "thumb": "img/g/sfw/lilia/009b39712854_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e85a9a156350",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メメントモリハロウィン",
+   "date": "2026-10-02",
+   "src": "img/g/sfw/tiru/e85a9a156350.webp",
+   "thumb": "img/g/sfw/tiru/e85a9a156350_t.webp",
    "w": 720,
    "h": 1280
   },
