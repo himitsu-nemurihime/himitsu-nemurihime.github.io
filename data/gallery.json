@@ -23,14 +23,40 @@
   }
  },
  "counts": {
-  "sfw:sefi": 136,
-  "sfw:lilia": 205,
-  "sfw:tiru": 143,
+  "sfw:tiru": 145,
+  "sfw:sefi": 137,
+  "sfw:lilia": 207,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 127,
+ "held": 130,
  "items": [
+  {
+   "id": "a25350dd497e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "朝稽古の道場。襷を掛け直そうと身をかがめたティルナの着物が、肩からするりと滑り落ちて、慌てて押さえる",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/tiru/a25350dd497e.webp",
+   "thumb": "img/g/sfw/tiru/a25350dd497e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "75c7fe44284d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "お風呂上がりの寝室で、もこもこのパジャマのティルナの濡れた髪をセフィリアがドライヤーで乾かしてあげる。くすぐったくて身を",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/sefi/75c7fe44284d.webp",
+   "thumb": "img/g/sfw/sefi/75c7fe44284d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "73284df8cfda",
    "char": "sefi",
@@ -71,6 +97,19 @@
    "h": 1280
   },
   {
+   "id": "5da02568b8cd",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "ジョギングコースで走りすぎて、ベンチにひっくり返って足を上げたまま息を整える",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/tiru/5da02568b8cd.webp",
+   "thumb": "img/g/sfw/tiru/5da02568b8cd_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "3be4570e9fd6",
    "char": "lilia",
    "nsfw": false,
@@ -84,6 +123,19 @@
    "h": 720
   },
   {
+   "id": "30f14b05ccea",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "古い写真館のスタジオ。暗幕をかぶって蛇腹カメラを覗いていたリリアが、布からはみ出したお尻と脚を気にもせず、顔だけ出してこ",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/lilia/30f14b05ccea.webp",
+   "thumb": "img/g/sfw/lilia/30f14b05ccea_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "246dd6fa86d9",
    "char": "tiru",
    "nsfw": false,
@@ -95,6 +147,19 @@
    "thumb": "img/g/sfw/tiru/246dd6fa86d9_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "09f897b6c7c0",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 森のキャンプの焚き火。一枚の毛布に二人で",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/lilia/09f897b6c7c0.webp",
+   "thumb": "img/g/sfw/lilia/09f897b6c7c0_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "f6b1dd203f23",
