@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,79 @@
   }
  },
  "counts": {
-  "sfw:tiru": 141,
-  "sfw:lilia": 203,
-  "sfw:sefi": 135,
+  "sfw:sefi": 136,
+  "sfw:lilia": 205,
+  "sfw:tiru": 143,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 127,
  "items": [
+  {
+   "id": "73284df8cfda",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "紅葉の森の小道で2人乗りの自転車。前でこぐセフィリアがふらついて、後ろのリリアが帽子を押さえながら必死にしがみつく",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/sefi/73284df8cfda.webp",
+   "thumb": "img/g/sfw/sefi/73284df8cfda_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6c40e6deebf8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "古い図書館の書架の前。矢絣の袴姿のリリアが、恋物語と冒険物語の2冊を両手に持って見比べ、どっちを読むか首をかしげる",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/lilia/6c40e6deebf8.webp",
+   "thumb": "img/g/sfw/lilia/6c40e6deebf8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5e1319af9d11",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "目の愛護デーにちなんで、丸い眼鏡ときらめ",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/tiru/5e1319af9d11.webp",
+   "thumb": "img/g/sfw/tiru/5e1319af9d11_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3be4570e9fd6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA ブランコ競争のあと、一台のブランコに片方",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/lilia/3be4570e9fd6.webp",
+   "thumb": "img/g/sfw/lilia/3be4570e9fd6_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "246dd6fa86d9",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "張り詰めた弓道場の射場。弓道着と袴に胸当てのティルナが矢を放ち、的のど真ん中に当たった瞬間、弓を持ったまま小さくガッツポ",
+   "date": "2026-10-10",
+   "src": "img/g/sfw/tiru/246dd6fa86d9.webp",
+   "thumb": "img/g/sfw/tiru/246dd6fa86d9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f6b1dd203f23",
    "char": "tiru",
