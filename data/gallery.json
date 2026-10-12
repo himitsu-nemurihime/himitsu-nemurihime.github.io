@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-12",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,27 @@
   }
  },
  "counts": {
+  "sfw:lilia": 209,
   "sfw:tiru": 146,
   "sfw:sefi": 138,
-  "sfw:lilia": 208,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 130,
+ "held": 131,
  "items": [
+  {
+   "id": "06a955794769",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 古い図書館の書架。同じ本に同時に手を伸ば",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/lilia/06a955794769.webp",
+   "thumb": "img/g/sfw/lilia/06a955794769_t.webp",
+   "w": 1280,
+   "h": 720
+  },
   {
    "id": "a25350dd497e",
    "char": "tiru",
