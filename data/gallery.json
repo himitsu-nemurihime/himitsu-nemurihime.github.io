@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 211,
-  "sfw:tiru": 147,
-  "sfw:sefi": 139,
+  "sfw:tiru": 149,
+  "sfw:lilia": 212,
+  "sfw:sefi": 140,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 131,
+ "held": 133,
  "items": [
+  {
+   "id": "fc3f28eebd4b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "人間の下着を渡されて、着方が分からず頭からかぶる",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/tiru/fc3f28eebd4b.webp",
+   "thumb": "img/g/sfw/tiru/fc3f28eebd4b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "e6d3b51c477a",
    "char": "lilia",
@@ -45,6 +58,19 @@
    "h": 1280
   },
   {
+   "id": "b502e0701c14",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "森の小川の岩に腹ばいになって、流れる落ち葉を指で止めようとする",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/lilia/b502e0701c14.webp",
+   "thumb": "img/g/sfw/lilia/b502e0701c14_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "acf55db63756",
    "char": "tiru",
    "nsfw": false,
@@ -55,6 +81,19 @@
    "src": "img/g/sfw/tiru/acf55db63756.webp",
    "thumb": "img/g/sfw/tiru/acf55db63756_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "aa2fef921a83",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕暮れの森の木の橋で、赤い提灯の並ぶ下、棒の先のランタンを高く掲げてくるりと回る",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/sefi/aa2fef921a83.webp",
+   "thumb": "img/g/sfw/sefi/aa2fef921a83_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -80,6 +119,19 @@
    "date": "2026-10-12",
    "src": "img/g/sfw/lilia/47b3e0f6760f.webp",
    "thumb": "img/g/sfw/lilia/47b3e0f6760f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "21996801e9ec",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "仮装パーティーの楽屋で、ティルナのバニーの背中のファスナーをセフィリアが上げてあげる。くるっと回って「どう？」と見せ合う",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/tiru/21996801e9ec.webp",
+   "thumb": "img/g/sfw/tiru/21996801e9ec_t.webp",
    "w": 720,
    "h": 1280
   },
