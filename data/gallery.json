@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:tiru": 145,
-  "sfw:sefi": 137,
-  "sfw:lilia": 207,
+  "sfw:tiru": 146,
+  "sfw:sefi": 138,
+  "sfw:lilia": 208,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -175,6 +175,19 @@
    "h": 1280
   },
   {
+   "id": "e78a6d144c2c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "道具の日にちなんで、木製の道具箱と金槌と",
+   "date": "2026-10-09",
+   "src": "img/g/sfw/sefi/e78a6d144c2c.webp",
+   "thumb": "img/g/sfw/sefi/e78a6d144c2c_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "d59beffbde4c",
    "char": "tiru",
    "nsfw": false,
@@ -201,6 +214,19 @@
    "h": 1280
   },
   {
+   "id": "80031601e7ed",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "首を鳴らそうとして、思ったより大きな音が出る",
+   "date": "2026-10-09",
+   "src": "img/g/sfw/lilia/80031601e7ed.webp",
+   "thumb": "img/g/sfw/lilia/80031601e7ed_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "38963c91b1d7",
    "char": "sefi",
    "nsfw": false,
@@ -223,6 +249,19 @@
    "date": "2026-10-09",
    "src": "img/g/sfw/tiru/2dd5c62d05d1.webp",
    "thumb": "img/g/sfw/tiru/2dd5c62d05d1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0489cc31fafd",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "鐘の音に合わせて跳ねているうちに拍子がずれる",
+   "date": "2026-10-09",
+   "src": "img/g/sfw/tiru/0489cc31fafd.webp",
+   "thumb": "img/g/sfw/tiru/0489cc31fafd_t.webp",
    "w": 720,
    "h": 1280
   },
