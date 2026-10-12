@@ -23,14 +23,66 @@
   }
  },
  "counts": {
-  "sfw:lilia": 209,
-  "sfw:tiru": 146,
-  "sfw:sefi": 138,
+  "sfw:lilia": 211,
+  "sfw:tiru": 147,
+  "sfw:sefi": 139,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 131,
  "items": [
+  {
+   "id": "e6d3b51c477a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "飾りつけの脚立の上で星を枝に載せたあと、下を見て足がすくむ",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/lilia/e6d3b51c477a.webp",
+   "thumb": "img/g/sfw/lilia/e6d3b51c477a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "acf55db63756",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "雨の公園で、街灯のそばで傘をさして待ち、しょんぼりする",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/tiru/acf55db63756.webp",
+   "thumb": "img/g/sfw/tiru/acf55db63756_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "693e809a04f7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "スポーツの日にちなんで、スニーカーとスト",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/sefi/693e809a04f7.webp",
+   "thumb": "img/g/sfw/sefi/693e809a04f7_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "47b3e0f6760f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "お城の温室のお茶会。セフィリアがポットを高く傾けて紅茶を注ぎすぎ、リリアがカップを両手で支えてあふれそうなのを笑いながら",
+   "date": "2026-10-12",
+   "src": "img/g/sfw/lilia/47b3e0f6760f.webp",
+   "thumb": "img/g/sfw/lilia/47b3e0f6760f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "06a955794769",
    "char": "lilia",
