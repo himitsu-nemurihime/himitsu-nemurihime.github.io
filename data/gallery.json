@@ -25,7 +25,7 @@
  "counts": {
   "sfw:tiru": 149,
   "sfw:lilia": 212,
-  "sfw:sefi": 140,
+  "sfw:sefi": 141,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -342,6 +342,19 @@
    "thumb": "img/g/sfw/lilia/80031601e7ed_t.webp",
    "w": 1280,
    "h": 1280
+  },
+  {
+   "id": "432c7e75317c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 連弾の途中で片方がふざけて音を外し、もう",
+   "date": "2026-10-09",
+   "src": "img/g/sfw/sefi/432c7e75317c.webp",
+   "thumb": "img/g/sfw/sefi/432c7e75317c_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "38963c91b1d7",
