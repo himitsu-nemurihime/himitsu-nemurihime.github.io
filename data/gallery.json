@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,131 @@
   }
  },
  "counts": {
+  "sfw:lilia": 216,
+  "sfw:sefi": 145,
   "sfw:tiru": 149,
-  "sfw:lilia": 212,
-  "sfw:sefi": 141,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 133,
+ "held": 137,
  "items": [
+  {
+   "id": "f74b3ad874ca",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "りんご狩りの果樹園。脚立の上のリリアがりんごを落とし、下のティルナがかごで受け止めようとして頭で受けてしまう",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/f74b3ad874ca.webp",
+   "thumb": "img/g/sfw/lilia/f74b3ad874ca_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ef11d7d46096",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "連弾の途中で片方がふざけて音を外し、もう片方が横目で睨む",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/sefi/ef11d7d46096.webp",
+   "thumb": "img/g/sfw/sefi/ef11d7d46096_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "de7542982a33",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "二人羽織で習字。墨がはねて前の子の頬に点が三つ増える",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/sefi/de7542982a33.webp",
+   "thumb": "img/g/sfw/sefi/de7542982a33_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "cb9da55cb48f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "鍾乳洞の天井から落ちた水滴が首すじに当たり、ぴくっと肩をすくめて振り返る",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/sefi/cb9da55cb48f.webp",
+   "thumb": "img/g/sfw/sefi/cb9da55cb48f_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "8bb71e115cc8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "魔法少女の衣装で変身ポーズ。ステッキを掲げた瞬間に風で帽子が飛ぶ",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/8bb71e115cc8.webp",
+   "thumb": "img/g/sfw/lilia/8bb71e115cc8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5df05b4592bc",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 落ち葉の焚き火のそば。焼きたての焼き芋を",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/5df05b4592bc.webp",
+   "thumb": "img/g/sfw/lilia/5df05b4592bc_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "5619c21def6e",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "井戸の水を汲みそこねて桶をかぶり、裾が脚に貼りつく",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/sefi/5619c21def6e.webp",
+   "thumb": "img/g/sfw/sefi/5619c21def6e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "213d292999a5",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 提灯の灯る城下町の芝居小屋の桟敷。秋柄の",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/213d292999a5.webp",
+   "thumb": "img/g/sfw/lilia/213d292999a5_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "06a955794769",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 古い図書館の書架。同じ本に同時に手を伸ば",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/06a955794769.webp",
+   "thumb": "img/g/sfw/lilia/06a955794769_t.webp",
+   "w": 1280,
+   "h": 720
+  },
   {
    "id": "fc3f28eebd4b",
    "char": "tiru",
@@ -134,19 +251,6 @@
    "thumb": "img/g/sfw/tiru/21996801e9ec_t.webp",
    "w": 720,
    "h": 1280
-  },
-  {
-   "id": "06a955794769",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": true,
-   "level": 0,
-   "title": "定時 2人LoRA 古い図書館の書架。同じ本に同時に手を伸ば",
-   "date": "2026-10-12",
-   "src": "img/g/sfw/lilia/06a955794769.webp",
-   "thumb": "img/g/sfw/lilia/06a955794769_t.webp",
-   "w": 1280,
-   "h": 720
   },
   {
    "id": "a25350dd497e",
