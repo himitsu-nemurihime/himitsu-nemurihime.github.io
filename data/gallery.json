@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 216,
-  "sfw:sefi": 145,
-  "sfw:tiru": 149,
+  "sfw:lilia": 217,
+  "sfw:sefi": 146,
+  "sfw:tiru": 151,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -97,6 +97,19 @@
    "h": 1280
   },
   {
+   "id": "750249a78ec1",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝のオフィス。初出勤のセフィリアがスーツ姿で回転椅子に座り、くるりと一回転してしまって慌てて机に手をつき、隣の席に向かっ",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/sefi/750249a78ec1.webp",
+   "thumb": "img/g/sfw/sefi/750249a78ec1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "5df05b4592bc",
    "char": "lilia",
    "nsfw": false,
@@ -108,6 +121,19 @@
    "thumb": "img/g/sfw/lilia/5df05b4592bc_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "568d5663cced",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "サツマイモの日にちなんで、焼き芋と秋の落",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/tiru/568d5663cced.webp",
+   "thumb": "img/g/sfw/tiru/568d5663cced_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "5619c21def6e",
@@ -123,6 +149,19 @@
    "h": 1280
   },
   {
+   "id": "25b36ec44f67",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "ハロウィン前夜、お城の大広間で仮装の見せ合い。魔女になったティルナが杖を振ってポーズを決め、吸血鬼のマントを羽織ったセフ",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/tiru/25b36ec44f67.webp",
+   "thumb": "img/g/sfw/tiru/25b36ec44f67_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "213d292999a5",
    "char": "lilia",
    "nsfw": false,
@@ -134,6 +173,19 @@
    "thumb": "img/g/sfw/lilia/213d292999a5_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "17f84ac40b04",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "衣替えの午後、たたんだ夏服を箱にしまい終えたリリアが、薄手のカーディガンの袖に腕を通しながら振り返る",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/17f84ac40b04.webp",
+   "thumb": "img/g/sfw/lilia/17f84ac40b04_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "06a955794769",
