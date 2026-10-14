@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,92 @@
   }
  },
  "counts": {
-  "sfw:lilia": 217,
-  "sfw:sefi": 147,
-  "sfw:tiru": 151,
+  "sfw:sefi": 150,
+  "sfw:lilia": 218,
+  "sfw:tiru": 153,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 137,
  "items": [
+  {
+   "id": "fc8423d96cf1",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AQUAビーチタイム",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/sefi/fc8423d96cf1.webp",
+   "thumb": "img/g/sfw/sefi/fc8423d96cf1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "bc89290074e8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIケモ耳曜日",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/lilia/bc89290074e8.webp",
+   "thumb": "img/g/sfw/lilia/bc89290074e8_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "a9e941f95e9b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宝石のうちの子",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/tiru/a9e941f95e9b.webp",
+   "thumb": "img/g/sfw/tiru/a9e941f95e9b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "33f13a8030a4",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#AIさいかわ寝顔",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/sefi/33f13a8030a4.webp",
+   "thumb": "img/g/sfw/sefi/33f13a8030a4_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "28586d9d8df5",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI秋の風物詩",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/tiru/28586d9d8df5.webp",
+   "thumb": "img/g/sfw/tiru/28586d9d8df5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "06af39ab597b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#水と浄化の水曜日",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/sefi/06af39ab597b.webp",
+   "thumb": "img/g/sfw/sefi/06af39ab597b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f74b3ad874ca",
    "char": "lilia",
