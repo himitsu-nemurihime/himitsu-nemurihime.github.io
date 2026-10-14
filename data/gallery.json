@@ -24,7 +24,7 @@
  },
  "counts": {
   "sfw:lilia": 217,
-  "sfw:sefi": 146,
+  "sfw:sefi": 147,
   "sfw:tiru": 151,
   "sfw:three": 12
  },
@@ -82,6 +82,19 @@
    "thumb": "img/g/sfw/sefi/cb9da55cb48f_t.webp",
    "w": 1280,
    "h": 1280
+  },
+  {
+   "id": "a2bd19290845",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 夜の観覧車のゴンドラ。頂上で窓に額を寄せ",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/sefi/a2bd19290845.webp",
+   "thumb": "img/g/sfw/sefi/a2bd19290845_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "8bb71e115cc8",
