@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "sfw:sefi": 154,
+  "sfw:sefi": 155,
   "sfw:lilia": 225,
   "sfw:tiru": 157,
   "sfw:three": 12
@@ -31,6 +31,19 @@
  "max_nsfw_level": 1,
  "held": 140,
  "items": [
+  {
+   "id": "5610c83f9f6b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ゆる募ネコが主役にゃ",
+   "date": "2026-10-15",
+   "src": "img/g/sfw/sefi/5610c83f9f6b.webp",
+   "thumb": "img/g/sfw/sefi/5610c83f9f6b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "fc8423d96cf1",
    "char": "sefi",
