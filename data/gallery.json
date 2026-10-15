@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:sefi": 153,
-  "sfw:lilia": 222,
-  "sfw:tiru": 156,
+  "sfw:sefi": 154,
+  "sfw:lilia": 225,
+  "sfw:tiru": 157,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -41,6 +41,19 @@
    "date": "2026-10-14",
    "src": "img/g/sfw/sefi/fc8423d96cf1.webp",
    "thumb": "img/g/sfw/sefi/fc8423d96cf1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f03857f0a970",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#ジャックの招待状",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/lilia/f03857f0a970.webp",
+   "thumb": "img/g/sfw/lilia/f03857f0a970_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -344,6 +357,19 @@
    "h": 720
   },
   {
+   "id": "5855bd837c14",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIゆめかわハロウィン",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/5855bd837c14.webp",
+   "thumb": "img/g/sfw/lilia/5855bd837c14_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "568d5663cced",
    "char": "tiru",
    "nsfw": false,
@@ -366,6 +392,19 @@
    "date": "2026-10-13",
    "src": "img/g/sfw/sefi/5619c21def6e.webp",
    "thumb": "img/g/sfw/sefi/5619c21def6e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "41b351ce08e7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ブーツ射出",
+   "date": "2026-10-13",
+   "src": "img/g/sfw/lilia/41b351ce08e7.webp",
+   "thumb": "img/g/sfw/lilia/41b351ce08e7_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -1046,6 +1085,19 @@
    "h": 720
   },
   {
+   "id": "6a82ea71e507",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIスチームパンク2026",
+   "date": "2026-10-06",
+   "src": "img/g/sfw/sefi/6a82ea71e507.webp",
+   "thumb": "img/g/sfw/sefi/6a82ea71e507_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "69b33119e690",
    "char": "lilia",
    "nsfw": false,
@@ -1107,6 +1159,19 @@
    "date": "2026-10-06",
    "src": "img/g/sfw/lilia/30c140431c08.webp",
    "thumb": "img/g/sfw/lilia/30c140431c08_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "15a4f7de380a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIサバゲー女子",
+   "date": "2026-10-06",
+   "src": "img/g/sfw/tiru/15a4f7de380a.webp",
+   "thumb": "img/g/sfw/tiru/15a4f7de380a_t.webp",
    "w": 720,
    "h": 1280
   },
