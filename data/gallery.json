@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:sefi": 150,
-  "sfw:lilia": 218,
-  "sfw:tiru": 153,
+  "sfw:sefi": 153,
+  "sfw:lilia": 222,
+  "sfw:tiru": 156,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 137,
+ "held": 140,
  "items": [
   {
    "id": "fc8423d96cf1",
@@ -58,6 +58,19 @@
    "h": 1280
   },
   {
+   "id": "b8039109ff87",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "季節外れの屋内プール。浮き輪に乗ったティルナがリリアに水鉄砲で狙われて、水しぶきの中できゃっと逃げる",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/tiru/b8039109ff87.webp",
+   "thumb": "img/g/sfw/tiru/b8039109ff87_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "a9e941f95e9b",
    "char": "tiru",
    "nsfw": false,
@@ -69,6 +82,71 @@
    "thumb": "img/g/sfw/tiru/a9e941f95e9b_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "9a3c2aac1bb0",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "城の宝物庫。目録作りの手を止めたリリアが、王冠をこっそり頭に載せてみて、手に取った青い宝石を窓の光にかざし、誰にも見られ",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/lilia/9a3c2aac1bb0.webp",
+   "thumb": "img/g/sfw/lilia/9a3c2aac1bb0_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "8b9da0c4abde",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "森の苗床で、並べた鉢に名札を挿していく",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/tiru/8b9da0c4abde.webp",
+   "thumb": "img/g/sfw/tiru/8b9da0c4abde_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7bfb3013a6e6",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "標本箱の甲虫に鼻がつくほど近づく",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/tiru/7bfb3013a6e6.webp",
+   "thumb": "img/g/sfw/tiru/7bfb3013a6e6_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "66ff4d0077b6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "お城の屋上で3人並んでお月見。ティルナが真ん中で団子を両手に持ち、リリアとセフィリアが両側から肩に毛布をかけてあげる",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/lilia/66ff4d0077b6.webp",
+   "thumb": "img/g/sfw/lilia/66ff4d0077b6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3a4f5e6a985f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 星見の丘の天体望遠鏡。接眼レンズを覗いて",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/sefi/3a4f5e6a985f.webp",
+   "thumb": "img/g/sfw/sefi/3a4f5e6a985f_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "33f13a8030a4",
@@ -95,6 +173,58 @@
    "thumb": "img/g/sfw/tiru/28586d9d8df5_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "1d696a24c6f2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "資源ごみの分別表とにらめっこして手が止まる",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/lilia/1d696a24c6f2.webp",
+   "thumb": "img/g/sfw/lilia/1d696a24c6f2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "156af128ef8f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "鉄道の日にちなんで、鉄道模型と切符、駅の",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/lilia/156af128ef8f.webp",
+   "thumb": "img/g/sfw/lilia/156af128ef8f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "145fa280baf6",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "図書室の長椅子に横になって背表紙を眺める",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/sefi/145fa280baf6.webp",
+   "thumb": "img/g/sfw/sefi/145fa280baf6_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "0f85eac416b7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 秋の収穫祭の屋台の前。エプロンドレスのセ",
+   "date": "2026-10-14",
+   "src": "img/g/sfw/sefi/0f85eac416b7.webp",
+   "thumb": "img/g/sfw/sefi/0f85eac416b7_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "06af39ab597b",
