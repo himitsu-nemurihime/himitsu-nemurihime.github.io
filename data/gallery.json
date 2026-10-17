@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,131 @@
   }
  },
  "counts": {
-  "sfw:sefi": 164,
-  "sfw:tiru": 166,
-  "sfw:lilia": 236,
+  "sfw:lilia": 241,
+  "sfw:tiru": 168,
+  "sfw:sefi": 166,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 147,
+ "held": 150,
  "items": [
+  {
+   "id": "d95cde428d56",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 高い本棚の並ぶ夜の王宮の書庫。ナイトガウ",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/d95cde428d56.webp",
+   "thumb": "img/g/sfw/lilia/d95cde428d56_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "95722f7cb536",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "休日にどこにも行かないと決めた午後。窓の日差しのソファで毛布にくるまったティルナが、クッションを抱いて寝転がり、満足そう",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/tiru/95722f7cb536.webp",
+   "thumb": "img/g/sfw/tiru/95722f7cb536_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "85b074d938e3",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "街の配達を手伝い、最後の一通の届け先が自分の泊まる宿だと気づいて封筒を持ったまま首をかしげる",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/sefi/85b074d938e3.webp",
+   "thumb": "img/g/sfw/sefi/85b074d938e3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6b107fdc79bb",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "秋の朝の神社の境内。巫女装束で竹箒を持ったティルナが、せっかく集めた落ち葉の山に風が吹きつけて舞い上がり、慌てて箒を振り",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/tiru/6b107fdc79bb.webp",
+   "thumb": "img/g/sfw/tiru/6b107fdc79bb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5bad5a0e034d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "暖炉のある談話室の編み物。セフィリアの毛糸が椅子の脚に絡まって困り顔になり、リリアがしゃがんで笑いながら毛糸をほどいてあ",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/5bad5a0e034d.webp",
+   "thumb": "img/g/sfw/lilia/5bad5a0e034d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4cfcb433cd59",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "読書の秋にちなんで、積み上げた本と紅葉の",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/4cfcb433cd59.webp",
+   "thumb": "img/g/sfw/lilia/4cfcb433cd59_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "40aebbff3f9e",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "鍛冶場の炉の熱に驚いて一歩下がる",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/sefi/40aebbff3f9e.webp",
+   "thumb": "img/g/sfw/sefi/40aebbff3f9e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "39c0a239c828",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 城下町の石畳の蚤の市の帽子屋台。ティルナ",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/39c0a239c828.webp",
+   "thumb": "img/g/sfw/lilia/39c0a239c828_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "0f9de01f6eb2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "古城の図書室の夜。机いっぱいに古い地図を広げたリリアとセフィリアが、燭台の灯りで隅に描かれた小さな星の印を見つけて、同時",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/0f9de01f6eb2.webp",
+   "thumb": "img/g/sfw/lilia/0f9de01f6eb2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "ea2b27c06959",
    "char": "sefi",
