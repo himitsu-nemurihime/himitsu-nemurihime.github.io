@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,66 @@
   }
  },
  "counts": {
-  "sfw:lilia": 241,
-  "sfw:tiru": 168,
-  "sfw:sefi": 166,
+  "sfw:sefi": 170,
+  "sfw:tiru": 171,
+  "sfw:lilia": 246,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 150,
  "items": [
+  {
+   "id": "659eb89bfccd",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI秋色マルシェ",
+   "date": "2026-10-18",
+   "src": "img/g/sfw/sefi/659eb89bfccd.webp",
+   "thumb": "img/g/sfw/sefi/659eb89bfccd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1c4c61ea25a4",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#おしゃきゃわパーティー",
+   "date": "2026-10-18",
+   "src": "img/g/sfw/tiru/1c4c61ea25a4.webp",
+   "thumb": "img/g/sfw/tiru/1c4c61ea25a4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0647f4636202",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#月夜のキョンシー展",
+   "date": "2026-10-18",
+   "src": "img/g/sfw/lilia/0647f4636202.webp",
+   "thumb": "img/g/sfw/lilia/0647f4636202_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e64e66d2998b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#月見夜温泉",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/tiru/e64e66d2998b.webp",
+   "thumb": "img/g/sfw/tiru/e64e66d2998b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "d95cde428d56",
    "char": "lilia",
@@ -45,6 +97,71 @@
    "h": 720
   },
   {
+   "id": "c90c0152c974",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#神さまのわがまま",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/sefi/c90c0152c974.webp",
+   "thumb": "img/g/sfw/sefi/c90c0152c974_t.webp",
+   "w": 960,
+   "h": 1280
+  },
+  {
+   "id": "bb135e6953a3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#月夜のオパールハロウィン",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/bb135e6953a3.webp",
+   "thumb": "img/g/sfw/lilia/bb135e6953a3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a8c6950b6c62",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#マッドサイエンティスト大行進",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/tiru/a8c6950b6c62.webp",
+   "thumb": "img/g/sfw/tiru/a8c6950b6c62_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a42c325f8537",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#あなたが見つけた秋の色",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/sefi/a42c325f8537.webp",
+   "thumb": "img/g/sfw/sefi/a42c325f8537_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9a14e65cec03",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI秋の中華ロリータプリンセス",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/9a14e65cec03.webp",
+   "thumb": "img/g/sfw/lilia/9a14e65cec03_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "95722f7cb536",
    "char": "tiru",
    "nsfw": false,
@@ -56,6 +173,32 @@
    "thumb": "img/g/sfw/tiru/95722f7cb536_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "8fbb4d7b0558",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#胃痛恋愛ゲーム二択",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/8fbb4d7b0558.webp",
+   "thumb": "img/g/sfw/lilia/8fbb4d7b0558_t.webp",
+   "w": 960,
+   "h": 1280
+  },
+  {
+   "id": "8b9ac2cd5fef",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#みんと企画ナースステーション",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/sefi/8b9ac2cd5fef.webp",
+   "thumb": "img/g/sfw/sefi/8b9ac2cd5fef_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "85b074d938e3",
@@ -80,6 +223,19 @@
    "date": "2026-10-17",
    "src": "img/g/sfw/tiru/6b107fdc79bb.webp",
    "thumb": "img/g/sfw/tiru/6b107fdc79bb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "647e784caf64",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "秋祭りの夕暮れの通り。法被に鉢巻の太鼓方のリリアが、獅子舞の後ろで大きな和太鼓の前に立ってばちを構え、提灯の灯りに目を細",
+   "date": "2026-10-17",
+   "src": "img/g/sfw/lilia/647e784caf64.webp",
+   "thumb": "img/g/sfw/lilia/647e784caf64_t.webp",
    "w": 720,
    "h": 1280
   },
