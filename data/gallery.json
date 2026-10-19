@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,131 @@
   }
  },
  "counts": {
-  "sfw:sefi": 173,
-  "sfw:lilia": 250,
-  "sfw:tiru": 173,
+  "sfw:sefi": 179,
+  "sfw:lilia": 252,
+  "sfw:tiru": 174,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 153,
+ "held": 155,
  "items": [
+  {
+   "id": "f845a02772bc",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "乗馬の後、侍女が居ないので厩の脇の椅子に座り、片脚を高く上げて自分でブーツを引き抜こうとする",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/sefi/f845a02772bc.webp",
+   "thumb": "img/g/sfw/sefi/f845a02772bc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ec6dbbb301d4",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "秋の雨の日の軒下。セフィリアの開いた水色の傘に、ずぶ濡れのティルナが駆け込んできて、2人で一本の傘の下に肩を寄せて笑う",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/sefi/ec6dbbb301d4.webp",
+   "thumb": "img/g/sfw/sefi/ec6dbbb301d4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "caeabf191f32",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "氷を扱いすぎて指が動かなくなり、火照った首筋に手の甲を当てて冷やす",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/lilia/caeabf191f32.webp",
+   "thumb": "img/g/sfw/lilia/caeabf191f32_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "c03e7f836038",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "秋の運動会の二人三脚。足首を結んだセフィリアとティルナがゴール前でつまずきかけ、肩を組んだまま大笑いしてゴールテープへ倒",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/sefi/c03e7f836038.webp",
+   "thumb": "img/g/sfw/sefi/c03e7f836038_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ac5f3ff18bd2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "早朝の漁港の競り市。魚箱の間を長靴で歩いたティルナが、競りの手振りを真似して笑い、漁師汁の椀の湯気に顔をほころばせる",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/tiru/ac5f3ff18bd2.webp",
+   "thumb": "img/g/sfw/tiru/ac5f3ff18bd2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7dbf90fb4775",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "金木犀の並木道。黒いコートのリリアが、両手を背中へまわしたまま、満開の枝に顔を寄せて、目を閉じて香りにうっとり",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/lilia/7dbf90fb4775.webp",
+   "thumb": "img/g/sfw/lilia/7dbf90fb4775_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6ad12c39323c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "焼きたてのパンの匂いにつられて店の前で止まる",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/sefi/6ad12c39323c.webp",
+   "thumb": "img/g/sfw/sefi/6ad12c39323c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2f6a0c6ae2bb",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "秋の運動会のリレー。体操服のセフィリアがバトンを握って全力で走り、髪とはちまきをなびかせながら、生まれて初めての本気の顔",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/sefi/2f6a0c6ae2bb.webp",
+   "thumb": "img/g/sfw/sefi/2f6a0c6ae2bb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1755b45458af",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 木漏れ日の小川。スカートのすそを持ち上げ",
+   "date": "2026-10-19",
+   "src": "img/g/sfw/sefi/1755b45458af.webp",
+   "thumb": "img/g/sfw/sefi/1755b45458af_t.webp",
+   "w": 1280,
+   "h": 720
+  },
   {
    "id": "e79e1c9b9ddd",
    "char": "sefi",
