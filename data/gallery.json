@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -32,6 +32,45 @@
  "held": 158,
  "items": [
   {
+   "id": "bcb75b879827",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#威嚇カーテシーメイド",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/bcb75b879827.webp",
+   "thumb": "img/g/sfw/lilia/bcb75b879827_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3a02d3214dbf",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#威嚇カーテシーメイド 3",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/3a02d3214dbf.webp",
+   "thumb": "img/g/sfw/tiru/3a02d3214dbf_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "32f4286348f8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#威嚇カーテシーメイド 2",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/32f4286348f8.webp",
+   "thumb": "img/g/sfw/sefi/32f4286348f8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "f1513f0db46e",
    "char": "lilia",
    "nsfw": false,
@@ -56,19 +95,6 @@
    "thumb": "img/g/sfw/lilia/eaac38796c8b_t.webp",
    "w": 1280,
    "h": 720
-  },
-  {
-   "id": "bcb75b879827",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#威嚇カーテシーメイド",
-   "date": "2026-10-20",
-   "src": "img/g/sfw/lilia/bcb75b879827.webp",
-   "thumb": "img/g/sfw/lilia/bcb75b879827_t.webp",
-   "w": 720,
-   "h": 1280
   },
   {
    "id": "ba6a33ac980c",
@@ -123,19 +149,6 @@
    "h": 1280
   },
   {
-   "id": "3a02d3214dbf",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#威嚇カーテシーメイド 3",
-   "date": "2026-10-20",
-   "src": "img/g/sfw/tiru/3a02d3214dbf.webp",
-   "thumb": "img/g/sfw/tiru/3a02d3214dbf_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
    "id": "39287aea98b9",
    "char": "sefi",
    "nsfw": false,
@@ -145,19 +158,6 @@
    "date": "2026-10-20",
    "src": "img/g/sfw/sefi/39287aea98b9.webp",
    "thumb": "img/g/sfw/sefi/39287aea98b9_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "32f4286348f8",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#威嚇カーテシーメイド 2",
-   "date": "2026-10-20",
-   "src": "img/g/sfw/sefi/32f4286348f8.webp",
-   "thumb": "img/g/sfw/sefi/32f4286348f8_t.webp",
    "w": 720,
    "h": 1280
   },
