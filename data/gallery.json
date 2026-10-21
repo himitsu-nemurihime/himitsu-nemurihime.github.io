@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:sefi": 189,
-  "sfw:lilia": 264,
-  "sfw:tiru": 183,
+  "sfw:sefi": 191,
+  "sfw:lilia": 265,
+  "sfw:tiru": 187,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -71,6 +71,45 @@
    "h": 1280
   },
   {
+   "id": "e87877f670f3",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#berserkermoon",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/e87877f670f3.webp",
+   "thumb": "img/g/sfw/tiru/e87877f670f3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d6b507369e30",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うぇんずでーうぃんく",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/d6b507369e30.webp",
+   "thumb": "img/g/sfw/lilia/d6b507369e30_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "d57bccfe3502",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#水曜防具展",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/d57bccfe3502.webp",
+   "thumb": "img/g/sfw/tiru/d57bccfe3502_t.webp",
+   "w": 960,
+   "h": 1280
+  },
+  {
    "id": "cddc70b2aa36",
    "char": "sefi",
    "nsfw": false,
@@ -106,6 +145,19 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/lilia/bcb75b879827.webp",
    "thumb": "img/g/sfw/lilia/bcb75b879827_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b94cf0eb7ed7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI相撲大会",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/b94cf0eb7ed7.webp",
+   "thumb": "img/g/sfw/sefi/b94cf0eb7ed7_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -171,6 +223,32 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/tiru/8e2037dcfcfc.webp",
    "thumb": "img/g/sfw/tiru/8e2037dcfcfc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "82a9c8f26dd4",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI秋のさくら祭り",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/82a9c8f26dd4.webp",
+   "thumb": "img/g/sfw/tiru/82a9c8f26dd4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6b3069806eed",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ゆる募ワンコとの絆だワン",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/6b3069806eed.webp",
+   "thumb": "img/g/sfw/tiru/6b3069806eed_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -263,6 +341,19 @@
    "src": "img/g/sfw/sefi/32f4286348f8.webp",
    "thumb": "img/g/sfw/sefi/32f4286348f8_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1ce2fe95a4dc",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#神々は眠らない",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/1ce2fe95a4dc.webp",
+   "thumb": "img/g/sfw/sefi/1ce2fe95a4dc_t.webp",
+   "w": 960,
    "h": 1280
   },
   {
