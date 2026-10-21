@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:sefi": 191,
-  "sfw:lilia": 265,
-  "sfw:tiru": 187,
+  "sfw:sefi": 194,
+  "sfw:lilia": 270,
+  "sfw:tiru": 189,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 167,
+ "held": 170,
  "items": [
   {
    "id": "ffe847bca7dc",
@@ -71,6 +71,19 @@
    "h": 1280
   },
   {
+   "id": "e913871c0ca1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 夜の工房で、二人で作ったステンドグラスの",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/e913871c0ca1.webp",
+   "thumb": "img/g/sfw/lilia/e913871c0ca1_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "e87877f670f3",
    "char": "tiru",
    "nsfw": false,
@@ -80,6 +93,19 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/tiru/e87877f670f3.webp",
    "thumb": "img/g/sfw/tiru/e87877f670f3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "de69c4ad70d8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "竹林の小径にしゃがみこみ、土から顔を出した筍を見つけて、指さして振り向く",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/de69c4ad70d8.webp",
+   "thumb": "img/g/sfw/lilia/de69c4ad70d8_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -136,6 +162,19 @@
    "h": 1280
   },
   {
+   "id": "bd6325284865",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "美術館の大きな肖像画の前。3人がそれぞれ絵の中の貴婦人と同じポーズをまねして、見ていた人に気づいて笑い出す",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/bd6325284865.webp",
+   "thumb": "img/g/sfw/lilia/bd6325284865_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "bcb75b879827",
    "char": "lilia",
    "nsfw": false,
@@ -162,6 +201,19 @@
    "h": 1280
   },
   {
+   "id": "b840e215fbb2",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "長い石段を登りきって、手すりにもたれる",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/b840e215fbb2.webp",
+   "thumb": "img/g/sfw/sefi/b840e215fbb2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b21b75705e74",
    "char": "sefi",
    "nsfw": false,
@@ -173,6 +225,19 @@
    "thumb": "img/g/sfw/sefi/b21b75705e74_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "abcea36411ac",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 青空のりんご園の木陰。セフィリアとティル",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/abcea36411ac.webp",
+   "thumb": "img/g/sfw/sefi/abcea36411ac_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "a11725406b69",
@@ -214,6 +279,32 @@
    "h": 1280
   },
   {
+   "id": "94ba56840573",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "あかりの日にちなんで、電球とランタン、暖",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/94ba56840573.webp",
+   "thumb": "img/g/sfw/lilia/94ba56840573_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "94081833a597",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "薄物のドレスで陽に立ち、透けているのに気づかない",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/94081833a597.webp",
+   "thumb": "img/g/sfw/sefi/94081833a597_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "8e2037dcfcfc",
    "char": "tiru",
    "nsfw": false,
@@ -236,6 +327,19 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/tiru/82a9c8f26dd4.webp",
    "thumb": "img/g/sfw/tiru/82a9c8f26dd4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7dec97a25ef3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "月明かりの屋上テラス。セフィリアがティルナにワルツのステップを教え、ティルナが足もとを見ながら一生けんめいまねして、リリ",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/7dec97a25ef3.webp",
+   "thumb": "img/g/sfw/lilia/7dec97a25ef3_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -344,6 +448,19 @@
    "h": 1280
   },
   {
+   "id": "2fc2103e1790",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "自動車整備工場の手伝い。タイヤを転がして運ぶうちに、タイヤに乗って回ろうとする",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/2fc2103e1790.webp",
+   "thumb": "img/g/sfw/tiru/2fc2103e1790_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "1ce2fe95a4dc",
    "char": "sefi",
    "nsfw": false,
@@ -366,6 +483,19 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/sefi/16d6abb980ee.webp",
    "thumb": "img/g/sfw/sefi/16d6abb980ee_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0fe395ec4939",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の駅の改札。初めて切符を通したティルナが、切符が機械に吸い込まれて「食べられた！」と両手を上げて驚き、改札の向こうから",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/0fe395ec4939.webp",
+   "thumb": "img/g/sfw/tiru/0fe395ec4939_t.webp",
    "w": 720,
    "h": 1280
   },
