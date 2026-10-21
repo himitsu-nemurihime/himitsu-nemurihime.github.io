@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:sefi": 185,
-  "sfw:lilia": 262,
-  "sfw:tiru": 181,
+  "sfw:sefi": 188,
+  "sfw:lilia": 263,
+  "sfw:tiru": 183,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 161,
+ "held": 165,
  "items": [
   {
    "id": "ffe847bca7dc",
@@ -188,6 +188,19 @@
    "h": 1280
   },
   {
+   "id": "fd98219c70b3",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋の行楽 2",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/sefi/fd98219c70b3.webp",
+   "thumb": "img/g/sfw/sefi/fd98219c70b3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "f1513f0db46e",
    "char": "lilia",
    "nsfw": false,
@@ -227,6 +240,45 @@
    "h": 1280
   },
   {
+   "id": "b21b75705e74",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#動物 2",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/sefi/b21b75705e74.webp",
+   "thumb": "img/g/sfw/sefi/b21b75705e74_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "989eabff4ea3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋の行楽",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/lilia/989eabff4ea3.webp",
+   "thumb": "img/g/sfw/lilia/989eabff4ea3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8e2037dcfcfc",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋の行楽 3",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/tiru/8e2037dcfcfc.webp",
+   "thumb": "img/g/sfw/tiru/8e2037dcfcfc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "8b75ef1f7993",
    "char": "tiru",
    "nsfw": false,
@@ -262,6 +314,19 @@
    "date": "2026-10-20",
    "src": "img/g/sfw/tiru/60e056da9f53.webp",
    "thumb": "img/g/sfw/tiru/60e056da9f53_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "609a3f7062c2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#動物 3",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/tiru/609a3f7062c2.webp",
+   "thumb": "img/g/sfw/tiru/609a3f7062c2_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -3110,6 +3175,19 @@
    "src": "img/g/sfw/lilia/36dc0a60e0b4.webp",
    "thumb": "img/g/sfw/lilia/36dc0a60e0b4_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "0eef375d7b78",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#TEA 2",
+   "date": "2026-10-02",
+   "src": "img/g/sfw/sefi/0eef375d7b78.webp",
+   "thumb": "img/g/sfw/sefi/0eef375d7b78_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
