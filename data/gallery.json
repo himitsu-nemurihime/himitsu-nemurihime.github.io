@@ -24,8 +24,8 @@
  },
  "counts": {
   "sfw:sefi": 185,
-  "sfw:lilia": 261,
-  "sfw:tiru": 180,
+  "sfw:lilia": 262,
+  "sfw:tiru": 181,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -41,6 +41,32 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/sefi/ffe847bca7dc.webp",
    "thumb": "img/g/sfw/sefi/ffe847bca7dc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ee2ba9a51fda",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#神無月に舞う巫女",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/ee2ba9a51fda.webp",
+   "thumb": "img/g/sfw/lilia/ee2ba9a51fda_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c6f59d0e89c8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#コスモウエディング 3",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/c6f59d0e89c8.webp",
+   "thumb": "img/g/sfw/tiru/c6f59d0e89c8_t.webp",
    "w": 720,
    "h": 1280
   },
