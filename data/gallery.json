@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 259,
-  "sfw:tiru": 178,
-  "sfw:sefi": 182,
+  "sfw:sefi": 185,
+  "sfw:lilia": 260,
+  "sfw:tiru": 180,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 158,
  "items": [
+  {
+   "id": "ffe847bca7dc",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#神無月に舞う巫女 2",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/ffe847bca7dc.webp",
+   "thumb": "img/g/sfw/sefi/ffe847bca7dc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "bcb75b879827",
    "char": "lilia",
@@ -41,6 +54,58 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/lilia/bcb75b879827.webp",
    "thumb": "img/g/sfw/lilia/bcb75b879827_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a11725406b69",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#神無月に舞う巫女 3",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/a11725406b69.webp",
+   "thumb": "img/g/sfw/tiru/a11725406b69_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "695304c1fa9c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#コスモウエディング",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/695304c1fa9c.webp",
+   "thumb": "img/g/sfw/lilia/695304c1fa9c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "668d788f798c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#Halloween 3",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/tiru/668d788f798c.webp",
+   "thumb": "img/g/sfw/tiru/668d788f798c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "52d7b01e4dec",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#Halloween 2",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/52d7b01e4dec.webp",
+   "thumb": "img/g/sfw/sefi/52d7b01e4dec_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -67,6 +132,19 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/sefi/32f4286348f8.webp",
    "thumb": "img/g/sfw/sefi/32f4286348f8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "16d6abb980ee",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#コスモウエディング 2",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/sefi/16d6abb980ee.webp",
+   "thumb": "img/g/sfw/sefi/16d6abb980ee_t.webp",
    "w": 720,
    "h": 1280
   },
