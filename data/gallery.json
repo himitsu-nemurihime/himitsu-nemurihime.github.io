@@ -24,12 +24,12 @@
  },
  "counts": {
   "sfw:sefi": 185,
-  "sfw:lilia": 260,
+  "sfw:lilia": 261,
   "sfw:tiru": 180,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 158,
+ "held": 161,
  "items": [
   {
    "id": "ffe847bca7dc",
@@ -67,6 +67,19 @@
    "date": "2026-10-21",
    "src": "img/g/sfw/tiru/a11725406b69.webp",
    "thumb": "img/g/sfw/tiru/a11725406b69_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "960b1087f14a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#Halloween",
+   "date": "2026-10-21",
+   "src": "img/g/sfw/lilia/960b1087f14a.webp",
+   "thumb": "img/g/sfw/lilia/960b1087f14a_t.webp",
    "w": 720,
    "h": 1280
   },
