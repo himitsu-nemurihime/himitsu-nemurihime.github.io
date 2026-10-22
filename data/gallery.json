@@ -23,14 +23,40 @@
   }
  },
  "counts": {
-  "sfw:sefi": 202,
-  "sfw:tiru": 197,
-  "sfw:lilia": 280,
+  "sfw:lilia": 287,
+  "sfw:sefi": 204,
+  "sfw:tiru": 199,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 176,
+ "held": 179,
  "items": [
+  {
+   "id": "fc9ff73c9726",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "紅葉狩りの帰りのバスで寝過ごして終点に着き、慌ててリュックを抱えたまま降りて走り出す",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/fc9ff73c9726.webp",
+   "thumb": "img/g/sfw/lilia/fc9ff73c9726_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f3677bc2dbc6",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子のあみぐるみプロンプト（GPT-",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/sefi/f3677bc2dbc6.webp",
+   "thumb": "img/g/sfw/sefi/f3677bc2dbc6_t.webp",
+   "w": 853,
+   "h": 1280
+  },
   {
    "id": "ee265e179eeb",
    "char": "sefi",
@@ -42,6 +68,19 @@
    "src": "img/g/sfw/sefi/ee265e179eeb.webp",
    "thumb": "img/g/sfw/sefi/ee265e179eeb_t.webp",
    "w": 914,
+   "h": 1280
+  },
+  {
+   "id": "ee1cc91d1082",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "玉入れのあと、数える声に合わせて指を一本ずつ折りながら、籠を見上げて真剣な顔",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/tiru/ee1cc91d1082.webp",
+   "thumb": "img/g/sfw/tiru/ee1cc91d1082_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -67,6 +106,19 @@
    "date": "2026-10-22",
    "src": "img/g/sfw/tiru/e041e7cac6b3.webp",
    "thumb": "img/g/sfw/tiru/e041e7cac6b3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cfac36ea8420",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "キャットリボンの日。木漏れ日の庭のベンチで、ティルナが首輪に緑のリボンを結んでもらった三毛猫を抱き上げ、ほっぺをくっつけ",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/tiru/cfac36ea8420.webp",
+   "thumb": "img/g/sfw/tiru/cfac36ea8420_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -136,6 +188,19 @@
    "h": 1280
   },
   {
+   "id": "b7bc7572f7be",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の厩舎。白い子馬のたてがみに3人で小さな花を編みこみ、子馬がセフィリアの頬に鼻を寄せてくすぐったそうに笑う",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/b7bc7572f7be.webp",
+   "thumb": "img/g/sfw/lilia/b7bc7572f7be_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ab8c54b3f0e6",
    "char": "sefi",
    "nsfw": false,
@@ -160,6 +225,19 @@
    "thumb": "img/g/sfw/tiru/aa1be91f6033_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "a9b0cbff2848",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 2人LoRA 古本屋の二階の窓辺で、見つけた一冊の古い",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/a9b0cbff2848.webp",
+   "thumb": "img/g/sfw/lilia/a9b0cbff2848_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "90ed7f2a1319",
@@ -201,6 +279,19 @@
    "h": 1280
   },
   {
+   "id": "74e4f9ef4867",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "通勤の満員バス。整理券を取るのを忘れて、降車ボタンの前で固まる",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/74e4f9ef4867.webp",
+   "thumb": "img/g/sfw/lilia/74e4f9ef4867_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "71b9559035a1",
    "char": "sefi",
    "nsfw": false,
@@ -223,6 +314,19 @@
    "date": "2026-10-22",
    "src": "img/g/sfw/sefi/5e56923b79c4.webp",
    "thumb": "img/g/sfw/sefi/5e56923b79c4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "56d5d78c2ec2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "開館前の美術館の展示室。風景画の大きな額縁を壁に掛けたリリアが、水平器を覗いて片目をつぶり、ほんの少し傾きを直してから満",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/56d5d78c2ec2.webp",
+   "thumb": "img/g/sfw/lilia/56d5d78c2ec2_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -279,6 +383,19 @@
    "h": 1280
   },
   {
+   "id": "1709ec6c5e6c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "ドーナツ屋さんのショーケースの前。3人が並んで、カラフルなドーナツをどれにするか顔を寄せて真剣に選ぶ",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/1709ec6c5e6c.webp",
+   "thumb": "img/g/sfw/lilia/1709ec6c5e6c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "130ae4635cd7",
    "char": "tiru",
    "nsfw": false,
@@ -302,6 +419,19 @@
    "src": "img/g/sfw/tiru/12689c80fd29.webp",
    "thumb": "img/g/sfw/tiru/12689c80fd29_t.webp",
    "w": 960,
+   "h": 1280
+  },
+  {
+   "id": "0faf0a82ce05",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "博物館の展示室の作業台。紺の学芸員の制服に白い手袋のセフィリアが、真鍮の古い天球儀をルーペを手に点検し、光にかざして星座",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/sefi/0faf0a82ce05.webp",
+   "thumb": "img/g/sfw/sefi/0faf0a82ce05_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -329,6 +459,19 @@
    "thumb": "img/g/sfw/sefi/0f73b88d7309_t.webp",
    "w": 1280,
    "h": 1280
+  },
+  {
+   "id": "0ebcb17c9b30",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "定時 2人LoRA 秋の夜長、ランプの灯りでチェス盤を挟み、",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/0ebcb17c9b30.webp",
+   "thumb": "img/g/sfw/lilia/0ebcb17c9b30_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "08e282bd6824",
