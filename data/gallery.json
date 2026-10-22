@@ -23,14 +23,66 @@
   }
  },
  "counts": {
-  "sfw:lilia": 276,
-  "sfw:tiru": 193,
-  "sfw:sefi": 197,
+  "sfw:sefi": 200,
+  "sfw:tiru": 196,
+  "sfw:lilia": 280,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 176,
  "items": [
+  {
+   "id": "ee265e179eeb",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#アクリル屋",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/sefi/ee265e179eeb.webp",
+   "thumb": "img/g/sfw/sefi/ee265e179eeb_t.webp",
+   "w": 914,
+   "h": 1280
+  },
+  {
+   "id": "e5053ded2aa5",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#白夜生誕時代絵巻",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/tiru/e5053ded2aa5.webp",
+   "thumb": "img/g/sfw/tiru/e5053ded2aa5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e041e7cac6b3",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#地味にハロウィン選手権2026",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/tiru/e041e7cac6b3.webp",
+   "thumb": "img/g/sfw/tiru/e041e7cac6b3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cf20b4c80143",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#木曜は黒ミサ",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/cf20b4c80143.webp",
+   "thumb": "img/g/sfw/lilia/cf20b4c80143_t.webp",
+   "w": 960,
+   "h": 1280
+  },
   {
    "id": "c8bc502528c2",
    "char": "lilia",
@@ -41,6 +93,19 @@
    "date": "2026-10-22",
    "src": "img/g/sfw/lilia/c8bc502528c2.webp",
    "thumb": "img/g/sfw/lilia/c8bc502528c2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c436a30c7fa7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AQUAビーチタイム",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/sefi/c436a30c7fa7.webp",
+   "thumb": "img/g/sfw/sefi/c436a30c7fa7_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -58,6 +123,19 @@
    "h": 1280
   },
   {
+   "id": "ab8c54b3f0e6",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI木曜日のRQ",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/sefi/ab8c54b3f0e6.webp",
+   "thumb": "img/g/sfw/sefi/ab8c54b3f0e6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "aa1be91f6033",
    "char": "tiru",
    "nsfw": false,
@@ -71,6 +149,19 @@
    "h": 1280
   },
   {
+   "id": "90ed7f2a1319",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#白をまとううちの子",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/90ed7f2a1319.webp",
+   "thumb": "img/g/sfw/lilia/90ed7f2a1319_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "8e6ab3479309",
    "char": "lilia",
    "nsfw": false,
@@ -80,6 +171,19 @@
    "date": "2026-10-22",
    "src": "img/g/sfw/lilia/8e6ab3479309.webp",
    "thumb": "img/g/sfw/lilia/8e6ab3479309_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8b4bc7fee650",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI和ロウィン2026",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/8b4bc7fee650.webp",
+   "thumb": "img/g/sfw/lilia/8b4bc7fee650_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -149,6 +253,19 @@
    "h": 1280
   },
   {
+   "id": "130ae4635cd7",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#眼帯デー",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/tiru/130ae4635cd7.webp",
+   "thumb": "img/g/sfw/tiru/130ae4635cd7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "0f7f59015a55",
    "char": "lilia",
    "nsfw": false,
@@ -172,6 +289,19 @@
    "src": "img/g/sfw/sefi/0f73b88d7309.webp",
    "thumb": "img/g/sfw/sefi/0f73b88d7309_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "08e282bd6824",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#木漏れ日ガール",
+   "date": "2026-10-22",
+   "src": "img/g/sfw/lilia/08e282bd6824.webp",
+   "thumb": "img/g/sfw/lilia/08e282bd6824_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
