@@ -25,7 +25,7 @@
  "counts": {
   "sfw:lilia": 287,
   "sfw:sefi": 204,
-  "sfw:tiru": 199,
+  "sfw:tiru": 198,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -1172,19 +1172,6 @@
    "date": "2026-10-19",
    "src": "img/g/sfw/sefi/c03e7f836038.webp",
    "thumb": "img/g/sfw/sefi/c03e7f836038_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "ac5f3ff18bd2",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "早朝の漁港の競り市。魚箱の間を長靴で歩いたティルナが、競りの手振りを真似して笑い、漁師汁の椀の湯気に顔をほころばせる",
-   "date": "2026-10-19",
-   "src": "img/g/sfw/tiru/ac5f3ff18bd2.webp",
-   "thumb": "img/g/sfw/tiru/ac5f3ff18bd2_t.webp",
    "w": 720,
    "h": 1280
   },
