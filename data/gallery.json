@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "sfw:lilia": 303,
+  "sfw:lilia": 304,
   "sfw:tiru": 209,
   "sfw:sefi": 226,
   "sfw:three": 12
@@ -277,6 +277,19 @@
    "thumb": "img/g/sfw/lilia/4cfad436c6e4_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "4c4d633436c7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#楽しい折り紙の世界",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/4c4d633436c7.webp",
+   "thumb": "img/g/sfw/lilia/4c4d633436c7_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "347f18a9386b",
