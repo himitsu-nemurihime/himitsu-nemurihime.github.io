@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 304,
-  "sfw:tiru": 209,
-  "sfw:sefi": 226,
+  "sfw:lilia": 307,
+  "sfw:tiru": 213,
+  "sfw:sefi": 229,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 189,
+ "held": 193,
  "items": [
   {
    "id": "fc48ecc21990",
@@ -41,6 +41,19 @@
    "date": "2026-10-24",
    "src": "img/g/sfw/lilia/fc48ecc21990.webp",
    "thumb": "img/g/sfw/lilia/fc48ecc21990_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "fbc19287060f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "ボードゲームカフェの木のテーブル。高く積み上がった木の積み木の塔から、ティルナが最後の一本をそっと抜こうとして、リリアと",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/fbc19287060f.webp",
+   "thumb": "img/g/sfw/lilia/fbc19287060f_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -149,6 +162,32 @@
    "h": 1280
   },
   {
+   "id": "b8c317b00237",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "朝の弓道場。袴姿で弓を引き絞ったセフィリアが、息を止めて的を見据え、矢が中った音にだけ小さく跳ねてしまう",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/b8c317b00237.webp",
+   "thumb": "img/g/sfw/sefi/b8c317b00237_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b5e98fddd501",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 朝のパン屋で焼きたてのトレイ（Comfy",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/tiru/b5e98fddd501.webp",
+   "thumb": "img/g/sfw/tiru/b5e98fddd501_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b3bb919f2af7",
    "char": "lilia",
    "nsfw": false,
@@ -201,6 +240,19 @@
    "h": 1280
   },
   {
+   "id": "9700b1321ff1",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "紅葉の山あいの無人駅のホーム。車掌の制服と制帽のティルナが改札鋏を構え、ローカル線の車両を背に敬礼してにっこり",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/tiru/9700b1321ff1.webp",
+   "thumb": "img/g/sfw/tiru/9700b1321ff1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "92360f9c4fad",
    "char": "lilia",
    "nsfw": false,
@@ -236,6 +288,58 @@
    "date": "2026-10-24",
    "src": "img/g/sfw/tiru/7b263e59838b.webp",
    "thumb": "img/g/sfw/tiru/7b263e59838b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "710b07f05756",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "板張りの剣道場の朝。紺の剣道着と袴のリリアが正座で面を外し、頭の手ぬぐいをほどいて額の汗を拭いながら、窓から差す朝日に目",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/710b07f05756.webp",
+   "thumb": "img/g/sfw/lilia/710b07f05756_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "692da45c98b8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "ガラス工房の体験。セフィリアが吹き竿の先でふくらむ水色のガラスを見つめ、ティルナがそばで目を輝かせて息をのむ",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/692da45c98b8.webp",
+   "thumb": "img/g/sfw/sefi/692da45c98b8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "63c86a309ebf",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "麦畑の真ん中で、風の通り道を見つけて手をかざす",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/tiru/63c86a309ebf.webp",
+   "thumb": "img/g/sfw/tiru/63c86a309ebf_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5955c3429774",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "文鳥の日にちなんで、文鳥と鳥かご、種のお",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/tiru/5955c3429774.webp",
+   "thumb": "img/g/sfw/tiru/5955c3429774_t.webp",
    "w": 1280,
    "h": 1280
   },
@@ -331,6 +435,19 @@
    "h": 1280
   },
   {
+   "id": "29fcfac4554f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "秋の並木の公園で自転車の練習。ヘルメットをかぶったセフィリアが、ハンドルを握って前のめりにこぎ出し、歯をくいしばって笑う",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/29fcfac4554f.webp",
+   "thumb": "img/g/sfw/sefi/29fcfac4554f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "29a194edc51e",
    "char": "sefi",
    "nsfw": false,
@@ -354,6 +471,19 @@
    "src": "img/g/sfw/tiru/28b4cd41280f.webp",
    "thumb": "img/g/sfw/tiru/28b4cd41280f_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "279e60729cb8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子の証明写真の4枚つづりプロンプト",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/279e60729cb8.webp",
+   "thumb": "img/g/sfw/lilia/279e60729cb8_t.webp",
+   "w": 853,
    "h": 1280
   },
   {
