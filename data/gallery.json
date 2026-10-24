@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,53 @@
   }
  },
  "counts": {
-  "sfw:sefi": 209,
-  "sfw:tiru": 200,
-  "sfw:lilia": 291,
+  "sfw:tiru": 201,
+  "sfw:sefi": 210,
+  "sfw:lilia": 292,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 184,
  "items": [
+  {
+   "id": "7b263e59838b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#Halloween 4",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/tiru/7b263e59838b.webp",
+   "thumb": "img/g/sfw/tiru/7b263e59838b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "549f24a7b23b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#Halloween 3",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/549f24a7b23b.webp",
+   "thumb": "img/g/sfw/sefi/549f24a7b23b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "4cfad436c6e4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#Halloween 2",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/4cfad436c6e4.webp",
+   "thumb": "img/g/sfw/lilia/4cfad436c6e4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "eadc85fdc55a",
    "char": "sefi",
