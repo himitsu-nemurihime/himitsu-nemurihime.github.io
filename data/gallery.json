@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 298,
-  "sfw:tiru": 208,
-  "sfw:sefi": 221,
+  "sfw:lilia": 303,
+  "sfw:tiru": 209,
+  "sfw:sefi": 226,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 185,
+ "held": 189,
  "items": [
   {
    "id": "fc48ecc21990",
@@ -58,6 +58,19 @@
    "h": 1280
   },
   {
+   "id": "e2cf08c67dd8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ヨコイチ 3",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/tiru/e2cf08c67dd8.webp",
+   "thumb": "img/g/sfw/tiru/e2cf08c67dd8_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "d9a6e1dacccf",
    "char": "lilia",
    "nsfw": false,
@@ -80,6 +93,58 @@
    "date": "2026-10-24",
    "src": "img/g/sfw/sefi/d2e725dbb23e.webp",
    "thumb": "img/g/sfw/sefi/d2e725dbb23e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d211bd9e9d5f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#天使or悪魔",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/d211bd9e9d5f.webp",
+   "thumb": "img/g/sfw/lilia/d211bd9e9d5f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c67ccf777b5b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ヨコイチ 2",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/c67ccf777b5b.webp",
+   "thumb": "img/g/sfw/sefi/c67ccf777b5b_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "c33edac5337e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ヨコイチ",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/c33edac5337e.webp",
+   "thumb": "img/g/sfw/lilia/c33edac5337e_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "bca1fdbe322d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メイド曜",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/bca1fdbe322d.webp",
+   "thumb": "img/g/sfw/sefi/bca1fdbe322d_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -119,6 +184,19 @@
    "date": "2026-10-24",
    "src": "img/g/sfw/sefi/a4c2bf13fdfa.webp",
    "thumb": "img/g/sfw/sefi/a4c2bf13fdfa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9884f57fb3c0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIみちくさハロウィン2026",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/9884f57fb3c0.webp",
+   "thumb": "img/g/sfw/sefi/9884f57fb3c0_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -266,6 +344,32 @@
    "h": 1280
   },
   {
+   "id": "23c649c4d363",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIハロウィン学園祭",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/23c649c4d363.webp",
+   "thumb": "img/g/sfw/sefi/23c649c4d363_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "1ff1233e8f73",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ネスカの闇闇画廊 ハロウィン",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/1ff1233e8f73.webp",
+   "thumb": "img/g/sfw/lilia/1ff1233e8f73_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "16e69004c875",
    "char": "tiru",
    "nsfw": false,
@@ -289,6 +393,45 @@
    "src": "img/g/sfw/lilia/117aeb15c21a.webp",
    "thumb": "img/g/sfw/lilia/117aeb15c21a_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "0e5ff989e845",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うるうるぷんすこ",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/0e5ff989e845.webp",
+   "thumb": "img/g/sfw/sefi/0e5ff989e845_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "0d9a45af7aa8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIらぶ着ぐるみ",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/0d9a45af7aa8.webp",
+   "thumb": "img/g/sfw/lilia/0d9a45af7aa8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0ab706ac3e19",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI和ロウィン2026",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/lilia/0ab706ac3e19.webp",
+   "thumb": "img/g/sfw/lilia/0ab706ac3e19_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
