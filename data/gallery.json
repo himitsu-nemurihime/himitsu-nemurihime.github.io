@@ -25,7 +25,7 @@
  "counts": {
   "sfw:lilia": 307,
   "sfw:tiru": 213,
-  "sfw:sefi": 229,
+  "sfw:sefi": 230,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -263,6 +263,19 @@
    "src": "img/g/sfw/lilia/92360f9c4fad.webp",
    "thumb": "img/g/sfw/lilia/92360f9c4fad_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "8bab7d4c2178",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ElvenHarvest",
+   "date": "2026-10-24",
+   "src": "img/g/sfw/sefi/8bab7d4c2178.webp",
+   "thumb": "img/g/sfw/sefi/8bab7d4c2178_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
