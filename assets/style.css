@@ -240,3 +240,21 @@ footer .heart{color:var(--rose)}
 .card .mark{position:absolute;top:8px;right:9px;font-size:.82rem;line-height:1;
   padding:4px 6px;border-radius:999px;background:rgba(92,59,80,.55);
   backdrop-filter:blur(3px);pointer-events:none}
+
+/* 🎀 プロフィール欄（2026-10-24 TASKS 1-15・るぴちゃん OK の v4）＝紹介文の下で開く */
+.profile{margin:0 0 22px;padding:0 18px 4px;max-width:32em;border-radius:22px;
+  background:color-mix(in srgb,var(--c) 8%,var(--paper));
+  border:2px solid color-mix(in srgb,var(--c) 22%,var(--paper))}
+.profile summary{cursor:pointer;list-style:none;margin:0 -18px;padding:10px 18px;font-family:"Kiwi Maru",serif;
+  font-size:.9rem;color:color-mix(in srgb,var(--c) 78%,var(--ink))}
+.profile summary::-webkit-details-marker{display:none}
+.profile summary::before{content:"♡ ";}
+.profile[open] summary::before{content:"♥ ";}
+.profile .pf-meta{margin-top:0;font-size:.86rem;color:var(--ink)}
+.profile h4{margin:12px 0 6px;font-size:.82rem;letter-spacing:.08em;
+  color:color-mix(in srgb,var(--c) 78%,var(--ink))}
+.profile ul{margin:0;padding-left:1.2em;font-size:.84rem;color:var(--ink-dim);line-height:1.75}
+.profile .pf-cols{display:grid;grid-template-columns:1fr;gap:0 18px}
+@media (min-width:560px){.profile .pf-cols{grid-template-columns:1.25fr 1fr}}
+.profile .pf-word{margin:14px 0 16px;padding:10px 14px;border-radius:14px;background:var(--paper);
+  font-family:"Kiwi Maru",serif;font-size:.86rem;color:var(--ink)}
