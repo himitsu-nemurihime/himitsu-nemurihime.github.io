@@ -23,14 +23,27 @@
   }
  },
  "counts": {
+  "sfw:lilia": 308,
   "sfw:sefi": 231,
-  "sfw:lilia": 307,
-  "sfw:tiru": 213,
+  "sfw:tiru": 214,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 193,
  "items": [
+  {
+   "id": "f0d69ad074a1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ナイショの試着会",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/f0d69ad074a1.webp",
+   "thumb": "img/g/sfw/lilia/f0d69ad074a1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "9f16526b692f",
    "char": "sefi",
@@ -41,6 +54,19 @@
    "date": "2026-10-25",
    "src": "img/g/sfw/sefi/9f16526b692f.webp",
    "thumb": "img/g/sfw/sefi/9f16526b692f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "92073dee182a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ファンタジー AI創作フェア",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/92073dee182a.webp",
+   "thumb": "img/g/sfw/tiru/92073dee182a_t.webp",
    "w": 720,
    "h": 1280
   },
