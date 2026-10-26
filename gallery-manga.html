@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>漫画｜ひみつの眠り姫</title>
+<meta name="description" content="ひみつの眠り姫の漫画を作品ごとに読めます。">
+<meta property="og:title" content="漫画｜ひみつの眠り姫">
+<meta property="og:description" content="ひみつの眠り姫の漫画を作品ごとに読めます。">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://himitsu-nemurihime.github.io/img/ogp.webp">
+<meta name="theme-color" content="#FFF3F8">
+
+
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%F0%9F%8E%80%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css?v=20261024">
+<style>
+
+    .mg-wrap { max-width:1100px; margin:0 auto; padding:1.2rem 1rem 3rem; }
+    .mg-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(190px,1fr)); gap:1.2rem; }
+    .mg-card { width:100%; padding:0; border:1px solid var(--line, #d8cce7); border-radius:14px;
+      background:var(--paper, #fffcff); color:var(--ink, #4f4862); overflow:hidden; cursor:pointer;
+      text-align:left; font:inherit; box-shadow:0 3px 14px #9682b41c; transition:transform .2s; }
+    .mg-card:hover { transform:translateY(-3px); }
+    .mg-card:focus-visible, .mg-button:focus-visible { outline:3px solid var(--rose, #7b6aa8); outline-offset:3px; }
+    .mg-card img { display:block; width:100%; aspect-ratio:3 / 4; object-fit:contain; background:var(--bg-2, #efe9f7); }
+    .mg-body { display:block; padding:.8rem; }
+    .mg-title { display:block; font-size:1rem; line-height:1.6; overflow-wrap:anywhere; }
+    .mg-date { display:block; font-size:.8rem; margin-top:.4rem; color:var(--ink-dim, #7b6a88); }
+    .mg-status { color:var(--ink-dim, #7b6a88); text-align:center; }
+    .mg-button { border:1px solid var(--line, #d8cce7); border-radius:999px; padding:.6rem 1.2rem;
+      color:var(--ink, #4f4862); background:var(--paper, #fffcff); cursor:pointer; font:inherit; }
+    .mg-more { display:block; margin:1.5rem auto; }
+    .mg-more[hidden] { display:none; }
+    .mg-reader { box-sizing:border-box; width:min(100%,1100px); max-width:100%; height:94dvh; max-height:94dvh;
+      padding:0; border:1px solid var(--line, #d8cce7); border-radius:16px; background:var(--bg, #fff9fd);
+      color:var(--ink, #4f4862); overflow:auto; overscroll-behavior:contain; }
+    .mg-reader::backdrop { background:#22152ec9; }
+    .mg-reader-head { position:sticky; top:0; z-index:1; padding:.7rem 1rem;
+      background:var(--paper, #fffcff); border-bottom:1px solid var(--line, #d8cce7); text-align:right; }
+    .mg-info { padding:1rem; }
+    .mg-info h2 { margin:0 0 .6rem; overflow-wrap:anywhere; }
+    .mg-caption { white-space:pre-wrap; overflow-wrap:anywhere; }
+    .mg-links { display:flex; flex-wrap:wrap; gap:.7rem; }
+    .mg-pages img { display:block; width:100%; height:auto; margin:0 auto .7rem; }
+    @media(max-width:420px) { .mg-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:.7rem; }
+      .mg-reader { margin:auto 0; border-radius:8px; } }
+    @media(prefers-reduced-motion:reduce) { .mg-card { transition:none; } }
+</style>
+</head>
+<body>
+<div class="sky"></div>
+<main class="wrap"><section class="sec"><div class="sec-head">
+<h2>漫画</h2><p>表紙を押すと、ページを上から順に読めます。</p>
+</div><p style="text-align:center"><a class="gate-btn ghost" href="gallery.html">これまでの絵</a>
+<a class="gate-btn ghost" href="index.html">部屋に戻る</a></p></section>
+
+<section class="mg-wrap" aria-label="漫画の一覧">
+  <p class="mg-status" id="mstatus" role="status">漫画の一覧を読み込んでいます。</p>
+  <div class="mg-grid" id="mgrid"></div>
+  <button class="mg-button mg-more" id="mmore" type="button" hidden>もっと見る</button>
+  <noscript>漫画の一覧を読むには JavaScript を有効にしてください。</noscript>
+</section>
+</main>
+<dialog class="mg-reader" id="mreader" aria-labelledby="mtitle">
+  <div class="mg-reader-head"><button class="mg-button" id="mclose" type="button" autofocus>閉じる</button></div>
+  <div class="mg-info">
+    <h2 id="mtitle"></h2><p id="mdate"></p><p class="mg-caption" id="mcaption"></p>
+    <div class="mg-links" id="mlinks"></div>
+  </div>
+  <div class="mg-pages" id="mpages"></div>
+</dialog>
+
+<script>
+(function () {
+  'use strict';
+  const grid = document.getElementById('mgrid');
+  const status = document.getElementById('mstatus');
+  const more = document.getElementById('mmore');
+  const reader = document.getElementById('mreader');
+  const pages = document.getElementById('mpages');
+  let items = [], shown = 0, opener = null, oldOverflow = '';
+  function localImage(src) {
+    return typeof src === 'string' && /^images\/gallery-manga\/[A-Za-z0-9_-]+\/(?:p[0-9]+|cover_t)\.webp$/.test(src);
+  }
+  function externalLink(value, kind, label) {
+    if (!value) return;
+    try {
+      const url = new URL(value);
+      const hosts = kind === 'pixiv' ? ['www.pixiv.net', 'pixiv.net'] : ['www.chichi-pui.com', 'chichi-pui.com'];
+      if (url.protocol !== 'https:' || !hosts.includes(url.hostname)) return;
+      const link = document.createElement('a');
+      link.textContent = label; link.href = url.href; link.target = '_blank'; link.rel = 'noopener noreferrer';
+      link.className = 'mg-button'; document.getElementById('mlinks').append(link);
+    } catch (_) { /* URL が無い作品はリンクを出さない。 */ }
+  }
+  function openWork(item, button) {
+    opener = button;
+    document.getElementById('mtitle').textContent = item.title || '';
+    document.getElementById('mdate').textContent = item.date || '';
+    document.getElementById('mcaption').textContent = item.caption || '';
+    document.getElementById('mlinks').replaceChildren(); pages.replaceChildren();
+    externalLink(item.pixiv, 'pixiv', 'pixiv で見る');
+    externalLink(item.chichipui, 'chichipui', 'ちちぷいで見る');
+    (item.pages || []).forEach(function (page, index) {
+      if (!localImage(page.src)) return;
+      const img = document.createElement('img');
+      img.src = page.src; img.alt = (item.title || '漫画') + ' ' + (index + 1) + 'ページ';
+      if (Number.isInteger(page.w) && page.w > 0 && Number.isInteger(page.h) && page.h > 0) {
+        img.width = page.w; img.height = page.h;
+      }
+      img.loading = index === 0 ? 'eager' : 'lazy'; img.decoding = 'async'; pages.append(img);
+    });
+    oldOverflow = document.body.style.overflow; document.body.style.overflow = 'hidden';
+    reader.showModal(); reader.scrollTop = 0;
+  }
+  document.getElementById('mclose').addEventListener('click', function () { reader.close(); });
+  reader.addEventListener('close', function () {
+    document.body.style.overflow = oldOverflow; pages.replaceChildren();
+    if (opener) opener.focus();
+  });
+  function paint() {
+    const end = Math.min(shown + 12, items.length);
+    for (; shown < end; shown++) {
+      const item = items[shown];
+      const button = document.createElement('button'); button.type = 'button'; button.className = 'mg-card';
+      const img = document.createElement('img');
+      if (localImage(item.cover_t)) img.src = item.cover_t;
+      img.alt = ''; img.loading = 'lazy'; img.decoding = 'async';
+      const body = document.createElement('span'); body.className = 'mg-body';
+      const title = document.createElement('strong'); title.className = 'mg-title'; title.textContent = item.title || '漫画';
+      const date = document.createElement('time'); date.className = 'mg-date';
+      date.dateTime = item.date || ''; date.textContent = item.date || '';
+      body.append(title, date); button.append(img, body);
+      button.addEventListener('click', function () { openWork(item, button); }); grid.append(button);
+    }
+    more.hidden = shown >= items.length;
+  }
+  more.addEventListener('click', paint);
+  fetch('data/manga-gallery.json').then(function (response) {
+    if (!response.ok) throw new Error('読み込み失敗');
+    return response.json();
+  }).then(function (data) {
+    if (!Array.isArray(data.items)) throw new Error('目録の形式が違います');
+    items = data.items;
+    status.textContent = items.length ? items.length + ' 作品' : 'まだ漫画がありません。';
+    paint();
+  }).catch(function () { status.textContent = '漫画の一覧を読み込めませんでした。時間をおいて開き直してください。'; });
+})();
+</script>
+</body>
+</html>
