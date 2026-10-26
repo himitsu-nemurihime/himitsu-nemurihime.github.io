@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:tiru": 227,
-  "sfw:sefi": 244,
+  "sfw:tiru": 228,
+  "sfw:sefi": 245,
   "sfw:lilia": 331,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 204,
+ "held": 205,
  "items": [
   {
    "id": "b97f11aa8c3b",
@@ -121,6 +121,32 @@
    "thumb": "img/g/sfw/lilia/78c019bf51b1_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "6860b051967c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 シャンデリアの舞踏会でワルツ（Comfy",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/sefi/6860b051967c.webp",
+   "thumb": "img/g/sfw/sefi/6860b051967c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5a9126b21c7f",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子が勇者のRPGの戦闘画面プロンプ",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/tiru/5a9126b21c7f.webp",
+   "thumb": "img/g/sfw/tiru/5a9126b21c7f_t.webp",
+   "w": 853,
+   "h": 1280
   },
   {
    "id": "461adf04885b",
