@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 361,
-  "sfw:sefi": 268,
-  "sfw:tiru": 247,
+  "sfw:lilia": 365,
+  "sfw:sefi": 272,
+  "sfw:tiru": 249,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 256,
+ "held": 283,
  "items": [
   {
    "id": "f389533772e3",
@@ -54,58 +54,6 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/sefi/ea92001e880e.webp",
    "thumb": "img/g/sfw/sefi/ea92001e880e_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "d533906f4cc6",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#使い魔デー 2",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/d533906f4cc6.webp",
-   "thumb": "img/g/sfw/lilia/d533906f4cc6_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "id": "d3df7a9b7012",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#プリン 海洋生物",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/d3df7a9b7012.webp",
-   "thumb": "img/g/sfw/lilia/d3df7a9b7012_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "id": "d1bb887da5f3",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#目は口ほどに 2",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/sefi/d1bb887da5f3.webp",
-   "thumb": "img/g/sfw/sefi/d1bb887da5f3_t.webp",
-   "w": 1280,
-   "h": 1280
-  },
-  {
-   "id": "d00627237caa",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#化石",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/d00627237caa.webp",
-   "thumb": "img/g/sfw/lilia/d00627237caa_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -149,19 +97,6 @@
    "h": 1280
   },
   {
-   "id": "b790444516ec",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#ハロウィンパーティ 3",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/tiru/b790444516ec.webp",
-   "thumb": "img/g/sfw/tiru/b790444516ec_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
    "id": "ad3233a82d32",
    "char": "sefi",
    "nsfw": false,
@@ -171,19 +106,6 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/sefi/ad3233a82d32.webp",
    "thumb": "img/g/sfw/sefi/ad3233a82d32_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "a7f2931c65c8",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#化石 2",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/sefi/a7f2931c65c8.webp",
-   "thumb": "img/g/sfw/sefi/a7f2931c65c8_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -201,55 +123,16 @@
    "h": 1280
   },
   {
-   "id": "a107b6c6e910",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#おとぎ話 2",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/sefi/a107b6c6e910.webp",
-   "thumb": "img/g/sfw/sefi/a107b6c6e910_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "973af22b1e4d",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#おとぎ話 3",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/tiru/973af22b1e4d.webp",
-   "thumb": "img/g/sfw/tiru/973af22b1e4d_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "8efaec28c8d7",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#ハロウィンパーティ 2",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/sefi/8efaec28c8d7.webp",
-   "thumb": "img/g/sfw/sefi/8efaec28c8d7_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "79e39cd99e3c",
+   "id": "94044ed921a7",
    "char": "lilia",
    "nsfw": false,
    "r18": false,
    "level": null,
-   "title": "#目は口ほどに",
+   "title": "#振り向くうちの子",
    "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/79e39cd99e3c.webp",
-   "thumb": "img/g/sfw/lilia/79e39cd99e3c_t.webp",
-   "w": 1280,
+   "src": "img/g/sfw/lilia/94044ed921a7.webp",
+   "thumb": "img/g/sfw/lilia/94044ed921a7_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -279,15 +162,28 @@
    "h": 1280
   },
   {
-   "id": "693790a8e01f",
+   "id": "6ae86003f552",
    "char": "sefi",
    "nsfw": false,
    "r18": false,
    "level": null,
-   "title": "#プリン 海洋生物 2",
+   "title": "#月曜日討伐隊",
    "date": "2026-10-27",
-   "src": "img/g/sfw/sefi/693790a8e01f.webp",
-   "thumb": "img/g/sfw/sefi/693790a8e01f_t.webp",
+   "src": "img/g/sfw/sefi/6ae86003f552.webp",
+   "thumb": "img/g/sfw/sefi/6ae86003f552_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "64534ba8d32f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIハロウィン学園祭",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/64534ba8d32f.webp",
+   "thumb": "img/g/sfw/lilia/64534ba8d32f_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -305,19 +201,6 @@
    "h": 720
   },
   {
-   "id": "614f55ebf2b6",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#フレネミーを教えてあげよう",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/614f55ebf2b6.webp",
-   "thumb": "img/g/sfw/lilia/614f55ebf2b6_t.webp",
-   "w": 1280,
-   "h": 1280
-  },
-  {
    "id": "5dafca286bcb",
    "char": "lilia",
    "nsfw": false,
@@ -331,56 +214,17 @@
    "h": 720
   },
   {
-   "id": "4aaf28f7cff4",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#おとぎ話",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/4aaf28f7cff4.webp",
-   "thumb": "img/g/sfw/lilia/4aaf28f7cff4_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "id": "4366d01774be",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#化石 3",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/tiru/4366d01774be.webp",
-   "thumb": "img/g/sfw/tiru/4366d01774be_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "26b8e7aff9b2",
+   "id": "246a8039152a",
    "char": "sefi",
    "nsfw": false,
    "r18": false,
    "level": null,
-   "title": "#使い魔デー 3",
+   "title": "#2222ネコ企画",
    "date": "2026-10-27",
-   "src": "img/g/sfw/sefi/26b8e7aff9b2.webp",
-   "thumb": "img/g/sfw/sefi/26b8e7aff9b2_t.webp",
+   "src": "img/g/sfw/sefi/246a8039152a.webp",
+   "thumb": "img/g/sfw/sefi/246a8039152a_t.webp",
    "w": 720,
    "h": 1280
-  },
-  {
-   "id": "161d3f658122",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#ハロウィンパーティ",
-   "date": "2026-10-27",
-   "src": "img/g/sfw/lilia/161d3f658122.webp",
-   "thumb": "img/g/sfw/lilia/161d3f658122_t.webp",
-   "w": 1280,
-   "h": 720
   },
   {
    "id": "128e668c5251",
@@ -420,6 +264,19 @@
    "thumb": "img/g/sfw/lilia/0e7a4c9dca79_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "02b1f1e2e673",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#包帯幻想展",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/02b1f1e2e673.webp",
+   "thumb": "img/g/sfw/lilia/02b1f1e2e673_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "0105a4f1144e",
@@ -513,6 +370,19 @@
    "h": 720
   },
   {
+   "id": "d533906f4cc6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#使い魔デー 2",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/lilia/d533906f4cc6.webp",
+   "thumb": "img/g/sfw/lilia/d533906f4cc6_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "d2e1563ebfca",
    "char": "lilia",
    "nsfw": false,
@@ -523,19 +393,6 @@
    "src": "img/g/sfw/lilia/d2e1563ebfca.webp",
    "thumb": "img/g/sfw/lilia/d2e1563ebfca_t.webp",
    "w": 1280,
-   "h": 1280
-  },
-  {
-   "id": "cec443d96ef7",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#♪ 2",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/sefi/cec443d96ef7.webp",
-   "thumb": "img/g/sfw/sefi/cec443d96ef7_t.webp",
-   "w": 720,
    "h": 1280
   },
   {
@@ -565,32 +422,6 @@
    "h": 1280
   },
   {
-   "id": "bd3d7dd75785",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#4周年いいね頑張ります 3",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/tiru/bd3d7dd75785.webp",
-   "thumb": "img/g/sfw/tiru/bd3d7dd75785_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "b98f16303261",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#うちの子転生",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/lilia/b98f16303261.webp",
-   "thumb": "img/g/sfw/lilia/b98f16303261_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "id": "b934ac0654ac",
    "char": "lilia",
    "nsfw": false,
@@ -615,32 +446,6 @@
    "thumb": "img/g/sfw/lilia/b7cfd570c2b9_t.webp",
    "w": 1280,
    "h": 720
-  },
-  {
-   "id": "b39373efe116",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#4周年投稿頑張ります 3",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/tiru/b39373efe116.webp",
-   "thumb": "img/g/sfw/tiru/b39373efe116_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "af1344906d36",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#うちの子転生 2",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/sefi/af1344906d36.webp",
-   "thumb": "img/g/sfw/sefi/af1344906d36_t.webp",
-   "w": 720,
-   "h": 1280
   },
   {
    "id": "ab945fc70cc6",
@@ -721,19 +526,6 @@
    "h": 1280
   },
   {
-   "id": "8f5fa36072f4",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#4周年投稿頑張ります",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/lilia/8f5fa36072f4.webp",
-   "thumb": "img/g/sfw/lilia/8f5fa36072f4_t.webp",
-   "w": 1280,
-   "h": 1280
-  },
-  {
    "id": "8cb4dda863c1",
    "char": "tiru",
    "nsfw": false,
@@ -773,6 +565,32 @@
    "h": 1280
   },
   {
+   "id": "81936efa7f33",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#晩秋の萌え袖ガール",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/tiru/81936efa7f33.webp",
+   "thumb": "img/g/sfw/tiru/81936efa7f33_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8108e29dd7e7",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#ハロウィン討伐戦2026",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/tiru/8108e29dd7e7.webp",
+   "thumb": "img/g/sfw/tiru/8108e29dd7e7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "80dc76cddd57",
    "char": "tiru",
    "nsfw": false,
@@ -782,19 +600,6 @@
    "date": "2026-10-26",
    "src": "img/g/sfw/tiru/80dc76cddd57.webp",
    "thumb": "img/g/sfw/tiru/80dc76cddd57_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "id": "7fc46bcf6525",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#うちの子で七つの大罪 3",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/tiru/7fc46bcf6525.webp",
-   "thumb": "img/g/sfw/tiru/7fc46bcf6525_t.webp",
    "w": 1280,
    "h": 720
   },
@@ -812,19 +617,6 @@
    "h": 720
   },
   {
-   "id": "6c348553b925",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#4周年投稿頑張ります 2",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/sefi/6c348553b925.webp",
-   "thumb": "img/g/sfw/sefi/6c348553b925_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
    "id": "6860b051967c",
    "char": "sefi",
    "nsfw": false,
@@ -834,19 +626,6 @@
    "date": "2026-10-26",
    "src": "img/g/sfw/sefi/6860b051967c.webp",
    "thumb": "img/g/sfw/sefi/6860b051967c_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "658483d20581",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#うちの子転生 3",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/tiru/658483d20581.webp",
-   "thumb": "img/g/sfw/tiru/658483d20581_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -903,32 +682,6 @@
    "h": 1280
   },
   {
-   "id": "4cff349bbc51",
-   "char": "tiru",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#♪ 3",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/tiru/4cff349bbc51.webp",
-   "thumb": "img/g/sfw/tiru/4cff349bbc51_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "494b75524496",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#4周年生成頑張ります",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/lilia/494b75524496.webp",
-   "thumb": "img/g/sfw/lilia/494b75524496_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "id": "461adf04885b",
    "char": "tiru",
    "nsfw": false,
@@ -942,28 +695,28 @@
    "h": 1280
   },
   {
-   "id": "45f2f830b177",
+   "id": "461818a0f910",
    "char": "lilia",
    "nsfw": false,
    "r18": false,
    "level": null,
-   "title": "#4周年いいね頑張ります",
+   "title": "#絢爛なる偏愛",
    "date": "2026-10-26",
-   "src": "img/g/sfw/lilia/45f2f830b177.webp",
-   "thumb": "img/g/sfw/lilia/45f2f830b177_t.webp",
-   "w": 1280,
+   "src": "img/g/sfw/lilia/461818a0f910.webp",
+   "thumb": "img/g/sfw/lilia/461818a0f910_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
-   "id": "3aac502601ab",
+   "id": "406b2146fb1b",
    "char": "sefi",
    "nsfw": false,
    "r18": false,
    "level": null,
-   "title": "#うちの子で七つの大罪 2",
+   "title": "#HCP",
    "date": "2026-10-26",
-   "src": "img/g/sfw/sefi/3aac502601ab.webp",
-   "thumb": "img/g/sfw/sefi/3aac502601ab_t.webp",
+   "src": "img/g/sfw/sefi/406b2146fb1b.webp",
+   "thumb": "img/g/sfw/sefi/406b2146fb1b_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -981,19 +734,6 @@
    "h": 720
   },
   {
-   "id": "3405ddbdaca8",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#うちの子で七つの大罪",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/lilia/3405ddbdaca8.webp",
-   "thumb": "img/g/sfw/lilia/3405ddbdaca8_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "id": "2c03b66b3500",
    "char": "tiru",
    "nsfw": false,
@@ -1007,6 +747,19 @@
    "h": 1280
   },
   {
+   "id": "26b8e7aff9b2",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#使い魔デー 3",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/sefi/26b8e7aff9b2.webp",
+   "thumb": "img/g/sfw/sefi/26b8e7aff9b2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "26ad9f4f77f8",
    "char": "sefi",
    "nsfw": false,
@@ -1016,32 +769,6 @@
    "date": "2026-10-26",
    "src": "img/g/sfw/sefi/26ad9f4f77f8.webp",
    "thumb": "img/g/sfw/sefi/26ad9f4f77f8_t.webp",
-   "w": 720,
-   "h": 1280
-  },
-  {
-   "id": "2484f7149f85",
-   "char": "lilia",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#♪",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/lilia/2484f7149f85.webp",
-   "thumb": "img/g/sfw/lilia/2484f7149f85_t.webp",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "id": "19915ff129bc",
-   "char": "sefi",
-   "nsfw": false,
-   "r18": false,
-   "level": null,
-   "title": "#4周年生成頑張ります 2",
-   "date": "2026-10-26",
-   "src": "img/g/sfw/sefi/19915ff129bc.webp",
-   "thumb": "img/g/sfw/sefi/19915ff129bc_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -1150,6 +877,58 @@
    "h": 1280
   },
   {
+   "id": "d3df7a9b7012",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#プリン 海洋生物",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/d3df7a9b7012.webp",
+   "thumb": "img/g/sfw/lilia/d3df7a9b7012_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "d1bb887da5f3",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#目は口ほどに 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/d1bb887da5f3.webp",
+   "thumb": "img/g/sfw/sefi/d1bb887da5f3_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "d00627237caa",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#化石",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/d00627237caa.webp",
+   "thumb": "img/g/sfw/lilia/d00627237caa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cec443d96ef7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#♪ 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/cec443d96ef7.webp",
+   "thumb": "img/g/sfw/sefi/cec443d96ef7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "cdc87c5dd298",
    "char": "tiru",
    "nsfw": false,
@@ -1176,6 +955,32 @@
    "h": 1280
   },
   {
+   "id": "bd3d7dd75785",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年いいね頑張ります 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/bd3d7dd75785.webp",
+   "thumb": "img/g/sfw/tiru/bd3d7dd75785_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b98f16303261",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子転生",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/b98f16303261.webp",
+   "thumb": "img/g/sfw/lilia/b98f16303261_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "b8244fd28d35",
    "char": "tiru",
    "nsfw": false,
@@ -1185,6 +990,19 @@
    "date": "2026-10-25",
    "src": "img/g/sfw/tiru/b8244fd28d35.webp",
    "thumb": "img/g/sfw/tiru/b8244fd28d35_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b790444516ec",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィンパーティ 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/b790444516ec.webp",
+   "thumb": "img/g/sfw/tiru/b790444516ec_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -1200,6 +1018,19 @@
    "thumb": "img/g/sfw/lilia/b582508f0dc8_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "b39373efe116",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年投稿頑張ります 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/b39373efe116.webp",
+   "thumb": "img/g/sfw/tiru/b39373efe116_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "b28fc72d44a0",
@@ -1228,6 +1059,19 @@
    "h": 1280
   },
   {
+   "id": "af1344906d36",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子転生 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/af1344906d36.webp",
+   "thumb": "img/g/sfw/sefi/af1344906d36_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ab74419e6212",
    "char": "lilia",
    "nsfw": false,
@@ -1239,6 +1083,19 @@
    "thumb": "img/g/sfw/lilia/ab74419e6212_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "a7f2931c65c8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#化石 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/a7f2931c65c8.webp",
+   "thumb": "img/g/sfw/sefi/a7f2931c65c8_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "a62349e556e3",
@@ -1267,6 +1124,19 @@
    "h": 1280
   },
   {
+   "id": "a107b6c6e910",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#おとぎ話 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/a107b6c6e910.webp",
+   "thumb": "img/g/sfw/sefi/a107b6c6e910_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "9f16526b692f",
    "char": "sefi",
    "nsfw": false,
@@ -1276,6 +1146,19 @@
    "date": "2026-10-25",
    "src": "img/g/sfw/sefi/9f16526b692f.webp",
    "thumb": "img/g/sfw/sefi/9f16526b692f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "973af22b1e4d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#おとぎ話 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/973af22b1e4d.webp",
+   "thumb": "img/g/sfw/tiru/973af22b1e4d_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -1302,6 +1185,32 @@
    "date": "2026-10-25",
    "src": "img/g/sfw/lilia/9047797eeacc.webp",
    "thumb": "img/g/sfw/lilia/9047797eeacc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8f5fa36072f4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年投稿頑張ります",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/8f5fa36072f4.webp",
+   "thumb": "img/g/sfw/lilia/8f5fa36072f4_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "8efaec28c8d7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィンパーティ 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/8efaec28c8d7.webp",
+   "thumb": "img/g/sfw/sefi/8efaec28c8d7_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -1345,6 +1254,19 @@
    "h": 1280
   },
   {
+   "id": "7fc46bcf6525",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子で七つの大罪 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/7fc46bcf6525.webp",
+   "thumb": "img/g/sfw/tiru/7fc46bcf6525_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "7f39d39850d9",
    "char": "sefi",
    "nsfw": false,
@@ -1354,6 +1276,19 @@
    "date": "2026-10-25",
    "src": "img/g/sfw/sefi/7f39d39850d9.webp",
    "thumb": "img/g/sfw/sefi/7f39d39850d9_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "79e39cd99e3c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#目は口ほどに",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/79e39cd99e3c.webp",
+   "thumb": "img/g/sfw/lilia/79e39cd99e3c_t.webp",
    "w": 1280,
    "h": 1280
   },
@@ -1384,6 +1319,19 @@
    "h": 1280
   },
   {
+   "id": "6c348553b925",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年投稿頑張ります 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/6c348553b925.webp",
+   "thumb": "img/g/sfw/sefi/6c348553b925_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "6bcee64063e6",
    "char": "lilia",
    "nsfw": false,
@@ -1393,6 +1341,45 @@
    "date": "2026-10-25",
    "src": "img/g/sfw/lilia/6bcee64063e6.webp",
    "thumb": "img/g/sfw/lilia/6bcee64063e6_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "693790a8e01f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#プリン 海洋生物 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/693790a8e01f.webp",
+   "thumb": "img/g/sfw/sefi/693790a8e01f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "658483d20581",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子転生 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/658483d20581.webp",
+   "thumb": "img/g/sfw/tiru/658483d20581_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "614f55ebf2b6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#フレネミーを教えてあげよう",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/614f55ebf2b6.webp",
+   "thumb": "img/g/sfw/lilia/614f55ebf2b6_t.webp",
    "w": 1280,
    "h": 1280
   },
@@ -1475,6 +1462,45 @@
    "h": 1280
   },
   {
+   "id": "4cff349bbc51",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#♪ 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/4cff349bbc51.webp",
+   "thumb": "img/g/sfw/tiru/4cff349bbc51_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4aaf28f7cff4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#おとぎ話",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/4aaf28f7cff4.webp",
+   "thumb": "img/g/sfw/lilia/4aaf28f7cff4_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "494b75524496",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年生成頑張ります",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/494b75524496.webp",
+   "thumb": "img/g/sfw/lilia/494b75524496_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "49274c908356",
    "char": "lilia",
    "nsfw": false,
@@ -1488,6 +1514,58 @@
    "h": 1280
   },
   {
+   "id": "45f2f830b177",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年いいね頑張ります",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/45f2f830b177.webp",
+   "thumb": "img/g/sfw/lilia/45f2f830b177_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "4366d01774be",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#化石 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/4366d01774be.webp",
+   "thumb": "img/g/sfw/tiru/4366d01774be_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3aac502601ab",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子で七つの大罪 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/3aac502601ab.webp",
+   "thumb": "img/g/sfw/sefi/3aac502601ab_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3405ddbdaca8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子で七つの大罪",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/3405ddbdaca8.webp",
+   "thumb": "img/g/sfw/lilia/3405ddbdaca8_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "2cbc5a13a3c9",
    "char": "lilia",
    "nsfw": false,
@@ -1499,6 +1577,19 @@
    "thumb": "img/g/sfw/lilia/2cbc5a13a3c9_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "2484f7149f85",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#♪",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/2484f7149f85.webp",
+   "thumb": "img/g/sfw/lilia/2484f7149f85_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "1d8916e3085f",
@@ -1527,6 +1618,19 @@
    "h": 1280
   },
   {
+   "id": "19915ff129bc",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年生成頑張ります 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/19915ff129bc.webp",
+   "thumb": "img/g/sfw/sefi/19915ff129bc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "1947a650ebc4",
    "char": "lilia",
    "nsfw": false,
@@ -1538,6 +1642,19 @@
    "thumb": "img/g/sfw/lilia/1947a650ebc4_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "161d3f658122",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィンパーティ",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/lilia/161d3f658122.webp",
+   "thumb": "img/g/sfw/lilia/161d3f658122_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "12803361b248",
@@ -2212,6 +2329,19 @@
    "date": "2026-10-23",
    "src": "img/g/sfw/lilia/91857901d780.webp",
    "thumb": "img/g/sfw/lilia/91857901d780_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7636b775d875",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#セフィリア 4",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/sefi/7636b775d875.webp",
+   "thumb": "img/g/sfw/sefi/7636b775d875_t.webp",
    "w": 720,
    "h": 1280
   },
