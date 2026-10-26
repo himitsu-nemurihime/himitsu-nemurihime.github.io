@@ -13,7 +13,10 @@ import os
 import subprocess
 import sys
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+# 10/27 A 3b0b41e7＝裏で回すと標準出力が cp932 になり、build_gallery の「🚨」で落ちた
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+HERE =os.path.dirname(os.path.abspath(__file__))
 SITE = os.path.dirname(HERE)
 
 
