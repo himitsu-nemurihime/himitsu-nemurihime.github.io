@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:tiru": 226,
-  "sfw:lilia": 330,
-  "sfw:sefi": 243,
+  "sfw:tiru": 227,
+  "sfw:sefi": 244,
+  "sfw:lilia": 331,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 201,
+ "held": 204,
  "items": [
   {
    "id": "b97f11aa8c3b",
@@ -41,6 +41,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/tiru/b97f11aa8c3b.webp",
    "thumb": "img/g/sfw/tiru/b97f11aa8c3b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e460855c7382",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#デニム生地 2",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/sefi/e460855c7382.webp",
+   "thumb": "img/g/sfw/sefi/e460855c7382_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -93,6 +106,32 @@
    "date": "2026-10-26",
    "src": "img/g/sfw/sefi/a4f1fe8c2881.webp",
    "thumb": "img/g/sfw/sefi/a4f1fe8c2881_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "78c019bf51b1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#デニム生地",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/lilia/78c019bf51b1.webp",
+   "thumb": "img/g/sfw/lilia/78c019bf51b1_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "461adf04885b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#デニム生地 3",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/tiru/461adf04885b.webp",
+   "thumb": "img/g/sfw/tiru/461adf04885b_t.webp",
    "w": 720,
    "h": 1280
   },
