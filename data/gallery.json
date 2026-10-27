@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 375,
-  "sfw:tiru": 258,
-  "sfw:sefi": 282,
+  "sfw:lilia": 378,
+  "sfw:sefi": 283,
+  "sfw:tiru": 261,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -45,6 +45,19 @@
    "h": 1280
   },
   {
+   "id": "fde543617e08",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#特別料理デー 2",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/fde543617e08.webp",
+   "thumb": "img/g/sfw/sefi/fde543617e08_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "f85a2b490c3d",
    "char": "tiru",
    "nsfw": false,
@@ -54,6 +67,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/tiru/f85a2b490c3d.webp",
    "thumb": "img/g/sfw/tiru/f85a2b490c3d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f71590320613",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#特別料理デー",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/f71590320613.webp",
+   "thumb": "img/g/sfw/lilia/f71590320613_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -435,6 +461,19 @@
    "h": 1280
   },
   {
+   "id": "3eeb88c5ca9d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#特別料理デー 3",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/3eeb88c5ca9d.webp",
+   "thumb": "img/g/sfw/tiru/3eeb88c5ca9d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2fef382667f8",
    "char": "lilia",
    "nsfw": false,
@@ -795,6 +834,19 @@
    "date": "2026-10-26",
    "src": "img/g/sfw/sefi/83a1baf07bc5.webp",
    "thumb": "img/g/sfw/sefi/83a1baf07bc5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "839d1354fff1",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#使い魔デー 4",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/tiru/839d1354fff1.webp",
+   "thumb": "img/g/sfw/tiru/839d1354fff1_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -2632,6 +2684,19 @@
    "h": 720
   },
   {
+   "id": "b8f9d3c83e4b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#リリア 3",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/lilia/b8f9d3c83e4b.webp",
+   "thumb": "img/g/sfw/lilia/b8f9d3c83e4b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "ac5f3ff18bd2",
    "char": "tiru",
    "nsfw": false,
@@ -2723,6 +2788,19 @@
    "h": 1280
   },
   {
+   "id": "6735b78b0853",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#ティルナ 3",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/tiru/6735b78b0853.webp",
+   "thumb": "img/g/sfw/tiru/6735b78b0853_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "63a16e8d8711",
    "char": "sefi",
    "nsfw": false,
@@ -2733,6 +2811,19 @@
    "src": "img/g/sfw/sefi/63a16e8d8711.webp",
    "thumb": "img/g/sfw/sefi/63a16e8d8711_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "612e20e86934",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#リリア 2",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/lilia/612e20e86934.webp",
+   "thumb": "img/g/sfw/lilia/612e20e86934_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
