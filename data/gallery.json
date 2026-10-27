@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 365,
-  "sfw:sefi": 272,
-  "sfw:tiru": 249,
+  "sfw:lilia": 367,
+  "sfw:tiru": 250,
+  "sfw:sefi": 273,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 283,
+ "held": 289,
  "items": [
   {
    "id": "f389533772e3",
@@ -43,6 +43,32 @@
    "thumb": "img/g/sfw/lilia/f389533772e3_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "f14e9237e496",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#黒猫",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/f14e9237e496.webp",
+   "thumb": "img/g/sfw/lilia/f14e9237e496_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ed81650c40a6",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#黒猫 3",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/ed81650c40a6.webp",
+   "thumb": "img/g/sfw/tiru/ed81650c40a6_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "ea92001e880e",
@@ -604,6 +630,19 @@
    "h": 720
   },
   {
+   "id": "80be13754048",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#コスモ剣士キャラ",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/lilia/80be13754048.webp",
+   "thumb": "img/g/sfw/lilia/80be13754048_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "78c019bf51b1",
    "char": "lilia",
    "nsfw": false,
@@ -678,6 +717,19 @@
    "date": "2026-10-26",
    "src": "img/g/sfw/tiru/579cf65d2cb8.webp",
    "thumb": "img/g/sfw/tiru/579cf65d2cb8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5636117ed48f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#コスモ剣士キャラ 2",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/sefi/5636117ed48f.webp",
+   "thumb": "img/g/sfw/sefi/5636117ed48f_t.webp",
    "w": 720,
    "h": 1280
   },
