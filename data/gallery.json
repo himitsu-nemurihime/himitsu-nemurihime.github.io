@@ -24,8 +24,8 @@
  },
  "counts": {
   "sfw:lilia": 375,
-  "sfw:tiru": 256,
-  "sfw:sefi": 281,
+  "sfw:tiru": 258,
+  "sfw:sefi": 282,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -69,6 +69,19 @@
    "thumb": "img/g/sfw/lilia/f389533772e3_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "f38929d7dedc",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#ハロウィン討伐戦2026",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/f38929d7dedc.webp",
+   "thumb": "img/g/sfw/tiru/f38929d7dedc_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "f14e9237e496",
@@ -2645,6 +2658,19 @@
    "h": 1280
   },
   {
+   "id": "aab096f4cb58",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#ティルナ 2",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/tiru/aab096f4cb58.webp",
+   "thumb": "img/g/sfw/tiru/aab096f4cb58_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "91857901d780",
    "char": "lilia",
    "nsfw": false,
@@ -2707,6 +2733,19 @@
    "src": "img/g/sfw/sefi/63a16e8d8711.webp",
    "thumb": "img/g/sfw/sefi/63a16e8d8711_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "5e14676c977f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#セフィリア",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/sefi/5e14676c977f.webp",
+   "thumb": "img/g/sfw/sefi/5e14676c977f_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
