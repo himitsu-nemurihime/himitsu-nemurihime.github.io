@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 367,
-  "sfw:tiru": 250,
-  "sfw:sefi": 274,
+  "sfw:lilia": 370,
+  "sfw:tiru": 252,
+  "sfw:sefi": 276,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 289,
  "items": [
+  {
+   "id": "8aec6ee70bec",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#包帯幻想展",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/8aec6ee70bec.webp",
+   "thumb": "img/g/sfw/lilia/8aec6ee70bec_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f389533772e3",
    "char": "lilia",
@@ -80,6 +93,32 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/sefi/ea92001e880e.webp",
    "thumb": "img/g/sfw/sefi/ea92001e880e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e77306b806d1",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#振り向くうちの子",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/e77306b806d1.webp",
+   "thumb": "img/g/sfw/sefi/e77306b806d1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "de19402cac19",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#紅葉ひとひら紅一葉",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/de19402cac19.webp",
+   "thumb": "img/g/sfw/tiru/de19402cac19_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -214,6 +253,19 @@
    "h": 1280
   },
   {
+   "id": "62fb411d5b4e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ポニテ火曜",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/62fb411d5b4e.webp",
+   "thumb": "img/g/sfw/lilia/62fb411d5b4e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "61d59f368407",
    "char": "lilia",
    "nsfw": false,
@@ -227,6 +279,19 @@
    "h": 720
   },
   {
+   "id": "5fd3bfaaa901",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIハロウィン学園祭",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/5fd3bfaaa901.webp",
+   "thumb": "img/g/sfw/tiru/5fd3bfaaa901_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "5dafca286bcb",
    "char": "lilia",
    "nsfw": false,
@@ -238,6 +303,19 @@
    "thumb": "img/g/sfw/lilia/5dafca286bcb_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "3f3c862f24e8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#包帯幻想展",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/3f3c862f24e8.webp",
+   "thumb": "img/g/sfw/sefi/3f3c862f24e8_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "246a8039152a",
@@ -770,6 +848,19 @@
    "src": "img/g/sfw/sefi/406b2146fb1b.webp",
    "thumb": "img/g/sfw/sefi/406b2146fb1b_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3e1e1f3771e4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#さばえeスポーツDAYイラコン",
+   "date": "2026-10-26",
+   "src": "img/g/sfw/lilia/3e1e1f3771e4.webp",
+   "thumb": "img/g/sfw/lilia/3e1e1f3771e4_t.webp",
+   "w": 1024,
    "h": 1280
   },
   {
