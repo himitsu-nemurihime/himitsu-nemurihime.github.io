@@ -24,8 +24,8 @@
  },
  "counts": {
   "sfw:lilia": 370,
-  "sfw:tiru": 252,
-  "sfw:sefi": 276,
+  "sfw:tiru": 255,
+  "sfw:sefi": 278,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -1007,6 +1007,19 @@
    "h": 1280
   },
   {
+   "id": "f70d7d812479",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年生成頑張ります 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/f70d7d812479.webp",
+   "thumb": "img/g/sfw/tiru/f70d7d812479_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "f0d69ad074a1",
    "char": "lilia",
    "nsfw": false,
@@ -1202,6 +1215,19 @@
    "h": 1280
   },
   {
+   "id": "af3568b91ec3",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#目は口ほどに 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/af3568b91ec3.webp",
+   "thumb": "img/g/sfw/tiru/af3568b91ec3_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "af1344906d36",
    "char": "sefi",
    "nsfw": false,
@@ -1280,6 +1306,19 @@
    "h": 1280
   },
   {
+   "id": "9fcc3f61f5cd",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#フレネミーを教えてあげよう 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/9fcc3f61f5cd.webp",
+   "thumb": "img/g/sfw/sefi/9fcc3f61f5cd_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "9f16526b692f",
    "char": "sefi",
    "nsfw": false,
@@ -1290,6 +1329,19 @@
    "src": "img/g/sfw/sefi/9f16526b692f.webp",
    "thumb": "img/g/sfw/sefi/9f16526b692f_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9c847c52e1ad",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#プリン 海洋生物 3",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/tiru/9c847c52e1ad.webp",
+   "thumb": "img/g/sfw/tiru/9c847c52e1ad_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -1615,6 +1667,19 @@
    "src": "img/g/sfw/tiru/4cff349bbc51.webp",
    "thumb": "img/g/sfw/tiru/4cff349bbc51_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4c35900dbf06",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#4周年いいね頑張ります 2",
+   "date": "2026-10-25",
+   "src": "img/g/sfw/sefi/4c35900dbf06.webp",
+   "thumb": "img/g/sfw/sefi/4c35900dbf06_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
