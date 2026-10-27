@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 370,
-  "sfw:tiru": 255,
-  "sfw:sefi": 278,
+  "sfw:lilia": 375,
+  "sfw:tiru": 256,
+  "sfw:sefi": 281,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 289,
+ "held": 292,
  "items": [
   {
    "id": "8aec6ee70bec",
@@ -41,6 +41,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/lilia/8aec6ee70bec.webp",
    "thumb": "img/g/sfw/lilia/8aec6ee70bec_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f85a2b490c3d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "干し草の積まれた朝の牧場の柵の中。オーバーオールに麦わら帽子のティルナが、しゃがんで抱えた哺乳瓶に子ヤギが二頭同時に吸い",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/f85a2b490c3d.webp",
+   "thumb": "img/g/sfw/tiru/f85a2b490c3d_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -110,6 +123,19 @@
    "h": 1280
   },
   {
+   "id": "dfa79f616cd1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "仕立て屋さんの試着室。リリアが巻き尺でティルナの腕の長さを測り、ティルナは色とりどりの布見本の山を見て目を輝かせる",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/dfa79f616cd1.webp",
+   "thumb": "img/g/sfw/lilia/dfa79f616cd1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "de19402cac19",
    "char": "tiru",
    "nsfw": false,
@@ -119,6 +145,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/tiru/de19402cac19.webp",
    "thumb": "img/g/sfw/tiru/de19402cac19_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d350cc32f502",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 マフラーを、一本だけのつもりが",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/d350cc32f502.webp",
+   "thumb": "img/g/sfw/lilia/d350cc32f502_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -149,6 +188,19 @@
    "h": 1280
   },
   {
+   "id": "bcb4b68465ef",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "冷房が効きすぎて自分の肩を抱く",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/bcb4b68465ef.webp",
+   "thumb": "img/g/sfw/lilia/bcb4b68465ef_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "b97f11aa8c3b",
    "char": "tiru",
    "nsfw": false,
@@ -158,6 +210,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/tiru/b97f11aa8c3b.webp",
    "thumb": "img/g/sfw/tiru/b97f11aa8c3b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b0d23e254a8c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "読書週間のはじまりの夜。雨の音がするお城の書斎の暖炉のそばで、セフィリアがひじ掛け椅子に腰かけて膝の本にしおりを挟み、膝",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/b0d23e254a8c.webp",
+   "thumb": "img/g/sfw/sefi/b0d23e254a8c_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -188,6 +253,19 @@
    "h": 1280
   },
   {
+   "id": "a1b41edf2452",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "生け垣の大きな迷路。出口を探して別々に歩いていた3人が、角でばったり鉢合わせして顔を見合わせて笑う",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/a1b41edf2452.webp",
+   "thumb": "img/g/sfw/lilia/a1b41edf2452_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "94044ed921a7",
    "char": "lilia",
    "nsfw": false,
@@ -197,6 +275,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/lilia/94044ed921a7.webp",
    "thumb": "img/g/sfw/lilia/94044ed921a7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "934c079e7af1",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "川で洗濯を真似て、裾をたくし上げて水に入る",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/934c079e7af1.webp",
+   "thumb": "img/g/sfw/sefi/934c079e7af1_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -223,6 +314,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/sefi/76d387a0969a.webp",
    "thumb": "img/g/sfw/sefi/76d387a0969a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "73171e4d3757",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "温泉街の足湯に腰かけて裾をたくし上げ、湯気の中で脚を伸ばしたまま、隣の席に飲み物を勧める",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/73171e4d3757.webp",
+   "thumb": "img/g/sfw/sefi/73171e4d3757_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -315,6 +419,19 @@
    "src": "img/g/sfw/sefi/3f3c862f24e8.webp",
    "thumb": "img/g/sfw/sefi/3f3c862f24e8_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2fef382667f8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "陶芸小屋で轆轤を回し、器の形を整える",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/2fef382667f8.webp",
+   "thumb": "img/g/sfw/lilia/2fef382667f8_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
