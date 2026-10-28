@@ -55,13 +55,45 @@ SITE = G.Site(
 )
 
 
+BASE_URL = "https://himitsu-nemurihime.github.io/"
+
+
+def write_sitemap():
+    """🔎2026-10-28（TASKS 0-446・Search Console）＝一番上の html のうち noindex でない物だけを載せる
+    （prompts/ は全部 noindex＝載せない・google*.html は所有権の確認ファイル）"""
+    import datetime
+    import glob
+    import io
+    root = SITE.site_dir
+    urls = []
+    for f in sorted(glob.glob(os.path.join(root, "*.html"))):
+        name = os.path.basename(f)
+        if name.startswith("google"):
+            continue
+        if "noindex" in io.open(f, encoding="utf-8", errors="replace").read(20000):
+            continue
+        day = datetime.date.fromtimestamp(os.path.getmtime(f)).isoformat()
+        loc = BASE_URL if name == "index.html" else BASE_URL + name
+        urls.append(f"<url><loc>{loc}</loc><lastmod>{day}</lastmod></url>")
+    xml = ('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+           + "".join(urls) + "</urlset>\n")
+    p = os.path.join(root, "sitemap.xml")
+    old = io.open(p, encoding="utf-8").read() if os.path.exists(p) else ""
+    if old != xml:
+        io.open(p, "w", encoding="utf-8", newline="\n").write(xml)
+    return len(urls)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true", help="webpを作り直す")
     ap.add_argument("--keep", action="store_true", help="使わなくなったwebpを消さない")
     ap.add_argument("--dry", action="store_true", help="書かずに数える")
     a = ap.parse_args()
-    return G.build(SITE, force=a.force, keep=a.keep, dry=a.dry)
+    rc = G.build(SITE, force=a.force, keep=a.keep, dry=a.dry)
+    if not a.dry:
+        print("sitemap.xml:", write_sitemap(), "ページ")
+    return rc
 
 
 if __name__ == "__main__":
