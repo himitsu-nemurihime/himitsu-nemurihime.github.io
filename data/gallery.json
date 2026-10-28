@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 388,
-  "sfw:tiru": 277,
-  "sfw:sefi": 299,
+  "sfw:lilia": 389,
+  "sfw:tiru": 280,
+  "sfw:sefi": 301,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -55,6 +55,19 @@
    "src": "img/g/sfw/tiru/f60719695de9.webp",
    "thumb": "img/g/sfw/tiru/f60719695de9_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "f4c0c1a6be71",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "#ハロウィン討伐戦2026",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/tiru/f4c0c1a6be71.webp",
+   "thumb": "img/g/sfw/tiru/f4c0c1a6be71_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -106,6 +119,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/sefi/d85a75da44f0.webp",
    "thumb": "img/g/sfw/sefi/d85a75da44f0_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d7cd7f72d770",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うちの子IF世界線",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/sefi/d7cd7f72d770.webp",
+   "thumb": "img/g/sfw/sefi/d7cd7f72d770_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -162,6 +188,19 @@
    "h": 1280
   },
   {
+   "id": "b8105a83d944",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIハロウィン学園祭",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/sefi/b8105a83d944.webp",
+   "thumb": "img/g/sfw/sefi/b8105a83d944_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b4a8120821c5",
    "char": "lilia",
    "nsfw": false,
@@ -184,6 +223,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/lilia/a85ab496387d.webp",
    "thumb": "img/g/sfw/lilia/a85ab496387d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a83bddc2eb1d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIスチームパンクワールド",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/a83bddc2eb1d.webp",
+   "thumb": "img/g/sfw/lilia/a83bddc2eb1d_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -211,6 +263,19 @@
    "src": "img/g/sfw/sefi/913a9dc743dd.webp",
    "thumb": "img/g/sfw/sefi/913a9dc743dd_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8bf70c65230e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#うぇんずでーうぃんく",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/tiru/8bf70c65230e.webp",
+   "thumb": "img/g/sfw/tiru/8bf70c65230e_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -379,6 +444,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/tiru/4cfcb7f38517.webp",
    "thumb": "img/g/sfw/tiru/4cfcb7f38517_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3c377a3bcf4a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィンのコスプレ",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/tiru/3c377a3bcf4a.webp",
+   "thumb": "img/g/sfw/tiru/3c377a3bcf4a_t.webp",
    "w": 720,
    "h": 1280
   },
