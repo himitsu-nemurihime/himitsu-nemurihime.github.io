@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,40 @@
   }
  },
  "counts": {
+  "sfw:lilia": 395,
   "sfw:tiru": 283,
-  "sfw:lilia": 393,
   "sfw:sefi": 305,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 321,
  "items": [
+  {
+   "id": "ce72489451b6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋コーデ",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/ce72489451b6.webp",
+   "thumb": "img/g/sfw/lilia/ce72489451b6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c303f6bf92c2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋コーデ",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/c303f6bf92c2.webp",
+   "thumb": "img/g/sfw/lilia/c303f6bf92c2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f97920e3074c",
    "char": "tiru",
