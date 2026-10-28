@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 386,
-  "sfw:tiru": 276,
-  "sfw:sefi": 298,
+  "sfw:lilia": 387,
+  "sfw:tiru": 277,
+  "sfw:sefi": 299,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -565,6 +565,19 @@
    "h": 1280
   },
   {
+   "id": "ec188b50a32e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#テディベア 3",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/tiru/ec188b50a32e.webp",
+   "thumb": "img/g/sfw/tiru/ec188b50a32e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ea92001e880e",
    "char": "sefi",
    "nsfw": false,
@@ -717,6 +730,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/lilia/a792578fe981.webp",
    "thumb": "img/g/sfw/lilia/a792578fe981_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a3b0066ad227",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#テディベア",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/a3b0066ad227.webp",
+   "thumb": "img/g/sfw/lilia/a3b0066ad227_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -925,6 +951,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/tiru/3eeb88c5ca9d.webp",
    "thumb": "img/g/sfw/tiru/3eeb88c5ca9d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3c99a8b79fea",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#テディベア 2",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/sefi/3c99a8b79fea.webp",
+   "thumb": "img/g/sfw/sefi/3c99a8b79fea_t.webp",
    "w": 720,
    "h": 1280
   },
