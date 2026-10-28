@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 387,
+  "sfw:lilia": 388,
   "sfw:tiru": 277,
   "sfw:sefi": 299,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 316,
+ "held": 317,
  "items": [
   {
    "id": "f77d07aebf45",
@@ -457,6 +457,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/sefi/055aab8d00d1.webp",
    "thumb": "img/g/sfw/sefi/055aab8d00d1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0160eede3a9c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#パンダ",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/0160eede3a9c.webp",
+   "thumb": "img/g/sfw/lilia/0160eede3a9c_t.webp",
    "w": 720,
    "h": 1280
   },
