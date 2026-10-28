@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 389,
-  "sfw:tiru": 280,
-  "sfw:sefi": 301,
+  "sfw:tiru": 283,
+  "sfw:lilia": 393,
+  "sfw:sefi": 305,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 317,
+ "held": 321,
  "items": [
+  {
+   "id": "f97920e3074c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "通学路ではなく朝の宅配の手伝い。段ボールを積みすぎて前が見えず、街灯にお辞儀する",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/tiru/f97920e3074c.webp",
+   "thumb": "img/g/sfw/tiru/f97920e3074c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f77d07aebf45",
    "char": "lilia",
@@ -80,6 +93,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/sefi/f3b7b1ec9513.webp",
    "thumb": "img/g/sfw/sefi/f3b7b1ec9513_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ec2237eeb863",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 雪の夜のスケートリンクで片足スピン（Co",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/ec2237eeb863.webp",
+   "thumb": "img/g/sfw/lilia/ec2237eeb863_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -214,6 +240,19 @@
    "h": 720
   },
   {
+   "id": "b1844487c35c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "雑貨屋さんの香水瓶の棚。セフィリアが小さなガラスの香水瓶を指先で持ってリリアの首元の少し横でひと吹きし、もう片方の手は棚",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/b1844487c35c.webp",
+   "thumb": "img/g/sfw/lilia/b1844487c35c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "a85ab496387d",
    "char": "lilia",
    "nsfw": false,
@@ -249,6 +288,32 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/sefi/9bf77c7d979e.webp",
    "thumb": "img/g/sfw/sefi/9bf77c7d979e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9a9903048e58",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "蜜蜂の巣箱を、離れたところから首だけ伸ばして覗く",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/sefi/9a9903048e58.webp",
+   "thumb": "img/g/sfw/sefi/9a9903048e58_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "91f8a5b0acd2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝焼けの雲の上を飛ぶ気球。バスケットから3人で身を乗り出し、ティルナが雲に手をのばし、リリアとセフィリアが朝日に目を細め",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/91f8a5b0acd2.webp",
+   "thumb": "img/g/sfw/lilia/91f8a5b0acd2_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -290,6 +355,32 @@
    "thumb": "img/g/sfw/sefi/8b55237ed29b_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "886eb765f7b8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 弓の練習、的に当てるだけなのに",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/tiru/886eb765f7b8.webp",
+   "thumb": "img/g/sfw/tiru/886eb765f7b8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "862e794685f6",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子が組み立て式プラモデルになるプロ",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/sefi/862e794685f6.webp",
+   "thumb": "img/g/sfw/sefi/862e794685f6_t.webp",
+   "w": 853,
+   "h": 1280
   },
   {
    "id": "8618cad6afcc",
@@ -422,6 +513,19 @@
    "h": 1280
   },
   {
+   "id": "6163dd639f14",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 1,
+   "title": "大通りの高級ブティックの店内。黒いタイトなスーツの販売員のセフィリアが、胸元の開いたジャケットのまま新作のストールを肩に",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/sefi/6163dd639f14.webp",
+   "thumb": "img/g/sfw/sefi/6163dd639f14_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "5fed06686274",
    "char": "tiru",
    "nsfw": false,
@@ -435,6 +539,19 @@
    "h": 1280
   },
   {
+   "id": "55913a9c543c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の地下鉄のホーム。紺の駅員の制服に制帽のリリアが白い手袋の手を高く挙げて発車の合図を出し、こちらへちらりと視線を送る",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/lilia/55913a9c543c.webp",
+   "thumb": "img/g/sfw/lilia/55913a9c543c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "4cfcb7f38517",
    "char": "tiru",
    "nsfw": false,
@@ -444,6 +561,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/tiru/4cfcb7f38517.webp",
    "thumb": "img/g/sfw/tiru/4cfcb7f38517_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "42536f71ed26",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "雨の日の傘屋の店先。開いた和傘の花の中で、セフィリアが番傘をくるりと回して空を見上げる",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/sefi/42536f71ed26.webp",
+   "thumb": "img/g/sfw/sefi/42536f71ed26_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -509,6 +639,19 @@
    "date": "2026-10-28",
    "src": "img/g/sfw/lilia/15d8d0ead98a.webp",
    "thumb": "img/g/sfw/lilia/15d8d0ead98a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0b7b04242f70",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "秋の夕暮れにちなんで、夕焼け空と長く伸び",
+   "date": "2026-10-28",
+   "src": "img/g/sfw/tiru/0b7b04242f70.webp",
+   "thumb": "img/g/sfw/tiru/0b7b04242f70_t.webp",
    "w": 720,
    "h": 1280
   },
