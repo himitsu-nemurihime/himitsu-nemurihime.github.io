@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "sfw:lilia": 406,
+  "sfw:lilia": 407,
   "sfw:tiru": 290,
   "sfw:sefi": 311,
   "sfw:three": 12
@@ -197,6 +197,19 @@
    "date": "2026-10-29",
    "src": "img/g/sfw/lilia/855b690ece7c.webp",
    "thumb": "img/g/sfw/lilia/855b690ece7c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "70a7bf96b574",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 写真を一枚、撮りたいだけなのに",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/70a7bf96b574.webp",
+   "thumb": "img/g/sfw/lilia/70a7bf96b574_t.webp",
    "w": 720,
    "h": 1280
   },
