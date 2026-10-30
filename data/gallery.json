@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 400,
-  "sfw:tiru": 285,
-  "sfw:sefi": 308,
+  "sfw:lilia": 406,
+  "sfw:tiru": 290,
+  "sfw:sefi": 311,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 326,
+ "held": 333,
  "items": [
   {
    "id": "e794c62da10c",
@@ -58,6 +58,19 @@
    "h": 1280
   },
   {
+   "id": "cf10d77f4f7d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#公立ダサ制服女子２",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/cf10d77f4f7d.webp",
+   "thumb": "img/g/sfw/lilia/cf10d77f4f7d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ce72489451b6",
    "char": "lilia",
    "nsfw": false,
@@ -67,6 +80,19 @@
    "date": "2026-10-29",
    "src": "img/g/sfw/lilia/ce72489451b6.webp",
    "thumb": "img/g/sfw/lilia/ce72489451b6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ca75e22171d0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#公立ダサ制服女子２ 2",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/sefi/ca75e22171d0.webp",
+   "thumb": "img/g/sfw/sefi/ca75e22171d0_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -110,6 +136,58 @@
    "h": 1280
   },
   {
+   "id": "b61a97e32219",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メメントモリ",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/b61a97e32219.webp",
+   "thumb": "img/g/sfw/lilia/b61a97e32219_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "af1493b9c41d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#キョンシーだぞ〜！",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/af1493b9c41d.webp",
+   "thumb": "img/g/sfw/lilia/af1493b9c41d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ae63c8052d99",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#儀式サバイバル 3",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/tiru/ae63c8052d99.webp",
+   "thumb": "img/g/sfw/tiru/ae63c8052d99_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a2fb25fbd9f3",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メメントモリ 2",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/sefi/a2fb25fbd9f3.webp",
+   "thumb": "img/g/sfw/sefi/a2fb25fbd9f3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "855b690ece7c",
    "char": "lilia",
    "nsfw": false,
@@ -149,6 +227,19 @@
    "h": 1280
   },
   {
+   "id": "428e9775ddf2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#キョンシーだぞ〜！ 3",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/tiru/428e9775ddf2.webp",
+   "thumb": "img/g/sfw/tiru/428e9775ddf2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2910dcd7dbc5",
    "char": "lilia",
    "nsfw": false,
@@ -162,6 +253,19 @@
    "h": 1280
   },
   {
+   "id": "24e825e9a834",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#儀式サバイバル",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/lilia/24e825e9a834.webp",
+   "thumb": "img/g/sfw/lilia/24e825e9a834_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "229ae8095d84",
    "char": "sefi",
    "nsfw": false,
@@ -171,6 +275,32 @@
    "date": "2026-10-29",
    "src": "img/g/sfw/sefi/229ae8095d84.webp",
    "thumb": "img/g/sfw/sefi/229ae8095d84_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0ce704152ddf",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メメントモリ 3",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/tiru/0ce704152ddf.webp",
+   "thumb": "img/g/sfw/tiru/0ce704152ddf_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "06bce8db9e93",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#儀式サバイバル 2",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/sefi/06bce8db9e93.webp",
+   "thumb": "img/g/sfw/sefi/06bce8db9e93_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -3672,6 +3802,19 @@
    "h": 1280
   },
   {
+   "id": "82e58e4dc976",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#リリア",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/lilia/82e58e4dc976.webp",
+   "thumb": "img/g/sfw/lilia/82e58e4dc976_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "7636b775d875",
    "char": "sefi",
    "nsfw": false,
@@ -3798,6 +3941,19 @@
    "date": "2026-10-23",
    "src": "img/g/sfw/lilia/0f8d87ae77ba.webp",
    "thumb": "img/g/sfw/lilia/0f8d87ae77ba_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0d8e97d9f757",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#リリア 4",
+   "date": "2026-10-23",
+   "src": "img/g/sfw/lilia/0d8e97d9f757.webp",
+   "thumb": "img/g/sfw/lilia/0d8e97d9f757_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -4777,6 +4933,19 @@
    "h": 720
   },
   {
+   "id": "ed1494b79eef",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#ティルナ 5",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/tiru/ed1494b79eef.webp",
+   "thumb": "img/g/sfw/tiru/ed1494b79eef_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "eaac38796c8b",
    "char": "lilia",
    "nsfw": false,
@@ -4903,6 +5072,19 @@
    "date": "2026-10-20",
    "src": "img/g/sfw/lilia/871ed120b85b.webp",
    "thumb": "img/g/sfw/lilia/871ed120b85b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "82f15ff01479",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": 0,
+   "title": "#ティルナ 6",
+   "date": "2026-10-20",
+   "src": "img/g/sfw/tiru/82f15ff01479.webp",
+   "thumb": "img/g/sfw/tiru/82f15ff01479_t.webp",
    "w": 720,
    "h": 1280
   },
