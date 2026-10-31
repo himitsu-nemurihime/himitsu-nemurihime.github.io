@@ -24,7 +24,7 @@
  },
  "counts": {
   "sfw:tiru": 304,
-  "sfw:lilia": 417,
+  "sfw:lilia": 418,
   "sfw:sefi": 322,
   "sfw:three": 12
  },
@@ -120,6 +120,19 @@
    "src": "img/g/sfw/lilia/b5abf93c53e2.webp",
    "thumb": "img/g/sfw/lilia/b5abf93c53e2_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "684958f3d3db",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#つながるOC箱庭",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/684958f3d3db.webp",
+   "thumb": "img/g/sfw/lilia/684958f3d3db_t.webp",
+   "w": 960,
    "h": 1280
   },
   {
