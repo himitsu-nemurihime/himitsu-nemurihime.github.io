@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 416,
-  "sfw:tiru": 300,
-  "sfw:sefi": 319,
+  "sfw:tiru": 304,
+  "sfw:lilia": 417,
+  "sfw:sefi": 322,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 347,
  "items": [
+  {
+   "id": "fe0678efcc4b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィンも黒ミサ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/fe0678efcc4b.webp",
+   "thumb": "img/g/sfw/tiru/fe0678efcc4b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "d5af86559261",
    "char": "lilia",
@@ -123,6 +136,71 @@
    "h": 1280
   },
   {
+   "id": "47ed76a9bb7d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#地味にハロウィン選手権2026",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/47ed76a9bb7d.webp",
+   "thumb": "img/g/sfw/tiru/47ed76a9bb7d_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "4501a99e79c9",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メイド曜",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/4501a99e79c9.webp",
+   "thumb": "img/g/sfw/sefi/4501a99e79c9_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "3fd334e9b79d",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ゆるこわ妖怪ハロウィン",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/3fd334e9b79d.webp",
+   "thumb": "img/g/sfw/tiru/3fd334e9b79d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3c57d6a9891e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィン童話夜会",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/3c57d6a9891e.webp",
+   "thumb": "img/g/sfw/tiru/3c57d6a9891e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "37dd2dfd551b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ゆるこわ妖怪ハロウィン 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/37dd2dfd551b.webp",
+   "thumb": "img/g/sfw/lilia/37dd2dfd551b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2a3273c828df",
    "char": "tiru",
    "nsfw": false,
@@ -132,6 +210,32 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/tiru/2a3273c828df.webp",
    "thumb": "img/g/sfw/tiru/2a3273c828df_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "19ea299dba9b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ネオンちゃんハロウィンナイト",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/19ea299dba9b.webp",
+   "thumb": "img/g/sfw/sefi/19ea299dba9b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "008e2a5924e5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィンも黒ミサ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/008e2a5924e5.webp",
+   "thumb": "img/g/sfw/sefi/008e2a5924e5_t.webp",
    "w": 720,
    "h": 1280
   },
