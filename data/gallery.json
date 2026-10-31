@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,79 @@
   }
  },
  "counts": {
-  "sfw:tiru": 306,
-  "sfw:lilia": 422,
-  "sfw:sefi": 324,
+  "sfw:lilia": 425,
+  "sfw:sefi": 327,
+  "sfw:tiru": 308,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 350,
  "items": [
+  {
+   "id": "df32767f00b9",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィン童話夜会",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/df32767f00b9.webp",
+   "thumb": "img/g/sfw/lilia/df32767f00b9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d8adb1584b4d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#フォトデー 2",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/d8adb1584b4d.webp",
+   "thumb": "img/g/sfw/sefi/d8adb1584b4d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c8f0e97ef6be",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#きゅとくるハロウィン",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/c8f0e97ef6be.webp",
+   "thumb": "img/g/sfw/tiru/c8f0e97ef6be_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9bce15ba89f1",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#フォトデー 3",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/9bce15ba89f1.webp",
+   "thumb": "img/g/sfw/tiru/9bce15ba89f1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "98a88f5c79ee",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#フォトデー",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/98a88f5c79ee.webp",
+   "thumb": "img/g/sfw/lilia/98a88f5c79ee_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "fe0678efcc4b",
    "char": "tiru",
@@ -41,6 +106,19 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/tiru/fe0678efcc4b.webp",
    "thumb": "img/g/sfw/tiru/fe0678efcc4b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f261f187653b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#白スク水うさみみ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/f261f187653b.webp",
+   "thumb": "img/g/sfw/lilia/f261f187653b_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -120,6 +198,19 @@
    "src": "img/g/sfw/sefi/c08a72d8410a.webp",
    "thumb": "img/g/sfw/sefi/c08a72d8410a_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "c01d0c648197",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#香り 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/c01d0c648197.webp",
+   "thumb": "img/g/sfw/sefi/c01d0c648197_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -315,6 +406,19 @@
    "src": "img/g/sfw/sefi/19ea299dba9b.webp",
    "thumb": "img/g/sfw/sefi/19ea299dba9b_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "15a5937ceaf3",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#異議申し立て祭",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/15a5937ceaf3.webp",
+   "thumb": "img/g/sfw/sefi/15a5937ceaf3_t.webp",
+   "w": 960,
    "h": 1280
   },
   {
