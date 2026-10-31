@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "sfw:lilia": 411,
+  "sfw:lilia": 412,
   "sfw:tiru": 298,
   "sfw:sefi": 316,
   "sfw:three": 12
@@ -1549,6 +1549,19 @@
    "date": "2026-10-27",
    "src": "img/g/sfw/lilia/8aec6ee70bec.webp",
    "thumb": "img/g/sfw/lilia/8aec6ee70bec_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8277a23b8604",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#タイツ",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/8277a23b8604.webp",
+   "thumb": "img/g/sfw/lilia/8277a23b8604_t.webp",
    "w": 720,
    "h": 1280
   },
