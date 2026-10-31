@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:tiru": 304,
-  "sfw:lilia": 418,
-  "sfw:sefi": 322,
+  "sfw:tiru": 306,
+  "sfw:lilia": 422,
+  "sfw:sefi": 324,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 347,
+ "held": 350,
  "items": [
   {
    "id": "fe0678efcc4b",
@@ -41,6 +41,32 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/tiru/fe0678efcc4b.webp",
    "thumb": "img/g/sfw/tiru/fe0678efcc4b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e33b1769caae",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "陶芸の工房のろくろ。セフィリアが回るろくろの上の粘土に両手を添え、両側からリリアとティルナが身を乗り出してのぞきこみ、小",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/e33b1769caae.webp",
+   "thumb": "img/g/sfw/lilia/e33b1769caae_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e3322ffc1fdc",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "ハロウィンにちなんで、かぼちゃのランタン",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/e3322ffc1fdc.webp",
+   "thumb": "img/g/sfw/tiru/e3322ffc1fdc_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -97,6 +123,19 @@
    "h": 1280
   },
   {
+   "id": "b84ca3f83696",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕暮れの丘で、空に光るちいさな星を見つけて指さす",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/b84ca3f83696.webp",
+   "thumb": "img/g/sfw/sefi/b84ca3f83696_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b81a6e791217",
    "char": "lilia",
    "nsfw": false,
@@ -119,6 +158,19 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/lilia/b5abf93c53e2.webp",
    "thumb": "img/g/sfw/lilia/b5abf93c53e2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "91e429b4f8fe",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "衣替え。段ボールから出した冬服に顔をうずめて、防虫剤の匂いにくしゃみ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/91e429b4f8fe.webp",
+   "thumb": "img/g/sfw/lilia/91e429b4f8fe_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -227,6 +279,32 @@
    "h": 1280
   },
   {
+   "id": "255dd9a8c4c3",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "晴れた日の明るい部屋。窓の外は青空で、紙がひらひら舞う中、ティルナが両手を広げてはしゃぐ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/255dd9a8c4c3.webp",
+   "thumb": "img/g/sfw/tiru/255dd9a8c4c3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1a8bfe0879aa",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕暮れの遊園地のメリーゴーラウンド。白い木馬にそれぞれ乗った3人が振り向いて、ティルナがこちらに手を振り、リリアとセフィ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/1a8bfe0879aa.webp",
+   "thumb": "img/g/sfw/lilia/1a8bfe0879aa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "19ea299dba9b",
    "char": "sefi",
    "nsfw": false,
@@ -236,6 +314,32 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/sefi/19ea299dba9b.webp",
    "thumb": "img/g/sfw/sefi/19ea299dba9b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0a1edd3e22d2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "摘んだ薬草を紐で束ねて、天井の梁へひとつ",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/0a1edd3e22d2.webp",
+   "thumb": "img/g/sfw/lilia/0a1edd3e22d2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "078abeb68d62",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "収穫祭の葡萄踏みに誘われ、大きな樽の中で裾を膝まで持ち上げて葡萄を踏み、汁が脚に跳ねる",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/078abeb68d62.webp",
+   "thumb": "img/g/sfw/sefi/078abeb68d62_t.webp",
    "w": 720,
    "h": 1280
   },
