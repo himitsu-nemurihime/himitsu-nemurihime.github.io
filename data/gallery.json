@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:lilia": 412,
-  "sfw:tiru": 298,
-  "sfw:sefi": 316,
+  "sfw:lilia": 416,
+  "sfw:tiru": 300,
+  "sfw:sefi": 319,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 344,
+ "held": 347,
  "items": [
+  {
+   "id": "d5af86559261",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIハロウィン学園祭",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/d5af86559261.webp",
+   "thumb": "img/g/sfw/lilia/d5af86559261_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d401592888c7",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィン 3",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/d401592888c7.webp",
+   "thumb": "img/g/sfw/tiru/d401592888c7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c1e3e69c3422",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィン 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/c1e3e69c3422.webp",
+   "thumb": "img/g/sfw/sefi/c1e3e69c3422_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c08a72d8410a",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#きゅとくるハロウィン",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/c08a72d8410a.webp",
+   "thumb": "img/g/sfw/sefi/c08a72d8410a_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "b81a6e791217",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ハロウィン",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/b81a6e791217.webp",
+   "thumb": "img/g/sfw/lilia/b81a6e791217_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b5abf93c53e2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AIHalloweenP2026",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/b5abf93c53e2.webp",
+   "thumb": "img/g/sfw/lilia/b5abf93c53e2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5cc7633ec084",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI月下幻想",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/5cc7633ec084.webp",
+   "thumb": "img/g/sfw/lilia/5cc7633ec084_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2a3273c828df",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AQUAハロウィンパーティー",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/2a3273c828df.webp",
+   "thumb": "img/g/sfw/tiru/2a3273c828df_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "b1fa846c2e59",
    "char": "lilia",
@@ -379,6 +483,19 @@
    "date": "2026-10-29",
    "src": "img/g/sfw/tiru/ae63c8052d99.webp",
    "thumb": "img/g/sfw/tiru/ae63c8052d99_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ad71ef5111e5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI豹柄フェス",
+   "date": "2026-10-29",
+   "src": "img/g/sfw/sefi/ad71ef5111e5.webp",
+   "thumb": "img/g/sfw/sefi/ad71ef5111e5_t.webp",
    "w": 720,
    "h": 1280
   },
