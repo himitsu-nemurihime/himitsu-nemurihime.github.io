@@ -25,7 +25,7 @@
  "counts": {
   "sfw:tiru": 310,
   "sfw:lilia": 431,
-  "sfw:sefi": 328,
+  "sfw:sefi": 329,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -158,6 +158,19 @@
    "date": "2026-11-01",
    "src": "img/g/sfw/lilia/7ddbacc54c4c.webp",
    "thumb": "img/g/sfw/lilia/7ddbacc54c4c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5a09ace6d1da",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 白い竜の背に乗って、青空の雲海の崖の上を",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/5a09ace6d1da.webp",
+   "thumb": "img/g/sfw/sefi/5a09ace6d1da_t.webp",
    "w": 720,
    "h": 1280
   },
