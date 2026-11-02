@@ -24,7 +24,7 @@
  },
  "counts": {
   "sfw:tiru": 310,
-  "sfw:lilia": 431,
+  "sfw:lilia": 432,
   "sfw:sefi": 329,
   "sfw:three": 12
  },
@@ -379,6 +379,19 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/lilia/b5abf93c53e2.webp",
    "thumb": "img/g/sfw/lilia/b5abf93c53e2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ab9b04704e9a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 長い髪を、乾かすだけなのに",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/ab9b04704e9a.webp",
+   "thumb": "img/g/sfw/lilia/ab9b04704e9a_t.webp",
    "w": 720,
    "h": 1280
   },
