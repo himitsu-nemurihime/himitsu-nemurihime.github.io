@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:tiru": 310,
-  "sfw:lilia": 432,
-  "sfw:sefi": 329,
+  "sfw:lilia": 434,
+  "sfw:sefi": 333,
+  "sfw:tiru": 312,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 353,
+ "held": 357,
  "items": [
+  {
+   "id": "fd7234734435",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子の撮影のベタ焼きシートのプロンプ",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/fd7234734435.webp",
+   "thumb": "img/g/sfw/lilia/fd7234734435_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "f95eef7112b8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕暮れのお祭り。法被にたすきのセフィリアが、つむじ風にさらわれた手ぬぐいへ思いきり手を伸ばし、困り顔で歯を食いしばる",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/f95eef7112b8.webp",
+   "thumb": "img/g/sfw/sefi/f95eef7112b8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c1bb4d303b40",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕暮れの窓辺。抱き上げた猫と鼻と鼻をくっつけたティルナが、ほっぺをふくらませて息を止め、目をぎゅっとつむる",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/c1bb4d303b40.webp",
+   "thumb": "img/g/sfw/tiru/c1bb4d303b40_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "791633026a54",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "紅葉の峠道。サイクルジャージで坂を登り切ったセフィリアが、頂上で自転車にまたがったままボトルの水をあおり、空いた手でこち",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/791633026a54.webp",
+   "thumb": "img/g/sfw/sefi/791633026a54_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "610b8249ec22",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "水族館のペンギンの餌やり体験。バケツを持ったティルナのまわりにペンギンがよちよち行列を作って集まり、となりのセフィリアが",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/610b8249ec22.webp",
+   "thumb": "img/g/sfw/sefi/610b8249ec22_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "560817f56cc1",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 王女さまの、はじめてのおにぎり",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/560817f56cc1.webp",
+   "thumb": "img/g/sfw/sefi/560817f56cc1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "32af27dc4350",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 冬の公園のトランポリンで、青空へ高くジャ",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/32af27dc4350.webp",
+   "thumb": "img/g/sfw/tiru/32af27dc4350_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0229611a43cb",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "空を金魚の群れが泳いで通る朝。郵便配達のリリアが帽子を押さえて見上げ、一通の手紙を金魚にくわえて運んでもらうのを見送って",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/0229611a43cb.webp",
+   "thumb": "img/g/sfw/lilia/0229611a43cb_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "e0eca414f691",
    "char": "tiru",
