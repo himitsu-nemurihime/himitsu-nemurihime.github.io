@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 434,
-  "sfw:sefi": 333,
-  "sfw:tiru": 312,
+  "sfw:sefi": 336,
+  "sfw:lilia": 436,
+  "sfw:tiru": 315,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 358,
  "items": [
+  {
+   "id": "ff785710d9eb",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#月曜日の夜は全力ゴスロリ",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/ff785710d9eb.webp",
+   "thumb": "img/g/sfw/sefi/ff785710d9eb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "fd7234734435",
    "char": "lilia",
@@ -58,6 +71,32 @@
    "h": 1280
   },
   {
+   "id": "df7a55a286e2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の花畑。3人で輪になって座り、編みあげた花冠をセフィリアがティルナの頭にそっとのせ、のせてもらったティルナが照れ笑いし",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/df7a55a286e2.webp",
+   "thumb": "img/g/sfw/lilia/df7a55a286e2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cd208a8ce691",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#小悪魔ちゃん展",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/cd208a8ce691.webp",
+   "thumb": "img/g/sfw/tiru/cd208a8ce691_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "c1bb4d303b40",
    "char": "tiru",
    "nsfw": false,
@@ -71,6 +110,32 @@
    "h": 1280
   },
   {
+   "id": "a1b391cdd6c1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#初冬のAIもこもこファッション",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/a1b391cdd6c1.webp",
+   "thumb": "img/g/sfw/lilia/a1b391cdd6c1_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "86881df1aa19",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "黒い鉄の機関室。紺の作業帽と革手袋のティルナが、スコップの石炭を火室へ放りこみ、オレンジの炎に顔を照らされて得意げに笑う",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/86881df1aa19.webp",
+   "thumb": "img/g/sfw/tiru/86881df1aa19_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "791633026a54",
    "char": "sefi",
    "nsfw": false,
@@ -80,6 +145,19 @@
    "date": "2026-11-02",
    "src": "img/g/sfw/sefi/791633026a54.webp",
    "thumb": "img/g/sfw/sefi/791633026a54_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "69155ea6e774",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋のおうち時間のうちの子",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/69155ea6e774.webp",
+   "thumb": "img/g/sfw/sefi/69155ea6e774_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -119,6 +197,32 @@
    "date": "2026-11-02",
    "src": "img/g/sfw/tiru/32af27dc4350.webp",
    "thumb": "img/g/sfw/tiru/32af27dc4350_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "29c2789f4492",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "書道の日。障子越しの光が入る和室で、桜色の着物のセフィリアが正座し、片手で袖を押さえながら墨をたっぷり含ませた筆を白い半",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/29c2789f4492.webp",
+   "thumb": "img/g/sfw/sefi/29c2789f4492_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2553278fa882",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#月曜日討伐隊",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/2553278fa882.webp",
+   "thumb": "img/g/sfw/tiru/2553278fa882_t.webp",
    "w": 720,
    "h": 1280
   },
