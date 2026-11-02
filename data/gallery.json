@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 425,
-  "sfw:sefi": 327,
-  "sfw:tiru": 308,
+  "sfw:tiru": 310,
+  "sfw:lilia": 431,
+  "sfw:sefi": 328,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 350,
+ "held": 353,
  "items": [
+  {
+   "id": "e0eca414f691",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "牧場の牛舎の乳搾り体験。搾りたての牛乳をコップで飲んだティルナが、白いひげのまま牛に鼻を寄せられて、のけぞって笑う",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/e0eca414f691.webp",
+   "thumb": "img/g/sfw/tiru/e0eca414f691_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "df32767f00b9",
    "char": "lilia",
@@ -71,6 +84,32 @@
    "h": 1280
   },
   {
+   "id": "ba8599cc62f4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "朝霧の牧場。干し草の山にもたれて一休みのリリアが、膝の上の子猫を撫でながら、霧の向こうの朝日に目を細めてくすっと笑う",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/ba8599cc62f4.webp",
+   "thumb": "img/g/sfw/lilia/ba8599cc62f4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ab77d53fdc51",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "晴れた朝のベランダ。黒いキャミソールのリリアがマットの上でうつ伏せになり、ほおづえをついたまま足先をぱたぱたさせて、日な",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/ab77d53fdc51.webp",
+   "thumb": "img/g/sfw/lilia/ab77d53fdc51_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "9bce15ba89f1",
    "char": "tiru",
    "nsfw": false,
@@ -94,6 +133,84 @@
    "src": "img/g/sfw/lilia/98a88f5c79ee.webp",
    "thumb": "img/g/sfw/lilia/98a88f5c79ee_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "820fb8885786",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "紅茶の日の午後。窓辺の小さなテーブルで、ティルナが注いだばかりの紅茶のカップを持ち上げ、立ちのぼる湯気に顔を寄せて香りを",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/820fb8885786.webp",
+   "thumb": "img/g/sfw/tiru/820fb8885786_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7ddbacc54c4c",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "風の通る丘のてっぺん。3人で折った紙飛行機を、せーので同時に空へ飛ばし、ティルナのだけがいちばん高く遠くへ飛んでいくのを",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/7ddbacc54c4c.webp",
+   "thumb": "img/g/sfw/lilia/7ddbacc54c4c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4479c7d00da2",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "王宮の道場の薙刀の稽古。上段に振りかぶったセフィリアが、翻る袴のまま踏み込み、汗の光る頬でこちらを見て凛と微笑む",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/4479c7d00da2.webp",
+   "thumb": "img/g/sfw/sefi/4479c7d00da2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "41dbbeef96cc",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "開演前の劇場の舞台袖。照明の漏れる暗がりで、白鳥の羽根飾りのチュチュのリリアが片膝を立ててトウシューズのリボンを足首に巻",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/41dbbeef96cc.webp",
+   "thumb": "img/g/sfw/lilia/41dbbeef96cc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "337793dd1a0e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 布団たたきは、ほどほどに",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/337793dd1a0e.webp",
+   "thumb": "img/g/sfw/lilia/337793dd1a0e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "052439584515",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "植物園の大温室。池に浮かぶ大きな睡蓮の葉の上に小さな緑のカエルを見つけて、ティルナが池のふちから身を乗り出して指さし、リ",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/052439584515.webp",
+   "thumb": "img/g/sfw/lilia/052439584515_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
