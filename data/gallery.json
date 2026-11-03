@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:sefi": 339,
-  "sfw:lilia": 439,
-  "sfw:tiru": 317,
+  "sfw:tiru": 329,
+  "sfw:sefi": 352,
+  "sfw:lilia": 451,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 359,
  "items": [
+  {
+   "id": "efc04e89afab",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#クラシックカー 3",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/tiru/efc04e89afab.webp",
+   "thumb": "img/g/sfw/tiru/efc04e89afab_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "e42a18d79681",
    "char": "sefi",
@@ -45,6 +58,32 @@
    "h": 1280
   },
   {
+   "id": "e15b1c576817",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#クラシックカー 2",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/sefi/e15b1c576817.webp",
+   "thumb": "img/g/sfw/sefi/e15b1c576817_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d307b9ecbaf3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#クラシックカー",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/lilia/d307b9ecbaf3.webp",
+   "thumb": "img/g/sfw/lilia/d307b9ecbaf3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "9e6e8bee88e3",
    "char": "lilia",
    "nsfw": false,
@@ -54,6 +93,19 @@
    "date": "2026-11-03",
    "src": "img/g/sfw/lilia/9e6e8bee88e3.webp",
    "thumb": "img/g/sfw/lilia/9e6e8bee88e3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ffd83fd88bc0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#へそ出し 2",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/ffd83fd88bc0.webp",
+   "thumb": "img/g/sfw/sefi/ffd83fd88bc0_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -97,6 +149,19 @@
    "h": 1280
   },
   {
+   "id": "ee5a33cced10",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ちちぷい墓場 3",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/ee5a33cced10.webp",
+   "thumb": "img/g/sfw/tiru/ee5a33cced10_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "df7a55a286e2",
    "char": "lilia",
    "nsfw": false,
@@ -123,6 +188,19 @@
    "h": 1280
   },
   {
+   "id": "c5de0dc324d5",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#へそ出し 3",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/c5de0dc324d5.webp",
+   "thumb": "img/g/sfw/tiru/c5de0dc324d5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "c1bb4d303b40",
    "char": "tiru",
    "nsfw": false,
@@ -136,6 +214,19 @@
    "h": 1280
   },
   {
+   "id": "bfc99166b53f",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宝物 3",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/tiru/bfc99166b53f.webp",
+   "thumb": "img/g/sfw/tiru/bfc99166b53f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "a1b391cdd6c1",
    "char": "lilia",
    "nsfw": false,
@@ -146,6 +237,19 @@
    "src": "img/g/sfw/lilia/a1b391cdd6c1.webp",
    "thumb": "img/g/sfw/lilia/a1b391cdd6c1_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "962752dae76e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ちちぷい墓場",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/962752dae76e.webp",
+   "thumb": "img/g/sfw/lilia/962752dae76e_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -171,6 +275,19 @@
    "date": "2026-11-02",
    "src": "img/g/sfw/sefi/791633026a54.webp",
    "thumb": "img/g/sfw/sefi/791633026a54_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7265525c13f3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#へそ出し",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/7265525c13f3.webp",
+   "thumb": "img/g/sfw/lilia/7265525c13f3_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -201,6 +318,19 @@
    "h": 1280
   },
   {
+   "id": "5941c6b1b72f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宝物",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/lilia/5941c6b1b72f.webp",
+   "thumb": "img/g/sfw/lilia/5941c6b1b72f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "560817f56cc1",
    "char": "sefi",
    "nsfw": false,
@@ -227,6 +357,19 @@
    "h": 1280
   },
   {
+   "id": "31d3358612be",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#宝物 2",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/31d3358612be.webp",
+   "thumb": "img/g/sfw/sefi/31d3358612be_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "29c2789f4492",
    "char": "sefi",
    "nsfw": false,
@@ -249,6 +392,19 @@
    "date": "2026-11-02",
    "src": "img/g/sfw/tiru/2553278fa882.webp",
    "thumb": "img/g/sfw/tiru/2553278fa882_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "103a2a611eea",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ちちぷい墓場 2",
+   "date": "2026-11-02",
+   "src": "img/g/sfw/sefi/103a2a611eea.webp",
+   "thumb": "img/g/sfw/sefi/103a2a611eea_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -305,6 +461,32 @@
    "h": 1280
   },
   {
+   "id": "d5101a6f6ea8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#超古代文明あるある 3",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/d5101a6f6ea8.webp",
+   "thumb": "img/g/sfw/tiru/d5101a6f6ea8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ce97e8476157",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#密教 3",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/ce97e8476157.webp",
+   "thumb": "img/g/sfw/tiru/ce97e8476157_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "c8f0e97ef6be",
    "char": "tiru",
    "nsfw": false,
@@ -318,6 +500,19 @@
    "h": 1280
   },
   {
+   "id": "bb59342d16bd",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#スク水ブラックフライデー 2",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/bb59342d16bd.webp",
+   "thumb": "img/g/sfw/sefi/bb59342d16bd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ba8599cc62f4",
    "char": "lilia",
    "nsfw": false,
@@ -327,6 +522,19 @@
    "date": "2026-11-01",
    "src": "img/g/sfw/lilia/ba8599cc62f4.webp",
    "thumb": "img/g/sfw/lilia/ba8599cc62f4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ad6e7c876d89",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#密教 2",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/ad6e7c876d89.webp",
+   "thumb": "img/g/sfw/sefi/ad6e7c876d89_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -370,6 +578,45 @@
    "h": 1280
   },
   {
+   "id": "91130d8d1291",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#超古代文明あるある 2",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/91130d8d1291.webp",
+   "thumb": "img/g/sfw/sefi/91130d8d1291_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "892e35b28340",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "##R-15盛り上げ隊2 3",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/892e35b28340.webp",
+   "thumb": "img/g/sfw/tiru/892e35b28340_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "88871dbce311",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#超古代文明あるある",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/88871dbce311.webp",
+   "thumb": "img/g/sfw/lilia/88871dbce311_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "820fb8885786",
    "char": "tiru",
    "nsfw": false,
@@ -392,6 +639,32 @@
    "date": "2026-11-01",
    "src": "img/g/sfw/lilia/7ddbacc54c4c.webp",
    "thumb": "img/g/sfw/lilia/7ddbacc54c4c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "74bb4d3de912",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#スク水ブラックフライデー",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/74bb4d3de912.webp",
+   "thumb": "img/g/sfw/lilia/74bb4d3de912_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5ee5d329f696",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "##R-15盛り上げ隊2 2",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/sefi/5ee5d329f696.webp",
+   "thumb": "img/g/sfw/sefi/5ee5d329f696_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -431,6 +704,32 @@
    "date": "2026-11-01",
    "src": "img/g/sfw/lilia/41dbbeef96cc.webp",
    "thumb": "img/g/sfw/lilia/41dbbeef96cc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "39a981595493",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#スク水ブラックフライデー 3",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/tiru/39a981595493.webp",
+   "thumb": "img/g/sfw/tiru/39a981595493_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "33c4b66ec226",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "##R-15盛り上げ隊2",
+   "date": "2026-11-01",
+   "src": "img/g/sfw/lilia/33c4b66ec226.webp",
+   "thumb": "img/g/sfw/lilia/33c4b66ec226_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -487,6 +786,19 @@
    "h": 1280
   },
   {
+   "id": "f0b7bbd0a033",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ジュース 3",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/f0b7bbd0a033.webp",
+   "thumb": "img/g/sfw/tiru/f0b7bbd0a033_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ea54fff3c7f2",
    "char": "sefi",
    "nsfw": false,
@@ -523,6 +835,19 @@
    "src": "img/g/sfw/tiru/e3322ffc1fdc.webp",
    "thumb": "img/g/sfw/tiru/e3322ffc1fdc_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e1163329fac4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ジュース",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/e1163329fac4.webp",
+   "thumb": "img/g/sfw/lilia/e1163329fac4_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -604,6 +929,32 @@
    "h": 1280
   },
   {
+   "id": "be9bdf39c14b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ジュース 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/be9bdf39c14b.webp",
+   "thumb": "img/g/sfw/sefi/be9bdf39c14b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "bd017e60dadb",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メイド",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/bd017e60dadb.webp",
+   "thumb": "img/g/sfw/lilia/bd017e60dadb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b84ca3f83696",
    "char": "sefi",
    "nsfw": false,
@@ -630,6 +981,19 @@
    "h": 1280
   },
   {
+   "id": "b628cd83710f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#魔女王 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/b628cd83710f.webp",
+   "thumb": "img/g/sfw/sefi/b628cd83710f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b5abf93c53e2",
    "char": "lilia",
    "nsfw": false,
@@ -639,6 +1003,19 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/lilia/b5abf93c53e2.webp",
    "thumb": "img/g/sfw/lilia/b5abf93c53e2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b189e3f216a7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#犬と一緒",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/b189e3f216a7.webp",
+   "thumb": "img/g/sfw/lilia/b189e3f216a7_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -656,6 +1033,32 @@
    "h": 1280
   },
   {
+   "id": "aaa5fd4132bc",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メイド 3",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/aaa5fd4132bc.webp",
+   "thumb": "img/g/sfw/tiru/aaa5fd4132bc_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a1ab77a2caa0",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#楽しめハロウィン！ 3",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/a1ab77a2caa0.webp",
+   "thumb": "img/g/sfw/tiru/a1ab77a2caa0_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "91e429b4f8fe",
    "char": "lilia",
    "nsfw": false,
@@ -665,6 +1068,32 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/lilia/91e429b4f8fe.webp",
    "thumb": "img/g/sfw/lilia/91e429b4f8fe_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8f2b8a18e9af",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#魔女王",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/8f2b8a18e9af.webp",
+   "thumb": "img/g/sfw/lilia/8f2b8a18e9af_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "849c30c068ce",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#メイド 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/849c30c068ce.webp",
+   "thumb": "img/g/sfw/sefi/849c30c068ce_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -704,6 +1133,32 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/tiru/5955589503d9.webp",
    "thumb": "img/g/sfw/tiru/5955589503d9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4cc10cc5350b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#犬と一緒 3",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/tiru/4cc10cc5350b.webp",
+   "thumb": "img/g/sfw/tiru/4cc10cc5350b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "494775e59afe",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#楽しめハロウィン！ 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/494775e59afe.webp",
+   "thumb": "img/g/sfw/sefi/494775e59afe_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -756,6 +1211,19 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/tiru/3fd334e9b79d.webp",
    "thumb": "img/g/sfw/tiru/3fd334e9b79d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3cc9c988ee8b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#犬と一緒 2",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/sefi/3cc9c988ee8b.webp",
+   "thumb": "img/g/sfw/sefi/3cc9c988ee8b_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -834,6 +1302,19 @@
    "date": "2026-10-31",
    "src": "img/g/sfw/tiru/255dd9a8c4c3.webp",
    "thumb": "img/g/sfw/tiru/255dd9a8c4c3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "23c08490b663",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#楽しめハロウィン！",
+   "date": "2026-10-31",
+   "src": "img/g/sfw/lilia/23c08490b663.webp",
+   "thumb": "img/g/sfw/lilia/23c08490b663_t.webp",
    "w": 720,
    "h": 1280
   },
