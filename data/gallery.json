@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,40 @@
   }
  },
  "counts": {
-  "sfw:sefi": 336,
-  "sfw:lilia": 436,
+  "sfw:sefi": 337,
+  "sfw:lilia": 437,
   "sfw:tiru": 315,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 358,
+ "held": 359,
  "items": [
+  {
+   "id": "e42a18d79681",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#水属性で火曜日を討伐",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/sefi/e42a18d79681.webp",
+   "thumb": "img/g/sfw/sefi/e42a18d79681_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9e6e8bee88e3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ポニテ火曜",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/lilia/9e6e8bee88e3.webp",
+   "thumb": "img/g/sfw/lilia/9e6e8bee88e3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "ff785710d9eb",
    "char": "sefi",
