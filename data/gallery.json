@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:tiru": 329,
+  "sfw:tiru": 330,
   "sfw:sefi": 352,
   "sfw:lilia": 451,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 371,
+ "held": 382,
  "items": [
   {
    "id": "efc04e89afab",
@@ -80,6 +80,19 @@
    "date": "2026-11-03",
    "src": "img/g/sfw/lilia/d307b9ecbaf3.webp",
    "thumb": "img/g/sfw/lilia/d307b9ecbaf3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cda5bf27bedd",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#魔女王 3",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/tiru/cda5bf27bedd.webp",
+   "thumb": "img/g/sfw/tiru/cda5bf27bedd_t.webp",
    "w": 720,
    "h": 1280
   },
