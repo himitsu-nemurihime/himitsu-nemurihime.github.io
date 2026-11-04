@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "sfw:lilia": 466,
+  "sfw:lilia": 467,
   "sfw:sefi": 362,
   "sfw:tiru": 341,
   "sfw:three": 12
@@ -185,6 +185,19 @@
    "src": "img/g/sfw/lilia/4c6f2447c082.webp",
    "thumb": "img/g/sfw/lilia/4c6f2447c082_t.webp",
    "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "475b5a850d45",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#終焉を纏うバーサーカー",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/475b5a850d45.webp",
+   "thumb": "img/g/sfw/lilia/475b5a850d45_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
