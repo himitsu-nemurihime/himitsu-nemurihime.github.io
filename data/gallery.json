@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,92 @@
   }
  },
  "counts": {
-  "sfw:tiru": 334,
-  "sfw:sefi": 355,
-  "sfw:lilia": 457,
+  "sfw:lilia": 460,
+  "sfw:tiru": 336,
+  "sfw:sefi": 357,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 386,
+ "held": 408,
  "items": [
+  {
+   "id": "9c2911bcb202",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#真・いい尻の日",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/9c2911bcb202.webp",
+   "thumb": "img/g/sfw/lilia/9c2911bcb202_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "512f7aac52fa",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#真・いい尻の日 3",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/512f7aac52fa.webp",
+   "thumb": "img/g/sfw/tiru/512f7aac52fa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "444264c693bf",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ふくれっつらGO",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/444264c693bf.webp",
+   "thumb": "img/g/sfw/lilia/444264c693bf_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "2a1748ad3ffb",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#真・いい尻の日 2",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/2a1748ad3ffb.webp",
+   "thumb": "img/g/sfw/sefi/2a1748ad3ffb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1877ffc1b49c",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ふくれっつらGO 2",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/1877ffc1b49c.webp",
+   "thumb": "img/g/sfw/sefi/1877ffc1b49c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0b964b4c11fa",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ふくれっつらGO 3",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/0b964b4c11fa.webp",
+   "thumb": "img/g/sfw/tiru/0b964b4c11fa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "fe0f39d5e9e4",
    "char": "tiru",
@@ -106,6 +184,19 @@
    "date": "2026-11-03",
    "src": "img/g/sfw/tiru/cda5bf27bedd.webp",
    "thumb": "img/g/sfw/tiru/cda5bf27bedd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b24d2be04b02",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#密教",
+   "date": "2026-11-03",
+   "src": "img/g/sfw/lilia/b24d2be04b02.webp",
+   "thumb": "img/g/sfw/lilia/b24d2be04b02_t.webp",
    "w": 720,
    "h": 1280
   },
