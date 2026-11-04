@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 460,
+  "sfw:lilia": 461,
   "sfw:tiru": 336,
   "sfw:sefi": 357,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 408,
+ "held": 411,
  "items": [
   {
    "id": "9c2911bcb202",
@@ -2863,6 +2863,19 @@
    "src": "img/g/sfw/sefi/fde543617e08.webp",
    "thumb": "img/g/sfw/sefi/fde543617e08_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "fcc3804aa140",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子が看板娘の昭和レトロ広告ポスター",
+   "date": "2026-10-27",
+   "src": "img/g/sfw/lilia/fcc3804aa140.webp",
+   "thumb": "img/g/sfw/lilia/fcc3804aa140_t.webp",
+   "w": 853,
    "h": 1280
   },
   {
