@@ -23,14 +23,53 @@
   }
  },
  "counts": {
-  "sfw:tiru": 338,
-  "sfw:lilia": 462,
-  "sfw:sefi": 359,
+  "sfw:lilia": 466,
+  "sfw:sefi": 362,
+  "sfw:tiru": 341,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 411,
+ "held": 414,
  "items": [
+  {
+   "id": "fad10829ea36",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "広い板の間いっぱいに、3人で半日かけて並べたカラフルなドミノ。ティルナが最後の1枚をそっと指で押し、ドミノが渦巻きを描い",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/fad10829ea36.webp",
+   "thumb": "img/g/sfw/lilia/fad10829ea36_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "df02b8ec6fed",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 サーブを、一回決めたいだけなのに",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/df02b8ec6fed.webp",
+   "thumb": "img/g/sfw/sefi/df02b8ec6fed_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d6ba979d93b8",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "秋の実り収穫の頃にちなんで、栗とかぼちゃ",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/d6ba979d93b8.webp",
+   "thumb": "img/g/sfw/sefi/d6ba979d93b8_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "c11799b91350",
    "char": "tiru",
@@ -45,6 +84,19 @@
    "h": 1280
   },
   {
+   "id": "9e9a0e6c0a6c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "郵便ポストに手紙を入れるのが惜しくて、投函口の前で手が止まる",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/9e9a0e6c0a6c.webp",
+   "thumb": "img/g/sfw/tiru/9e9a0e6c0a6c_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "9c2911bcb202",
    "char": "lilia",
    "nsfw": false,
@@ -54,6 +106,19 @@
    "date": "2026-11-04",
    "src": "img/g/sfw/lilia/9c2911bcb202.webp",
    "thumb": "img/g/sfw/lilia/9c2911bcb202_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "905578ae3c81",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "城の夜会に楽団の一員として呼ばれ、ヴァイオリンの高音で片目をつぶりながら、曲の終わりに大きくお辞儀して髪飾りが落ちる",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/905578ae3c81.webp",
+   "thumb": "img/g/sfw/tiru/905578ae3c81_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -110,6 +175,19 @@
    "h": 1280
   },
   {
+   "id": "4c6f2447c082",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子のおやすみ前の入浴剤ギフトのプロ",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/4c6f2447c082.webp",
+   "thumb": "img/g/sfw/lilia/4c6f2447c082_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
    "id": "444264c693bf",
    "char": "lilia",
    "nsfw": false,
@@ -123,6 +201,19 @@
    "h": 1280
   },
   {
+   "id": "2a2f12f6b284",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の水上マーケット。果物を山盛りにした小舟が並ぶ運河で、3人の乗った小舟に売り子の舟が寄ってきて、ティルナが身を乗り出し",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/2a2f12f6b284.webp",
+   "thumb": "img/g/sfw/lilia/2a2f12f6b284_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2a1748ad3ffb",
    "char": "sefi",
    "nsfw": false,
@@ -132,6 +223,32 @@
    "date": "2026-11-04",
    "src": "img/g/sfw/sefi/2a1748ad3ffb.webp",
    "thumb": "img/g/sfw/sefi/2a1748ad3ffb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "28fe792bcb68",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "市場の花屋で店番を頼まれ、値札を書こうとして花の名前が一つも読めないと気づく",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/28fe792bcb68.webp",
+   "thumb": "img/g/sfw/lilia/28fe792bcb68_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "272de348a557",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "天井の高い博物館の大ホール。セフィリアみたいな真珠のネックレスをつけたティルナが、首の長い恐竜の骨格の真下に立ち、両手を",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/272de348a557.webp",
+   "thumb": "img/g/sfw/tiru/272de348a557_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -172,6 +289,19 @@
    "src": "img/g/sfw/tiru/0b964b4c11fa.webp",
    "thumb": "img/g/sfw/tiru/0b964b4c11fa_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "00893bdc2282",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "王宮の薬草室で、乳鉢の薬草をすりつぶしながら香りを確かめる",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/00893bdc2282.webp",
+   "thumb": "img/g/sfw/sefi/00893bdc2282_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
