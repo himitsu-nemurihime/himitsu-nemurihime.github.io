@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 461,
-  "sfw:tiru": 336,
-  "sfw:sefi": 357,
+  "sfw:tiru": 338,
+  "sfw:lilia": 462,
+  "sfw:sefi": 359,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 411,
  "items": [
+  {
+   "id": "c11799b91350",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AQUAビーチタイム",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/c11799b91350.webp",
+   "thumb": "img/g/sfw/tiru/c11799b91350_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "9c2911bcb202",
    "char": "lilia",
@@ -42,6 +55,45 @@
    "src": "img/g/sfw/lilia/9c2911bcb202.webp",
    "thumb": "img/g/sfw/lilia/9c2911bcb202_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "8ea059b109c9",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ゆる募あなたの幼馴染",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/8ea059b109c9.webp",
+   "thumb": "img/g/sfw/sefi/8ea059b109c9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7f2c6c377666",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#AI私のオリキャラを見て",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/lilia/7f2c6c377666.webp",
+   "thumb": "img/g/sfw/lilia/7f2c6c377666_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "55f77f07aca2",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#水と浄化の水曜日",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/sefi/55f77f07aca2.webp",
+   "thumb": "img/g/sfw/sefi/55f77f07aca2_t.webp",
+   "w": 853,
    "h": 1280
   },
   {
@@ -81,6 +133,19 @@
    "src": "img/g/sfw/sefi/2a1748ad3ffb.webp",
    "thumb": "img/g/sfw/sefi/2a1748ad3ffb_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2256358b6654",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#水曜防具展",
+   "date": "2026-11-04",
+   "src": "img/g/sfw/tiru/2256358b6654.webp",
+   "thumb": "img/g/sfw/tiru/2256358b6654_t.webp",
+   "w": 853,
    "h": 1280
   },
   {
