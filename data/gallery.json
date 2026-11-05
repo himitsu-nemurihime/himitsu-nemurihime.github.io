@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "sfw:sefi": 366,
+  "sfw:sefi": 367,
   "sfw:tiru": 344,
   "sfw:lilia": 471,
   "sfw:three": 12
@@ -173,6 +173,19 @@
    "thumb": "img/g/sfw/tiru/287d31778fb5_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "1f33bfe04687",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#プロンプトリレー 2",
+   "date": "2026-11-05",
+   "src": "img/g/sfw/sefi/1f33bfe04687.webp",
+   "thumb": "img/g/sfw/sefi/1f33bfe04687_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "fad10829ea36",
