@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:lilia": 475,
-  "sfw:sefi": 370,
-  "sfw:tiru": 348,
+  "sfw:sefi": 373,
+  "sfw:lilia": 479,
+  "sfw:tiru": 352,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 430,
  "items": [
+  {
+   "id": "f93d31048ab4",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ガイフォークスデイ 2",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/sefi/f93d31048ab4.webp",
+   "thumb": "img/g/sfw/sefi/f93d31048ab4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f85c3ff49816",
    "char": "lilia",
@@ -97,6 +110,19 @@
    "h": 1280
   },
   {
+   "id": "ba8a724aec83",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#下乳 2",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/sefi/ba8a724aec83.webp",
+   "thumb": "img/g/sfw/sefi/ba8a724aec83_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "b9b862934328",
    "char": "lilia",
    "nsfw": false,
@@ -107,6 +133,19 @@
    "src": "img/g/sfw/lilia/b9b862934328.webp",
    "thumb": "img/g/sfw/lilia/b9b862934328_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "a2d4e1feea00",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ガイフォークスデイ",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/lilia/a2d4e1feea00.webp",
+   "thumb": "img/g/sfw/lilia/a2d4e1feea00_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -123,6 +162,32 @@
    "h": 1280
   },
   {
+   "id": "8ece9dbcf836",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#下乳",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/lilia/8ece9dbcf836.webp",
+   "thumb": "img/g/sfw/lilia/8ece9dbcf836_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "87abdb3a2287",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#卵 3",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/tiru/87abdb3a2287.webp",
+   "thumb": "img/g/sfw/tiru/87abdb3a2287_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "787980096dc7",
    "char": "sefi",
    "nsfw": false,
@@ -132,6 +197,19 @@
    "date": "2026-11-06",
    "src": "img/g/sfw/sefi/787980096dc7.webp",
    "thumb": "img/g/sfw/sefi/787980096dc7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "707910dd395f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#プロンプトリレー",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/lilia/707910dd395f.webp",
+   "thumb": "img/g/sfw/lilia/707910dd395f_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -149,6 +227,32 @@
    "h": 1280
   },
   {
+   "id": "3deacb9586f3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#卵",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/lilia/3deacb9586f3.webp",
+   "thumb": "img/g/sfw/lilia/3deacb9586f3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2f40468a46ed",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#下乳 3",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/tiru/2f40468a46ed.webp",
+   "thumb": "img/g/sfw/tiru/2f40468a46ed_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2743fc25f022",
    "char": "lilia",
    "nsfw": false,
@@ -158,6 +262,45 @@
    "date": "2026-11-06",
    "src": "img/g/sfw/lilia/2743fc25f022.webp",
    "thumb": "img/g/sfw/lilia/2743fc25f022_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2676264a8bb3",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#プロンプトリレー 3",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/tiru/2676264a8bb3.webp",
+   "thumb": "img/g/sfw/tiru/2676264a8bb3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "25c01263bef6",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ガイフォークスデイ 3",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/tiru/25c01263bef6.webp",
+   "thumb": "img/g/sfw/tiru/25c01263bef6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "03e7d6e9bad0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#卵 2",
+   "date": "2026-11-06",
+   "src": "img/g/sfw/sefi/03e7d6e9bad0.webp",
+   "thumb": "img/g/sfw/sefi/03e7d6e9bad0_t.webp",
    "w": 720,
    "h": 1280
   },
