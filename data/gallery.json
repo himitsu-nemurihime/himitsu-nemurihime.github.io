@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,131 @@
   }
  },
  "counts": {
-  "sfw:lilia": 483,
-  "sfw:sefi": 378,
-  "sfw:tiru": 354,
+  "sfw:lilia": 487,
+  "sfw:tiru": 357,
+  "sfw:sefi": 380,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 434,
+ "held": 438,
  "items": [
+  {
+   "id": "ce7c3b5f3999",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "街の古書店で棚の整理を手伝い、抜いた一冊のせいで隣が全部倒れる",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/lilia/ce7c3b5f3999.webp",
+   "thumb": "img/g/sfw/lilia/ce7c3b5f3999_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cb165b65b3c9",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "まだ涼しい朝の青果市場のアーケード。腕まくりのシャツにサスペンダーのティルナが、洋なしの木箱を荷車に積み上げ、額の汗を手",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/cb165b65b3c9.webp",
+   "thumb": "img/g/sfw/tiru/cb165b65b3c9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "bc8a3dcdabc2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 手紙を一通、届けるだけなのに",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/bc8a3dcdabc2.webp",
+   "thumb": "img/g/sfw/tiru/bc8a3dcdabc2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a2acc851bef1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "晴れた冬の海辺の砂浜。ティルナが糸巻きを握って走り、高く上がったかいだこが風を受けてぐんと引っぱり、リリアが後ろから糸を",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/lilia/a2acc851bef1.webp",
+   "thumb": "img/g/sfw/lilia/a2acc851bef1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "84431b6a4c67",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "刃物の日の午後。古城の厨房の石の作業台で、リリアが水を張った砥石で銀の大きな包丁を静かに研ぎ上げ、刃を窓の光にかざして、",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/lilia/84431b6a4c67.webp",
+   "thumb": "img/g/sfw/lilia/84431b6a4c67_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7cce0ab0c8e8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "はじめてのクレープ屋で受け取ったクレープの高さに驚き、背伸びして上からかぶりつこうとする",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/7cce0ab0c8e8.webp",
+   "thumb": "img/g/sfw/tiru/7cce0ab0c8e8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "648781ace121",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "晴れた夜のマンションの屋上。三脚の天体望遠鏡をのぞいたティルナが、月のクレーターが見えた、と声をあげてふり返り、隣のリリ",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/lilia/648781ace121.webp",
+   "thumb": "img/g/sfw/lilia/648781ace121_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "15de65b80d22",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "城の露台の寝椅子で毛布にくるまり、朝いちばんの鐘が鳴るのを待つ",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/sefi/15de65b80d22.webp",
+   "thumb": "img/g/sfw/sefi/15de65b80d22_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "138764190709",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "雨上がりの坂道の町。雨合羽のフードが目にかぶさったまま郵便の自転車を押すセフィリアが、配り忘れの一通を掲げて得意げに振り",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/sefi/138764190709.webp",
+   "thumb": "img/g/sfw/sefi/138764190709_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "e112c0cf9920",
    "char": "lilia",
