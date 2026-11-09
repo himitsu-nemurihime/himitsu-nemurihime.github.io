@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,131 @@
   }
  },
  "counts": {
-  "sfw:lilia": 487,
-  "sfw:tiru": 358,
-  "sfw:sefi": 381,
+  "sfw:lilia": 491,
+  "sfw:tiru": 361,
+  "sfw:sefi": 383,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 438,
+ "held": 442,
  "items": [
+  {
+   "id": "efb66fe74db9",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 朝露を集めて、紅茶を一杯",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/efb66fe74db9.webp",
+   "thumb": "img/g/sfw/lilia/efb66fe74db9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ecd2bc8e24f5",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の晴れた昼のいちごのビニールハウス。ティルナが自分の顔くらい大きないちごを両手で持ち上げて大はしゃぎし、セフィリアが小",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/ecd2bc8e24f5.webp",
+   "thumb": "img/g/sfw/lilia/ecd2bc8e24f5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c63ec856468a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜のリビング。床のヨガマットにうつ伏せになったリリアが、ひじをついて胸を起こし、両足をうしろへ上げて背中を反らし、顔は体",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/c63ec856468a.webp",
+   "thumb": "img/g/sfw/lilia/c63ec856468a_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "a86098fc20bd",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "晴れた遊園地のジェットコースターの最前列。安全バーから両手を離したティルナが、てっぺんから落ちる瞬間に両手を高く上げて、",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/tiru/a86098fc20bd.webp",
+   "thumb": "img/g/sfw/tiru/a86098fc20bd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "900cea99a304",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕暮れの台所。粉だらけの手でまんまるの白い団子を丸めたティルナが、大皿に山のように積み上げて、いくつできたか声に出して数",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/tiru/900cea99a304.webp",
+   "thumb": "img/g/sfw/tiru/900cea99a304_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7e616313e3f4",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "雪の積もった冬の朝の森。ティルナが木の枝からずらりと垂れたつららを、指先で一本ずつ順に弾いてみて、からんころんと鳴る音に",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/tiru/7e616313e3f4.webp",
+   "thumb": "img/g/sfw/tiru/7e616313e3f4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4f7f0ceb04f9",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜の部屋の低いテーブルいっぱいに広げた、大きな星空の絵のジグソーパズル。最後の1ピースをつまんだセフィリアが息を止めてそ",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/4f7f0ceb04f9.webp",
+   "thumb": "img/g/sfw/lilia/4f7f0ceb04f9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4861f53ff37a",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夜、机に向かったバスローブ姿のセフィリアが手紙を書こうとして、うまく書けずに丸めた便箋が机に何枚も転がり、ペンを持ったま",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/sefi/4861f53ff37a.webp",
+   "thumb": "img/g/sfw/sefi/4861f53ff37a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2857cec074b5",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "いい靴の日の夕方。磨かれた革靴が棚にずらりと並ぶ古い靴屋で、試し履きの小さな椅子に腰かけたセフィリアが、靴べらを当てて深",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/sefi/2857cec074b5.webp",
+   "thumb": "img/g/sfw/sefi/2857cec074b5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "ce7c3b5f3999",
    "char": "lilia",
