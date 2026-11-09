@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 491,
-  "sfw:tiru": 361,
-  "sfw:sefi": 383,
+  "sfw:lilia": 497,
+  "sfw:tiru": 366,
+  "sfw:sefi": 390,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 442,
+ "held": 456,
  "items": [
   {
    "id": "efb66fe74db9",
@@ -97,6 +97,19 @@
    "h": 1280
   },
   {
+   "id": "8faf8d1ef649",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#持ち込み可能な異世界転移 2",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/sefi/8faf8d1ef649.webp",
+   "thumb": "img/g/sfw/sefi/8faf8d1ef649_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "7e616313e3f4",
    "char": "tiru",
    "nsfw": false,
@@ -106,6 +119,32 @@
    "date": "2026-11-09",
    "src": "img/g/sfw/tiru/7e616313e3f4.webp",
    "thumb": "img/g/sfw/tiru/7e616313e3f4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7706d9bd8c04",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#スニーカーと靴下2 2",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/sefi/7706d9bd8c04.webp",
+   "thumb": "img/g/sfw/sefi/7706d9bd8c04_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "60191633d8bd",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#持ち込み可能な異世界転移",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/60191633d8bd.webp",
+   "thumb": "img/g/sfw/lilia/60191633d8bd_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -123,6 +162,19 @@
    "h": 1280
   },
   {
+   "id": "49e6cf9bd38f",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#持ち込み可能な異世界転移 3",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/tiru/49e6cf9bd38f.webp",
+   "thumb": "img/g/sfw/tiru/49e6cf9bd38f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "4861f53ff37a",
    "char": "sefi",
    "nsfw": false,
@@ -136,6 +188,19 @@
    "h": 1280
   },
   {
+   "id": "3d864186a6c6",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#スニーカーと靴下2",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/3d864186a6c6.webp",
+   "thumb": "img/g/sfw/lilia/3d864186a6c6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2857cec074b5",
    "char": "sefi",
    "nsfw": false,
@@ -145,6 +210,58 @@
    "date": "2026-11-09",
    "src": "img/g/sfw/sefi/2857cec074b5.webp",
    "thumb": "img/g/sfw/sefi/2857cec074b5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "159fa92e43e9",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#早めのサンタ 2",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/sefi/159fa92e43e9.webp",
+   "thumb": "img/g/sfw/sefi/159fa92e43e9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "13446dd21de9",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#恥丘",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/13446dd21de9.webp",
+   "thumb": "img/g/sfw/lilia/13446dd21de9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f7cfac891cff",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#覗いたら 2",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/sefi/f7cfac891cff.webp",
+   "thumb": "img/g/sfw/sefi/f7cfac891cff_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e3610580d6fe",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#世界征服 2",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/sefi/e3610580d6fe.webp",
+   "thumb": "img/g/sfw/sefi/e3610580d6fe_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -175,6 +292,19 @@
    "h": 1280
   },
   {
+   "id": "c2e3ba048334",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#タヌキの店だな？ 3",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/c2e3ba048334.webp",
+   "thumb": "img/g/sfw/tiru/c2e3ba048334_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "bc8a3dcdabc2",
    "char": "tiru",
    "nsfw": false,
@@ -184,6 +314,32 @@
    "date": "2026-11-08",
    "src": "img/g/sfw/tiru/bc8a3dcdabc2.webp",
    "thumb": "img/g/sfw/tiru/bc8a3dcdabc2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b24629b2dca0",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#覗いたら",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/lilia/b24629b2dca0.webp",
+   "thumb": "img/g/sfw/lilia/b24629b2dca0_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "afbe6cfcdb6a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#世界征服 3",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/afbe6cfcdb6a.webp",
+   "thumb": "img/g/sfw/tiru/afbe6cfcdb6a_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -198,6 +354,19 @@
    "src": "img/g/sfw/lilia/a2acc851bef1.webp",
    "thumb": "img/g/sfw/lilia/a2acc851bef1_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "986fb458089e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#覗いたら 3",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/986fb458089e.webp",
+   "thumb": "img/g/sfw/tiru/986fb458089e_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -240,6 +409,19 @@
    "h": 1280
   },
   {
+   "id": "73cfa26db752",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#タヌキの店だな？ 2",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/sefi/73cfa26db752.webp",
+   "thumb": "img/g/sfw/sefi/73cfa26db752_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "648781ace121",
    "char": "lilia",
    "nsfw": false,
@@ -250,6 +432,19 @@
    "src": "img/g/sfw/lilia/648781ace121.webp",
    "thumb": "img/g/sfw/lilia/648781ace121_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "442447e27084",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#タヌキの店だな？",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/lilia/442447e27084.webp",
+   "thumb": "img/g/sfw/lilia/442447e27084_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -292,6 +487,19 @@
    "h": 1280
   },
   {
+   "id": "e7dc7667521a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#読書の秋 3",
+   "date": "2026-11-07",
+   "src": "img/g/sfw/tiru/e7dc7667521a.webp",
+   "thumb": "img/g/sfw/tiru/e7dc7667521a_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "e112c0cf9920",
    "char": "lilia",
    "nsfw": false,
@@ -301,6 +509,19 @@
    "date": "2026-11-07",
    "src": "img/g/sfw/lilia/e112c0cf9920.webp",
    "thumb": "img/g/sfw/lilia/e112c0cf9920_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d57f0fc48638",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#読書の秋",
+   "date": "2026-11-07",
+   "src": "img/g/sfw/lilia/d57f0fc48638.webp",
+   "thumb": "img/g/sfw/lilia/d57f0fc48638_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -394,6 +615,19 @@
    "thumb": "img/g/sfw/lilia/6d7a6f5df6cc_t.webp",
    "w": 853,
    "h": 1280
+  },
+  {
+   "id": "6c8940df06cc",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#読書の秋 2",
+   "date": "2026-11-07",
+   "src": "img/g/sfw/sefi/6c8940df06cc.webp",
+   "thumb": "img/g/sfw/sefi/6c8940df06cc_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "4f9925aab95d",
