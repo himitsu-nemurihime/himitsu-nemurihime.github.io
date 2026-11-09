@@ -24,8 +24,8 @@
  },
  "counts": {
   "sfw:lilia": 487,
-  "sfw:tiru": 357,
-  "sfw:sefi": 380,
+  "sfw:tiru": 358,
+  "sfw:sefi": 381,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -110,6 +110,19 @@
    "h": 1280
   },
   {
+   "id": "7be45d6f4479",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 雪の森の山小屋のテラスで焚き火にマシュマ",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/tiru/7be45d6f4479.webp",
+   "thumb": "img/g/sfw/tiru/7be45d6f4479_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "648781ace121",
    "char": "lilia",
    "nsfw": false,
@@ -120,6 +133,19 @@
    "src": "img/g/sfw/lilia/648781ace121.webp",
    "thumb": "img/g/sfw/lilia/648781ace121_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "36cf36f9653d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子のタロットカードのプロンプト（G",
+   "date": "2026-11-08",
+   "src": "img/g/sfw/sefi/36cf36f9653d.webp",
+   "thumb": "img/g/sfw/sefi/36cf36f9653d_t.webp",
+   "w": 853,
    "h": 1280
   },
   {
