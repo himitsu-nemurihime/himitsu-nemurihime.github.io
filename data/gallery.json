@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,53 @@
   }
  },
  "counts": {
-  "sfw:lilia": 497,
-  "sfw:tiru": 366,
-  "sfw:sefi": 390,
+  "sfw:tiru": 368,
+  "sfw:sefi": 391,
+  "sfw:lilia": 499,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 456,
+ "held": 462,
  "items": [
+  {
+   "id": "d1871777b11b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#これは対象外！ 3",
+   "date": "2026-11-10",
+   "src": "img/g/sfw/tiru/d1871777b11b.webp",
+   "thumb": "img/g/sfw/tiru/d1871777b11b_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "b5b1b4da9c6d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#これは対象外！ 2",
+   "date": "2026-11-10",
+   "src": "img/g/sfw/sefi/b5b1b4da9c6d.webp",
+   "thumb": "img/g/sfw/sefi/b5b1b4da9c6d_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "997308ce295e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#これは対象外！",
+   "date": "2026-11-10",
+   "src": "img/g/sfw/lilia/997308ce295e.webp",
+   "thumb": "img/g/sfw/lilia/997308ce295e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "efb66fe74db9",
    "char": "lilia",
@@ -84,6 +123,19 @@
    "h": 1280
   },
   {
+   "id": "9aa7f4ead156",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#早めのサンタ 3",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/tiru/9aa7f4ead156.webp",
+   "thumb": "img/g/sfw/tiru/9aa7f4ead156_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "900cea99a304",
    "char": "tiru",
    "nsfw": false,
@@ -132,6 +184,19 @@
    "date": "2026-11-09",
    "src": "img/g/sfw/sefi/7706d9bd8c04.webp",
    "thumb": "img/g/sfw/sefi/7706d9bd8c04_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6e36a6f928eb",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#早めのサンタ",
+   "date": "2026-11-09",
+   "src": "img/g/sfw/lilia/6e36a6f928eb.webp",
+   "thumb": "img/g/sfw/lilia/6e36a6f928eb_t.webp",
    "w": 720,
    "h": 1280
   },
