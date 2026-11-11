@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,53 @@
   }
  },
  "counts": {
-  "sfw:lilia": 507,
-  "sfw:tiru": 373,
-  "sfw:sefi": 394,
+  "sfw:lilia": 508,
+  "sfw:tiru": 376,
+  "sfw:sefi": 396,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 466,
  "items": [
+  {
+   "id": "f18a05543ae4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#天蝎宮",
+   "date": "2026-11-11",
+   "src": "img/g/sfw/lilia/f18a05543ae4.webp",
+   "thumb": "img/g/sfw/lilia/f18a05543ae4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cc92784254c8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#天蝎宮 3",
+   "date": "2026-11-11",
+   "src": "img/g/sfw/tiru/cc92784254c8.webp",
+   "thumb": "img/g/sfw/tiru/cc92784254c8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cb923f84d7d0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#天蝎宮 2",
+   "date": "2026-11-11",
+   "src": "img/g/sfw/sefi/cb923f84d7d0.webp",
+   "thumb": "img/g/sfw/sefi/cb923f84d7d0_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "db3c2d498a0d",
    "char": "lilia",
@@ -56,6 +95,19 @@
    "thumb": "img/g/sfw/tiru/d1871777b11b_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "c7626846e21c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#スニーカーと靴下2 3",
+   "date": "2026-11-10",
+   "src": "img/g/sfw/tiru/c7626846e21c.webp",
+   "thumb": "img/g/sfw/tiru/c7626846e21c_t.webp",
+   "w": 720,
+   "h": 1280
   },
   {
    "id": "c1409207f065",
@@ -132,6 +184,19 @@
    "date": "2026-11-10",
    "src": "img/g/sfw/lilia/997308ce295e.webp",
    "thumb": "img/g/sfw/lilia/997308ce295e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "973ffe9f7d8b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#恥丘 3",
+   "date": "2026-11-10",
+   "src": "img/g/sfw/tiru/973ffe9f7d8b.webp",
+   "thumb": "img/g/sfw/tiru/973ffe9f7d8b_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -249,6 +314,19 @@
    "date": "2026-11-10",
    "src": "img/g/sfw/lilia/2c97c84b185f.webp",
    "thumb": "img/g/sfw/lilia/2c97c84b185f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "26d95e66ad7e",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#恥丘 2",
+   "date": "2026-11-10",
+   "src": "img/g/sfw/sefi/26d95e66ad7e.webp",
+   "thumb": "img/g/sfw/sefi/26d95e66ad7e_t.webp",
    "w": 720,
    "h": 1280
   },
