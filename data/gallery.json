@@ -25,7 +25,7 @@
  "counts": {
   "sfw:sefi": 404,
   "sfw:tiru": 383,
-  "sfw:lilia": 515,
+  "sfw:lilia": 516,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -119,6 +119,19 @@
    "date": "2026-11-12",
    "src": "img/g/sfw/tiru/6dea925d747c.webp",
    "thumb": "img/g/sfw/tiru/6dea925d747c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "66172d2318d4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#momijgari",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/66172d2318d4.webp",
+   "thumb": "img/g/sfw/lilia/66172d2318d4_t.webp",
    "w": 720,
    "h": 1280
   },
