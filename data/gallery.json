@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:lilia": 512,
-  "sfw:tiru": 378,
-  "sfw:sefi": 401,
+  "sfw:sefi": 403,
+  "sfw:tiru": 382,
+  "sfw:lilia": 514,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 470,
+ "held": 474,
  "items": [
+  {
+   "id": "f54078db22af",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#洋服 2",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/sefi/f54078db22af.webp",
+   "thumb": "img/g/sfw/sefi/f54078db22af_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "eba461f8ddf4",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#平成ギャル 3",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/eba461f8ddf4.webp",
+   "thumb": "img/g/sfw/tiru/eba461f8ddf4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e2055ab678d8",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#平成ギャル",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/e2055ab678d8.webp",
+   "thumb": "img/g/sfw/lilia/e2055ab678d8_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "aec116a85cf2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#平成ギャル 3",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/aec116a85cf2.webp",
+   "thumb": "img/g/sfw/tiru/aec116a85cf2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6dea925d747c",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#洋服 3",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/6dea925d747c.webp",
+   "thumb": "img/g/sfw/tiru/6dea925d747c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5924c51bc713",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#洋服 3",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/5924c51bc713.webp",
+   "thumb": "img/g/sfw/tiru/5924c51bc713_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1aff961d8b67",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#洋服 2",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/sefi/1aff961d8b67.webp",
+   "thumb": "img/g/sfw/sefi/1aff961d8b67_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0b3ba7596ccb",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#平成ギャル",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/0b3ba7596ccb.webp",
+   "thumb": "img/g/sfw/lilia/0b3ba7596ccb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f18a05543ae4",
    "char": "lilia",
