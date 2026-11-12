@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:sefi": 404,
-  "sfw:tiru": 383,
-  "sfw:lilia": 516,
+  "sfw:sefi": 406,
+  "sfw:tiru": 388,
+  "sfw:lilia": 520,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 486,
+ "held": 490,
  "items": [
   {
    "id": "f54078db22af",
@@ -41,6 +41,19 @@
    "date": "2026-11-12",
    "src": "img/g/sfw/sefi/f54078db22af.webp",
    "thumb": "img/g/sfw/sefi/f54078db22af_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ed1e3760358b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "霜のおりた冬の朝の雪の弓場。白い乗馬ジャケットのセフィリアが背すじをのばして弓をいっぱいに引きしぼり、矢を頬のそばで止め",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/sefi/ed1e3760358b.webp",
+   "thumb": "img/g/sfw/sefi/ed1e3760358b_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -71,6 +84,19 @@
    "h": 1280
   },
   {
+   "id": "dc7c9f5c8a0d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬のはじめの晴れた朝の町の小さな手作りのパン教室。大きな木の台で、セフィリアが丸めたパン生地を両手でそっと持ち上げて、ふ",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/dc7c9f5c8a0d.webp",
+   "thumb": "img/g/sfw/lilia/dc7c9f5c8a0d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "aec116a85cf2",
    "char": "tiru",
    "nsfw": false,
@@ -95,6 +121,19 @@
    "thumb": "img/g/sfw/tiru/ad89ea1df6be_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "a24573ba0d93",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬の朝の台所の手伝い。ティルナが、焼きたてのジンジャーブレッドマンを口にくわえたまま、ミトンの両手で天板を持って、熱さに",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/a24573ba0d93.webp",
+   "thumb": "img/g/sfw/tiru/a24573ba0d93_t.webp",
+   "w": 1280,
+   "h": 1280
   },
   {
    "id": "96ea68c35bef",
@@ -123,6 +162,19 @@
    "h": 1280
   },
   {
+   "id": "662a3c742e41",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 ほうきでちょっと浮くだけなのに",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/662a3c742e41.webp",
+   "thumb": "img/g/sfw/tiru/662a3c742e41_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "66172d2318d4",
    "char": "lilia",
    "nsfw": false,
@@ -133,6 +185,19 @@
    "src": "img/g/sfw/lilia/66172d2318d4.webp",
    "thumb": "img/g/sfw/lilia/66172d2318d4_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5f35dbb115d1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "洋服記念日の夕方。お城の衣装部屋で、リリアが秋冬用に仕立てたばかりの深緑のケープを羽織り、白い毛皮のふちに手を添えて、燭",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/5f35dbb115d1.webp",
+   "thumb": "img/g/sfw/lilia/5f35dbb115d1_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
@@ -162,6 +227,71 @@
    "h": 1280
   },
   {
+   "id": "46a796d37822",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "紅葉の森の馬場。黒い烏帽子と萌黄の狩装束のセフィリアが駆ける白馬の上で弓を引き絞り、凛とした目で前を見据える",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/sefi/46a796d37822.webp",
+   "thumb": "img/g/sfw/sefi/46a796d37822_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "35ae45377b85",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子を描いたガラスのオーナメントのプ",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/35ae45377b85.webp",
+   "thumb": "img/g/sfw/tiru/35ae45377b85_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "330ca1379043",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬のはじめの昼の大きな屋内のボウリング場のレーン。投げ終えたティルナが片足をあげたまま見つめ、転がった玉がピンに当たって",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/330ca1379043.webp",
+   "thumb": "img/g/sfw/lilia/330ca1379043_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2e72062b7c70",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 古着屋でアーガイルのベストを試着して「ど",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/lilia/2e72062b7c70.webp",
+   "thumb": "img/g/sfw/lilia/2e72062b7c70_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1f09e0ee4888",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の朝の雪の日。ティルナが、自分でつくった小さな雪うさぎを両手のてのひらにのせて、こっちへ差し出し、ほっぺを赤くして満面",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/1f09e0ee4888.webp",
+   "thumb": "img/g/sfw/tiru/1f09e0ee4888_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "1aff961d8b67",
    "char": "sefi",
    "nsfw": false,
@@ -185,6 +315,19 @@
    "src": "img/g/sfw/lilia/0b3ba7596ccb.webp",
    "thumb": "img/g/sfw/lilia/0b3ba7596ccb_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "02111bde17b8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕方のゲームセンター。クレーンゲームで取れたくまのぬいぐるみを、ティルナが両腕でぎゅっと抱きしめて幸せそうに笑う。うしろ",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/02111bde17b8.webp",
+   "thumb": "img/g/sfw/tiru/02111bde17b8_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
