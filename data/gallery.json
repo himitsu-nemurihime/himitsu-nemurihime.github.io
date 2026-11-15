@@ -24,7 +24,7 @@
  },
  "counts": {
   "sfw:tiru": 400,
-  "sfw:lilia": 541,
+  "sfw:lilia": 542,
   "sfw:sefi": 417,
   "sfw:three": 12
  },
@@ -67,6 +67,19 @@
    "date": "2026-11-15",
    "src": "img/g/sfw/lilia/d25af632506e.webp",
    "thumb": "img/g/sfw/lilia/d25af632506e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "bad91d1550c4",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 目覚まし時計に手が届かない朝",
+   "date": "2026-11-15",
+   "src": "img/g/sfw/lilia/bad91d1550c4.webp",
+   "thumb": "img/g/sfw/lilia/bad91d1550c4_t.webp",
    "w": 720,
    "h": 1280
   },
