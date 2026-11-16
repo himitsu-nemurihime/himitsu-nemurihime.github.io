@@ -24,12 +24,12 @@
  },
  "counts": {
   "sfw:sefi": 421,
+  "sfw:tiru": 402,
   "sfw:lilia": 547,
-  "sfw:tiru": 401,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 578,
+ "held": 579,
  "items": [
   {
    "id": "e0a60d39c442",
@@ -54,6 +54,19 @@
    "date": "2026-11-16",
    "src": "img/g/sfw/sefi/e09830bb0e91.webp",
    "thumb": "img/g/sfw/sefi/e09830bb0e91_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e04ae333d230",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "昼の路地。光る自動販売機に話しかけたティルナが、ひざに両手をついて身をかがめ、首をかしげて真剣に耳を寄せ、返事を待って目",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/tiru/e04ae333d230.webp",
+   "thumb": "img/g/sfw/tiru/e04ae333d230_t.webp",
    "w": 720,
    "h": 1280
   },
