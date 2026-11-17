@@ -23,14 +23,27 @@
   }
  },
  "counts": {
-  "sfw:sefi": 428,
-  "sfw:tiru": 410,
-  "sfw:lilia": 555,
+  "sfw:sefi": 432,
+  "sfw:tiru": 414,
+  "sfw:lilia": 558,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 584,
+ "held": 588,
  "items": [
+  {
+   "id": "ee01ad25ecb0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "居酒屋の座敷。靴を脱ぐ作法に戸惑って、片方の靴を畳の上まで持ってきてしまい、湯のみを持ったまま片手をほおに当てて首をかし",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/ee01ad25ecb0.webp",
+   "thumb": "img/g/sfw/sefi/ee01ad25ecb0_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "e84464329382",
    "char": "sefi",
@@ -81,6 +94,19 @@
    "src": "img/g/sfw/tiru/c84c9815485e.webp",
    "thumb": "img/g/sfw/tiru/c84c9815485e_t.webp",
    "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "c83ac9bd83bb",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 肖像画を自分で描いてみたら",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/c83ac9bd83bb.webp",
+   "thumb": "img/g/sfw/sefi/c83ac9bd83bb_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -175,6 +201,45 @@
    "h": 1280
   },
   {
+   "id": "746074d87371",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬の昼の古い洋館の吹き抜けの大階段。いちばん上の踊り場からティルナが大きな紙飛行機をえいっと投げて身を乗り出し、手すりに",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/746074d87371.webp",
+   "thumb": "img/g/sfw/lilia/746074d87371_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "73701544e448",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子のドールハウスのプロンプト（GP",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/73701544e448.webp",
+   "thumb": "img/g/sfw/sefi/73701544e448_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "72d48dd64fd9",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "秋の果樹園。脚立のよこで大きな梨をもいだティルナが、こちらに高くかかげて見せ、腕にかけた籠の重さによろけながら笑う",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/72d48dd64fd9.webp",
+   "thumb": "img/g/sfw/tiru/72d48dd64fd9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "48cb0beb1a74",
    "char": "tiru",
    "nsfw": false,
@@ -184,6 +249,84 @@
    "date": "2026-11-17",
    "src": "img/g/sfw/tiru/48cb0beb1a74.webp",
    "thumb": "img/g/sfw/tiru/48cb0beb1a74_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "34214f0baec9",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 オーロラの下の雪原で両手を広げて見上げる",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/34214f0baec9.webp",
+   "thumb": "img/g/sfw/tiru/34214f0baec9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2bb8fc9e7101",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜明けの霧の湖。小さな木のボートに一人で乗ったリリアが、オールを止めて水面に手をのばし、浮かんだ白い睡蓮の花をそっとすく",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/2bb8fc9e7101.webp",
+   "thumb": "img/g/sfw/lilia/2bb8fc9e7101_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2ab61e67b7a4",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "滝つぼで遊んでいたら全身ずぶ濡れになる",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/2ab61e67b7a4.webp",
+   "thumb": "img/g/sfw/tiru/2ab61e67b7a4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2595fe1dd6f8",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の夜の草原。毛布を敷いてダッフルコートにくるまって寝ころんだティルナが、満天の星空へ両手をのばして星をつかむまねをし、",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/2595fe1dd6f8.webp",
+   "thumb": "img/g/sfw/tiru/2595fe1dd6f8_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "21546fb60b6f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬晴れの昼の芝生の広場。虹色の大きなパラバルーンのふちを3人で持って一気に頭の上までふくらませ、ふわっと上がった布のドー",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/21546fb60b6f.webp",
+   "thumb": "img/g/sfw/lilia/21546fb60b6f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1faf2e1607ef",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "将棋の日（11月17日）の午後。お城の庭の東屋で、はじめて将棋盤を前にしたセフィリアが、駒をひとつ指でつまんで光にかざし",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/1faf2e1607ef.webp",
+   "thumb": "img/g/sfw/sefi/1faf2e1607ef_t.webp",
    "w": 720,
    "h": 1280
   },
