@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,235 @@
   }
  },
  "counts": {
-  "sfw:sefi": 421,
-  "sfw:tiru": 402,
-  "sfw:lilia": 547,
+  "sfw:sefi": 428,
+  "sfw:tiru": 410,
+  "sfw:lilia": 555,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 579,
+ "held": 584,
  "items": [
+  {
+   "id": "e84464329382",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライ学園祭 2",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/e84464329382.webp",
+   "thumb": "img/g/sfw/sefi/e84464329382_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e3436b09d6da",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライ学園祭 3",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/e3436b09d6da.webp",
+   "thumb": "img/g/sfw/tiru/e3436b09d6da_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d8a80407f531",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#学生",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/d8a80407f531.webp",
+   "thumb": "img/g/sfw/lilia/d8a80407f531_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c84c9815485e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#照れてる表情 3",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/c84c9815485e.webp",
+   "thumb": "img/g/sfw/tiru/c84c9815485e_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "b823083c9fd7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#照れてる表情",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/b823083c9fd7.webp",
+   "thumb": "img/g/sfw/lilia/b823083c9fd7_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "b1c879fc7142",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#!Aipictors4周年前夜祭 2",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/b1c879fc7142.webp",
+   "thumb": "img/g/sfw/sefi/b1c879fc7142_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b189e5b1b22d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#イロミライ学園祭",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/b189e5b1b22d.webp",
+   "thumb": "img/g/sfw/lilia/b189e5b1b22d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ad23c3b9e7a6",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#!Aipictors4周年前夜祭 3",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/ad23c3b9e7a6.webp",
+   "thumb": "img/g/sfw/tiru/ad23c3b9e7a6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9eff8d88fb58",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#照れてる表情 3",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/9eff8d88fb58.webp",
+   "thumb": "img/g/sfw/tiru/9eff8d88fb58_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "7d656c18c6b7",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#照れてる表情 2",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/7d656c18c6b7.webp",
+   "thumb": "img/g/sfw/sefi/7d656c18c6b7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7ccd690e749f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#!Aipictors4周年前夜祭",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/7ccd690e749f.webp",
+   "thumb": "img/g/sfw/lilia/7ccd690e749f_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "48cb0beb1a74",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ツインテール 2",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/tiru/48cb0beb1a74.webp",
+   "thumb": "img/g/sfw/tiru/48cb0beb1a74_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "160dd84ca9be",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#照れてる表情 2",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/sefi/160dd84ca9be.webp",
+   "thumb": "img/g/sfw/sefi/160dd84ca9be_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "013fd1f82757",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ツインテール",
+   "date": "2026-11-17",
+   "src": "img/g/sfw/lilia/013fd1f82757.webp",
+   "thumb": "img/g/sfw/lilia/013fd1f82757_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "ff5011565aaf",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋のミラパンツ祭 2",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/sefi/ff5011565aaf.webp",
+   "thumb": "img/g/sfw/sefi/ff5011565aaf_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f30790bd79fa",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#まんすじ 3",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/tiru/f30790bd79fa.webp",
+   "thumb": "img/g/sfw/tiru/f30790bd79fa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e826efd48095",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋のミラパンツ祭",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/lilia/e826efd48095.webp",
+   "thumb": "img/g/sfw/lilia/e826efd48095_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "e0a60d39c442",
    "char": "sefi",
@@ -84,6 +305,19 @@
    "h": 1280
   },
   {
+   "id": "b102312453d7",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#秋のミラパンツ祭 3",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/tiru/b102312453d7.webp",
+   "thumb": "img/g/sfw/tiru/b102312453d7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "710b30273c47",
    "char": "lilia",
    "nsfw": false,
@@ -108,6 +342,19 @@
    "thumb": "img/g/sfw/lilia/5a9ccb82daa6_t.webp",
    "w": 720,
    "h": 1280
+  },
+  {
+   "id": "34ce07ae8cc1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#まんすじ",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/lilia/34ce07ae8cc1.webp",
+   "thumb": "img/g/sfw/lilia/34ce07ae8cc1_t.webp",
+   "w": 1280,
+   "h": 720
   },
   {
    "id": "2ca7cd3e4a1a",
@@ -158,6 +405,19 @@
    "date": "2026-11-16",
    "src": "img/g/sfw/lilia/2199318325db.webp",
    "thumb": "img/g/sfw/lilia/2199318325db_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0828f221f226",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#まんすじ 2",
+   "date": "2026-11-16",
+   "src": "img/g/sfw/sefi/0828f221f226.webp",
+   "thumb": "img/g/sfw/sefi/0828f221f226_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -539,6 +799,19 @@
    "h": 1280
   },
   {
+   "id": "3e2ae2bd8bdf",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#ポニーテール",
+   "date": "2026-11-14",
+   "src": "img/g/sfw/lilia/3e2ae2bd8bdf.webp",
+   "thumb": "img/g/sfw/lilia/3e2ae2bd8bdf_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2de17973cfa3",
    "char": "tiru",
    "nsfw": false,
@@ -864,6 +1137,19 @@
    "h": 1280
   },
   {
+   "id": "a12843398533",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#onhead 3",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/tiru/a12843398533.webp",
+   "thumb": "img/g/sfw/tiru/a12843398533_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "96ea68c35bef",
    "char": "sefi",
    "nsfw": false,
@@ -874,6 +1160,19 @@
    "src": "img/g/sfw/sefi/96ea68c35bef.webp",
    "thumb": "img/g/sfw/sefi/96ea68c35bef_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7ea6b08f662f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#onhead 2",
+   "date": "2026-11-12",
+   "src": "img/g/sfw/sefi/7ea6b08f662f.webp",
+   "thumb": "img/g/sfw/sefi/7ea6b08f662f_t.webp",
+   "w": 1280,
    "h": 1280
   },
   {
