@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:lilia": 566,
+  "sfw:lilia": 567,
+  "sfw:sefi": 436,
   "sfw:tiru": 421,
-  "sfw:sefi": 435,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -55,6 +55,19 @@
    "src": "img/g/sfw/lilia/ebefbbb6901c.webp",
    "thumb": "img/g/sfw/lilia/ebefbbb6901c_t.webp",
    "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "cb039ff11103",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 ゲームセンターでクレーンゲームのアームを",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/sefi/cb039ff11103.webp",
+   "thumb": "img/g/sfw/sefi/cb039ff11103_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
@@ -120,6 +133,19 @@
    "src": "img/g/sfw/lilia/a4b9f1c8fdd1.webp",
    "thumb": "img/g/sfw/lilia/a4b9f1c8fdd1_t.webp",
    "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a013cf7d4610",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子の卓上カレンダーのプロンプト（G",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/lilia/a013cf7d4610.webp",
+   "thumb": "img/g/sfw/lilia/a013cf7d4610_t.webp",
+   "w": 853,
    "h": 1280
   },
   {
