@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 567,
-  "sfw:sefi": 436,
+  "sfw:lilia": 569,
+  "sfw:sefi": 438,
   "sfw:tiru": 421,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 601,
+ "held": 603,
  "items": [
   {
    "id": "f79488d3d61d",
@@ -227,6 +227,19 @@
    "h": 1280
   },
   {
+   "id": "ae0357506c0b",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夜のサーカスのテントの中。空中ブランコの練習を終えたセフィリアが、リングの床の桃色のスポットライトの真ん中にあおむけに寝",
+   "date": "2026-11-18",
+   "src": "img/g/sfw/sefi/ae0357506c0b.webp",
+   "thumb": "img/g/sfw/sefi/ae0357506c0b_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "936c2f7c8508",
    "char": "lilia",
    "nsfw": false,
@@ -266,6 +279,19 @@
    "h": 1280
   },
   {
+   "id": "555dd6b9dd0f",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の朝の空気の中、雪の結晶の模様の赤いマフラーに鼻まで顔をうずめたリリアが、白い息をふわっとはき、マフラーの上から目だけ",
+   "date": "2026-11-18",
+   "src": "img/g/sfw/lilia/555dd6b9dd0f.webp",
+   "thumb": "img/g/sfw/lilia/555dd6b9dd0f_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
    "id": "309c94f65e7c",
    "char": "sefi",
    "nsfw": false,
@@ -275,6 +301,32 @@
    "date": "2026-11-18",
    "src": "img/g/sfw/sefi/309c94f65e7c.webp",
    "thumb": "img/g/sfw/sefi/309c94f65e7c_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "18913f157404",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の昼の古い洋館の温室。ガラスの天井の下にならぶ鉢植えのあいだで、右手前のティルナがしゃがんで、足もとの大きなモンステラ",
+   "date": "2026-11-18",
+   "src": "img/g/sfw/lilia/18913f157404.webp",
+   "thumb": "img/g/sfw/lilia/18913f157404_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0781f1d0e617",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の昼の窓辺のお裁縫の部屋。ピンクのストールを肩にかけたセフィリアが、クッションの上で針と糸を両手に持ったまま、糸が指に",
+   "date": "2026-11-18",
+   "src": "img/g/sfw/sefi/0781f1d0e617.webp",
+   "thumb": "img/g/sfw/sefi/0781f1d0e617_t.webp",
    "w": 720,
    "h": 1280
   },
