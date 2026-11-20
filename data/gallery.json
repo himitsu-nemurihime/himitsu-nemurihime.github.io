@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,105 @@
   }
  },
  "counts": {
-  "sfw:tiru": 417,
-  "sfw:lilia": 561,
-  "sfw:sefi": 433,
+  "sfw:lilia": 564,
+  "sfw:tiru": 420,
+  "sfw:sefi": 434,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 588,
+ "held": 592,
  "items": [
+  {
+   "id": "f79488d3d61d",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬晴れの昼の古い洋館の中庭。石だたみの上で、ティルナが竹馬に乗って大きく一歩をふみ出して得意げに歯を見せて笑い、セフィリ",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/lilia/f79488d3d61d.webp",
+   "thumb": "img/g/sfw/lilia/f79488d3d61d_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c65684b6ed58",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "森の丘の夜。満天の星の下、葉の緑のドレスのティルナが、空の星をひとつずつ指でたどって数えていたのに途中で分からなくなって",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/tiru/c65684b6ed58.webp",
+   "thumb": "img/g/sfw/tiru/c65684b6ed58_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "aca1e55e0137",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "三日月の夜、お城の屋根瓦の上。黒い忍び装束に赤いマフラーのティルナが、うしろ姿でしゃがんで町を見おろし、ふり返って人さし",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/tiru/aca1e55e0137.webp",
+   "thumb": "img/g/sfw/tiru/aca1e55e0137_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "a4b9f1c8fdd1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬晴れの昼の古い洋館のバルコニー。白い石の手すりから、ティルナが紙飛行機を腕いっぱいに振って空へ飛ばし、セフィリアが自分",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/lilia/a4b9f1c8fdd1.webp",
+   "thumb": "img/g/sfw/lilia/a4b9f1c8fdd1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "6ee47372fcfc",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜、デスクランプだけをつけた部屋。黒いゴスロリのドレスのリリアが、ティーポットを傾けて白いティーカップに紅茶をそそぎ、湯",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/lilia/6ee47372fcfc.webp",
+   "thumb": "img/g/sfw/lilia/6ee47372fcfc_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "3743867c65fa",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "森の小屋の縁側。虫の音を聴いているうちにうとうとして、手からうちわがぽとりと落ちかける",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/tiru/3743867c65fa.webp",
+   "thumb": "img/g/sfw/tiru/3743867c65fa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1dd880f9ee30",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "ボジョレーヌーヴォー解禁日の夜。燭台の灯りの下、水色のドレスのセフィリアがぶどうの房を持ち上げて、一粒を口にくわえたまま",
+   "date": "2026-11-19",
+   "src": "img/g/sfw/sefi/1dd880f9ee30.webp",
+   "thumb": "img/g/sfw/sefi/1dd880f9ee30_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "f7d0638461aa",
    "char": "tiru",
