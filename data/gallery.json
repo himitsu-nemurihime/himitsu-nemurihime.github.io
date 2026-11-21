@@ -23,8 +23,8 @@
   }
  },
  "counts": {
-  "sfw:sefi": 440,
-  "sfw:tiru": 423,
+  "sfw:sefi": 441,
+  "sfw:tiru": 424,
   "sfw:lilia": 573,
   "sfw:three": 12
  },
@@ -97,6 +97,19 @@
    "h": 1280
   },
   {
+   "id": "7bb45c2017ca",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子の痛バッグのプロンプト（GPT-",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/sefi/7bb45c2017ca.webp",
+   "thumb": "img/g/sfw/sefi/7bb45c2017ca_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
    "id": "4b462ee3f1ab",
    "char": "lilia",
    "nsfw": false,
@@ -119,6 +132,19 @@
    "date": "2026-11-20",
    "src": "img/g/sfw/lilia/3a7d3c948f1a.webp",
    "thumb": "img/g/sfw/lilia/3a7d3c948f1a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "37cacf1cd70a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 錬金術の工房で光る薬のフラスコを手に光の",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/tiru/37cacf1cd70a.webp",
+   "thumb": "img/g/sfw/tiru/37cacf1cd70a_t.webp",
    "w": 720,
    "h": 1280
   },
