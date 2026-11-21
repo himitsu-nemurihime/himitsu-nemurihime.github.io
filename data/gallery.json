@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:lilia": 569,
-  "sfw:sefi": 438,
-  "sfw:tiru": 421,
+  "sfw:sefi": 440,
+  "sfw:tiru": 423,
+  "sfw:lilia": 573,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 605,
+ "held": 609,
  "items": [
+  {
+   "id": "f5f045cce559",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬晴れの大きな競技場のお祭り。チアに招かれたセフィリアが片ひざを高く上げてスカートをひるがえし、ポンポンを空へ突き上げて",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/sefi/f5f045cce559.webp",
+   "thumb": "img/g/sfw/sefi/f5f045cce559_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "edfb00de49ed",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の夕方の丘の上。真っ赤な夕焼けに染まった森を見たティルナが「森が燃えてる！」と本気であわてて、素足のまま丘をかけおりよ",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/tiru/edfb00de49ed.webp",
+   "thumb": "img/g/sfw/tiru/edfb00de49ed_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "e92af112f92b",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜通しの店番の明け方。カウンターに頬づえをついて舟を漕ぎかけていたティルナが、ドアベルの音にはっと目を開け、カップに手を",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/tiru/e92af112f92b.webp",
+   "thumb": "img/g/sfw/tiru/e92af112f92b_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "ae92ddca2700",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "毛布の日の夕方。洋館の暖炉の前のふかふかのじゅうたんに座ったリリアが、白い毛布を肩から羽織って、両手のマグのホットミルク",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/lilia/ae92ddca2700.webp",
+   "thumb": "img/g/sfw/lilia/ae92ddca2700_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "986c88562b9e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の朝の毛糸屋さん。色とりどりの毛糸玉が並ぶ棚の前で、ティルナが選んだ若草色の毛糸を自分の首にぐるぐる巻いてマフラーみた",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/lilia/986c88562b9e.webp",
+   "thumb": "img/g/sfw/lilia/986c88562b9e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "4b462ee3f1ab",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "小春日和の昼の公園の芝生。木かげの草の上に寝ころんだリリアが、分厚い本を胸にかかえたまま、こちらに気づいて目だけで小さく",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/lilia/4b462ee3f1ab.webp",
+   "thumb": "img/g/sfw/lilia/4b462ee3f1ab_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "3a7d3c948f1a",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬晴れの昼の雪の湖。白鳥の形をした足こぎボートに3人で乗り、まん中のティルナが両手でハンドルをにぎって全力でこぎ、となり",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/lilia/3a7d3c948f1a.webp",
+   "thumb": "img/g/sfw/lilia/3a7d3c948f1a_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "334d9c52051a",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の夜の王宮の音楽室。セフィリアが金色の大きなハープに体をよせて、両手の指先でそっと弦をはじき、シャンデリアのやわらかな",
+   "date": "2026-11-20",
+   "src": "img/g/sfw/sefi/334d9c52051a.webp",
+   "thumb": "img/g/sfw/sefi/334d9c52051a_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "f79488d3d61d",
    "char": "lilia",
