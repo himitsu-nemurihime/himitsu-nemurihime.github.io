@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,66 @@
   }
  },
  "counts": {
-  "sfw:lilia": 577,
+  "sfw:lilia": 579,
+  "sfw:sefi": 444,
   "sfw:tiru": 426,
-  "sfw:sefi": 442,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
  "held": 610,
  "items": [
+  {
+   "id": "5fe5a207f151",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬の昼のガラス工房の、炉のオレンジの火が照らす作業場。セフィリアが長い吹き竿をくわえてそっと息を吹きこみ、竿の先の赤く光",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/lilia/5fe5a207f151.webp",
+   "thumb": "img/g/sfw/lilia/5fe5a207f151_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "410815a4b325",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "仕事帰りの夜のバッティングセンター。黒いトレンチコートを脱いでフェンスにかけたリリアが、白いブラウスの袖をまくって振り抜",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/lilia/410815a4b325.webp",
+   "thumb": "img/g/sfw/lilia/410815a4b325_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "381536cb2ed0",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "いい夫婦の日の朝。朝の光の中で、セフィリアがおそろいの金ふちのティーカップを両手にひとつずつ持ち上げて並べて見せ、首をか",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/sefi/381536cb2ed0.webp",
+   "thumb": "img/g/sfw/sefi/381536cb2ed0_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "2ce1f660168d",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "午後のお茶の時間。メイド服のセフィリアが片手に紅茶のポット、片手にコーヒーカップを持って身を乗り出し、首をかしげて「紅茶",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/sefi/2ce1f660168d.webp",
+   "thumb": "img/g/sfw/sefi/2ce1f660168d_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "f9ce056d0b17",
    "char": "lilia",
