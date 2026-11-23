@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:sefi": 445,
-  "sfw:lilia": 580,
-  "sfw:tiru": 426,
+  "sfw:sefi": 446,
+  "sfw:lilia": 582,
+  "sfw:tiru": 427,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 610,
+ "held": 612,
  "items": [
   {
    "id": "d9ebaf8d56ab",
@@ -123,6 +123,32 @@
    "h": 1280
   },
   {
+   "id": "f7f3d6cb5daa",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の夜の古い銭湯の板張りのロビー。湯上がりの3人がそろって腰に片手を当て、びんの牛乳をあおって飲みほしている。ティルナは",
+   "date": "2026-11-21",
+   "src": "img/g/sfw/lilia/f7f3d6cb5daa.webp",
+   "thumb": "img/g/sfw/lilia/f7f3d6cb5daa_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ef9ef74f9fa1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夕方の神社の授与所。巫女装束のリリアが、はじめてのお守り授与で「ありがとうございます」を噛んでしまい、両手でお守りを差し",
+   "date": "2026-11-21",
+   "src": "img/g/sfw/lilia/ef9ef74f9fa1.webp",
+   "thumb": "img/g/sfw/lilia/ef9ef74f9fa1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ec8357ce81c7",
    "char": "lilia",
    "nsfw": false,
@@ -175,6 +201,19 @@
    "h": 1280
   },
   {
+   "id": "51281d1da1f4",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "初めてのイルミネーション。光のトンネルでコートを翻して一回転し、マフラーが顔に巻き付く",
+   "date": "2026-11-21",
+   "src": "img/g/sfw/sefi/51281d1da1f4.webp",
+   "thumb": "img/g/sfw/sefi/51281d1da1f4_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "3a02a8686fc5",
    "char": "lilia",
    "nsfw": false,
@@ -199,6 +238,19 @@
    "thumb": "img/g/sfw/sefi/16496f829579_t.webp",
    "w": 1280,
    "h": 720
+  },
+  {
+   "id": "10b1371c5fc6",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬晴れの昼の広い河原。ティルナが平たい石を横から思いきり投げて、川面をぴょんぴょんと何度も跳ねていく石を目で追いながら、",
+   "date": "2026-11-21",
+   "src": "img/g/sfw/tiru/10b1371c5fc6.webp",
+   "thumb": "img/g/sfw/tiru/10b1371c5fc6_t.webp",
+   "w": 853,
+   "h": 1280
   },
   {
    "id": "f5f045cce559",
