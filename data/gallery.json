@@ -23,14 +23,27 @@
   }
  },
  "counts": {
+  "sfw:tiru": 428,
   "sfw:sefi": 446,
-  "sfw:lilia": 582,
-  "sfw:tiru": 427,
+  "sfw:lilia": 585,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 613,
+ "held": 615,
  "items": [
+  {
+   "id": "e721a74e39b2",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "美術館の展示室。音声ガイドのヘッドホンから声がして、絵の中の人が話していると思って絵に返事をする",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/tiru/e721a74e39b2.webp",
+   "thumb": "img/g/sfw/tiru/e721a74e39b2_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
   {
    "id": "d9ebaf8d56ab",
    "char": "sefi",
@@ -41,6 +54,32 @@
    "date": "2026-11-22",
    "src": "img/g/sfw/sefi/d9ebaf8d56ab.webp",
    "thumb": "img/g/sfw/sefi/d9ebaf8d56ab_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cdaeaa255fd5",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "停電した夜。黒いワンピースのリリアが燭台の蝋燭を顔の前に持って身を乗り出し、首をかしげて火を珍しそうにのぞきこむ",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/lilia/cdaeaa255fd5.webp",
+   "thumb": "img/g/sfw/lilia/cdaeaa255fd5_t.webp",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "id": "b22a2374ab8e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の夜の古いゲームセンターのエアホッケー台。ティルナが身を乗り出して丸い打ち返しの道具を思いきり振り抜き、向かいのセフィ",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/lilia/b22a2374ab8e.webp",
+   "thumb": "img/g/sfw/lilia/b22a2374ab8e_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -68,6 +107,19 @@
    "src": "img/g/sfw/lilia/58a97cdd408c.webp",
    "thumb": "img/g/sfw/lilia/58a97cdd408c_t.webp",
    "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "4eb5d2a93216",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "休日の夕方のスーパーのセルフレジ。カーディガン姿のリリアがバーコードの読めないお菓子の箱をくるくるひっくり返し続け、困っ",
+   "date": "2026-11-22",
+   "src": "img/g/sfw/lilia/4eb5d2a93216.webp",
+   "thumb": "img/g/sfw/lilia/4eb5d2a93216_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
