@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,118 @@
   }
  },
  "counts": {
-  "sfw:lilia": 589,
-  "sfw:tiru": 430,
-  "sfw:sefi": 450,
+  "sfw:lilia": 594,
+  "sfw:tiru": 432,
+  "sfw:sefi": 451,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 620,
+ "held": 624,
  "items": [
+  {
+   "id": "f9d0fddbef07",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "古城の時計塔の機械室。茶色のベストと腕カバーの管理人姿のリリアが、大きな歯車に油差しで油を差し、文字盤の裏から差す光の中",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/lilia/f9d0fddbef07.webp",
+   "thumb": "img/g/sfw/lilia/f9d0fddbef07_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f19008109403",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "和食の日のお昼。定食屋の小上がりで、緑のパーカーのティルナが一汁三菜のお膳を前に座ぶとんに座り、ごはんをほおばってほっぺ",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/tiru/f19008109403.webp",
+   "thumb": "img/g/sfw/tiru/f19008109403_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "f16c66fb4b1f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "腕に止まった鷹を空へ放った直後、袖が風でふくらんで背が反る",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/sefi/f16c66fb4b1f.webp",
+   "thumb": "img/g/sfw/sefi/f16c66fb4b1f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "ea11d8a5eea7",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "夜の天気予報のスタジオ。チェックのブラウスに紺のタイトスカートのリリアが、片手で天気図を指し、片手でマイクを持って「明日",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/lilia/ea11d8a5eea7.webp",
+   "thumb": "img/g/sfw/lilia/ea11d8a5eea7_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "cb8a1ab9fb77",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "きのこを見つけて全部持ち帰ろうとする",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/tiru/cb8a1ab9fb77.webp",
+   "thumb": "img/g/sfw/tiru/cb8a1ab9fb77_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "7912f37b0a61",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の夕方の古城の図書室。本棚にかこまれた長いソファに横向きに寝そべったリリアが、ランプの灯りの中で、胸の上で丸くなった黒",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/lilia/7912f37b0a61.webp",
+   "thumb": "img/g/sfw/lilia/7912f37b0a61_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "11bef8ce8488",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬晴れの昼の遊園地のコーヒーカップ。ティルナがまん中のハンドルを両手で思いきり回してカップをぐるぐる回し、セフィリアがふ",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/lilia/11bef8ce8488.webp",
+   "thumb": "img/g/sfw/lilia/11bef8ce8488_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0b1952cee1e3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "香水工房の調香のテーブル。並んだ小瓶から1滴ずつ混ぜた小さな香水瓶を、セフィリアがリリアの鼻先へそっと差し出し、リリアが",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/lilia/0b1952cee1e3.webp",
+   "thumb": "img/g/sfw/lilia/0b1952cee1e3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "f264d912ec03",
    "char": "lilia",
@@ -18159,7 +18263,7 @@
    "nsfw": false,
    "r18": true,
    "level": 0,
-   "title": "傘を逆さに持って雨を溜めようとする",
+   "title": "雨の庭の石畳。黄色いレインコートのティルナが、傘を逆さに持って雨つぶをためようとし、たまっていく水を見てくすっと笑う",
    "date": "2026-08-27",
    "src": "img/g/sfw/tiru/9901e8fbb42c.webp",
    "thumb": "img/g/sfw/tiru/9901e8fbb42c_t.webp",
