@@ -24,12 +24,12 @@
  },
  "counts": {
   "sfw:tiru": 454,
-  "sfw:lilia": 616,
-  "sfw:sefi": 466,
+  "sfw:lilia": 617,
+  "sfw:sefi": 467,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 628,
+ "held": 663,
  "items": [
   {
    "id": "fed35199a3bd",
@@ -370,6 +370,19 @@
    "h": 1280
   },
   {
+   "id": "26c2850ee614",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#コスモ2アイドル",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/26c2850ee614.webp",
+   "thumb": "img/g/sfw/lilia/26c2850ee614_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "1f58bec6ce01",
    "char": "sefi",
    "nsfw": false,
@@ -522,6 +535,19 @@
    "date": "2026-11-24",
    "src": "img/g/sfw/tiru/ca2ff73fccd6.webp",
    "thumb": "img/g/sfw/tiru/ca2ff73fccd6_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c1f907bb44ba",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#旅行 2",
+   "date": "2026-11-24",
+   "src": "img/g/sfw/sefi/c1f907bb44ba.webp",
+   "thumb": "img/g/sfw/sefi/c1f907bb44ba_t.webp",
    "w": 720,
    "h": 1280
   },
