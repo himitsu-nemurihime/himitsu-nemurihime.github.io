@@ -23,9 +23,9 @@
   }
  },
  "counts": {
-  "sfw:tiru": 449,
-  "sfw:lilia": 610,
-  "sfw:sefi": 464,
+  "sfw:tiru": 450,
+  "sfw:lilia": 611,
+  "sfw:sefi": 465,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
@@ -41,6 +41,19 @@
    "date": "2026-11-25",
    "src": "img/g/sfw/tiru/fed35199a3bd.webp",
    "thumb": "img/g/sfw/tiru/fed35199a3bd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "fa69c90c12a9",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#クラスメイト 3",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/tiru/fa69c90c12a9.webp",
+   "thumb": "img/g/sfw/tiru/fa69c90c12a9_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -214,6 +227,19 @@
    "h": 1280
   },
   {
+   "id": "396664c9e4c2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#クラスメイト",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/396664c9e4c2.webp",
+   "thumb": "img/g/sfw/lilia/396664c9e4c2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "35e2ff9d7969",
    "char": "lilia",
    "nsfw": false,
@@ -249,6 +275,19 @@
    "date": "2026-11-25",
    "src": "img/g/sfw/lilia/0e077757dba9.webp",
    "thumb": "img/g/sfw/lilia/0e077757dba9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "0d5182d0bb4e",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#クラスメイト 2",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/sefi/0d5182d0bb4e.webp",
+   "thumb": "img/g/sfw/sefi/0d5182d0bb4e_t.webp",
    "w": 720,
    "h": 1280
   },
