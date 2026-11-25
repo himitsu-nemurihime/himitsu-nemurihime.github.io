@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:tiru": 450,
-  "sfw:lilia": 611,
-  "sfw:sefi": 465,
+  "sfw:tiru": 454,
+  "sfw:lilia": 616,
+  "sfw:sefi": 466,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 624,
+ "held": 628,
  "items": [
   {
    "id": "fed35199a3bd",
@@ -71,6 +71,19 @@
    "h": 1280
   },
   {
+   "id": "eaf5be690cf5",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "いいえがおの日にちなんで、手鏡と口紅、笑",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/eaf5be690cf5.webp",
+   "thumb": "img/g/sfw/lilia/eaf5be690cf5_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "ea442cc076a5",
    "char": "lilia",
    "nsfw": false,
@@ -84,6 +97,19 @@
    "h": 1280
   },
   {
+   "id": "e8a1295e5918",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬の昼の小さな画廊。白い壁に大きな金の額縁を掛けるところで、ティルナが脚立のてっぺんで額縁の上を両手で持ち上げ、セフィリ",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/e8a1295e5918.webp",
+   "thumb": "img/g/sfw/lilia/e8a1295e5918_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "d93680940be3",
    "char": "sefi",
    "nsfw": false,
@@ -93,6 +119,32 @@
    "date": "2026-11-25",
    "src": "img/g/sfw/sefi/d93680940be3.webp",
    "thumb": "img/g/sfw/sefi/d93680940be3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d8668ecebd8e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "はじめての傘を開いた瞬間に驚いて落とす",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/tiru/d8668ecebd8e.webp",
+   "thumb": "img/g/sfw/tiru/d8668ecebd8e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d567de608160",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "定時 漫画動画 ひと晩で作る氷のランタン",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/d567de608160.webp",
+   "thumb": "img/g/sfw/lilia/d567de608160_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -136,6 +188,32 @@
    "h": 720
   },
   {
+   "id": "bf2df2656dbb",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の昼のガラス屋根の室内プール。ぐるぐる回る大きなウォータースライダーの出口から、ティルナが両手を上げて水しぶきとともに",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/bf2df2656dbb.webp",
+   "thumb": "img/g/sfw/lilia/bf2df2656dbb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "b36a10cb2ea5",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子が冬のお店のジオラマになるプロン",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/lilia/b36a10cb2ea5.webp",
+   "thumb": "img/g/sfw/lilia/b36a10cb2ea5_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
    "id": "aaaad26034ab",
    "char": "tiru",
    "nsfw": false,
@@ -149,6 +227,19 @@
    "h": 1280
   },
   {
+   "id": "9fc434fc69c0",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬晴れの昼の公園の大きなトランポリン。思いきり跳ねたあとに大の字であおむけに寝ころんだティルナが、まだゆらゆら揺れる布の",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/tiru/9fc434fc69c0.webp",
+   "thumb": "img/g/sfw/tiru/9fc434fc69c0_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
    "id": "94ecd4e5d79f",
    "char": "sefi",
    "nsfw": false,
@@ -158,6 +249,32 @@
    "date": "2026-11-25",
    "src": "img/g/sfw/sefi/94ecd4e5d79f.webp",
    "thumb": "img/g/sfw/sefi/94ecd4e5d79f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "9066fb23673e",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夜の水族館。暗い通路の円柱水槽の前で、ワンピースのティルナがガラスに指先を当て、青く光るくらげの流れを追って微笑む（くら",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/tiru/9066fb23673e.webp",
+   "thumb": "img/g/sfw/tiru/9066fb23673e_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "86d582988220",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬の早朝、川ぞいの遊歩道。ウォーキングを始めた初日のセフィリアが、朝日に向かって両腕を高く上げてのびをし、息を白くしなが",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/sefi/86d582988220.webp",
+   "thumb": "img/g/sfw/sefi/86d582988220_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -263,6 +380,19 @@
    "src": "img/g/sfw/sefi/1f58bec6ce01.webp",
    "thumb": "img/g/sfw/sefi/1f58bec6ce01_t.webp",
    "w": 691,
+   "h": 1280
+  },
+  {
+   "id": "1c3087c5dc8a",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "夜のラーメン屋台。のれんに髪を引っかけたまま丸椅子に座ったティルナが、熱い器を両手で持ち替えながら、替え玉の札を指さして",
+   "date": "2026-11-25",
+   "src": "img/g/sfw/tiru/1c3087c5dc8a.webp",
+   "thumb": "img/g/sfw/tiru/1c3087c5dc8a_t.webp",
+   "w": 720,
    "h": 1280
   },
   {
