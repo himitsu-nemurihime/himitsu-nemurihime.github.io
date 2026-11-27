@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "chars": {
   "lilia": {
    "name": "リリア・ノワール",
@@ -23,14 +23,92 @@
   }
  },
  "counts": {
-  "sfw:tiru": 456,
-  "sfw:lilia": 621,
-  "sfw:sefi": 471,
+  "sfw:lilia": 623,
+  "sfw:sefi": 473,
+  "sfw:tiru": 458,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 668,
+ "held": 697,
  "items": [
+  {
+   "id": "e696b49450cd",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#セクシーランウェイ",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/e696b49450cd.webp",
+   "thumb": "img/g/sfw/lilia/e696b49450cd_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "d5d8fd3c91f9",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#いいにくアート展 2",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/sefi/d5d8fd3c91f9.webp",
+   "thumb": "img/g/sfw/sefi/d5d8fd3c91f9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "782070cd924f",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#セクシーランウェイ 2",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/sefi/782070cd924f.webp",
+   "thumb": "img/g/sfw/sefi/782070cd924f_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "5d03ca6d8a2b",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#いいにくアート展",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/5d03ca6d8a2b.webp",
+   "thumb": "img/g/sfw/lilia/5d03ca6d8a2b_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3afe4ca47b36",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#いいにくアート展 3",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/tiru/3afe4ca47b36.webp",
+   "thumb": "img/g/sfw/tiru/3afe4ca47b36_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "2aee9aeb3f81",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "#セクシーランウェイ 3",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/tiru/2aee9aeb3f81.webp",
+   "thumb": "img/g/sfw/tiru/2aee9aeb3f81_t.webp",
+   "w": 720,
+   "h": 1280
+  },
   {
    "id": "daf70cce22e9",
    "char": "tiru",
