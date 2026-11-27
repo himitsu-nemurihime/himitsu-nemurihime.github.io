@@ -23,13 +23,13 @@
   }
  },
  "counts": {
-  "sfw:lilia": 623,
-  "sfw:sefi": 473,
-  "sfw:tiru": 458,
+  "sfw:lilia": 629,
+  "sfw:sefi": 474,
+  "sfw:tiru": 461,
   "sfw:three": 12
  },
  "max_nsfw_level": 1,
- "held": 704,
+ "held": 708,
  "items": [
   {
    "id": "e696b49450cd",
@@ -45,6 +45,19 @@
    "h": 1280
   },
   {
+   "id": "db2fb30267f3",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬の昼の植物園のガラスの温室。丸いサボテンが並ぶ棚の前で、小さな霧吹きを持ったリリアが、とげの先についた水の粒をのぞきこ",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/db2fb30267f3.webp",
+   "thumb": "img/g/sfw/lilia/db2fb30267f3_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "d5d8fd3c91f9",
    "char": "sefi",
    "nsfw": false,
@@ -54,6 +67,58 @@
    "date": "2026-11-27",
    "src": "img/g/sfw/sefi/d5d8fd3c91f9.webp",
    "thumb": "img/g/sfw/sefi/d5d8fd3c91f9_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c923259eeb76",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "冬晴れの昼の公園の池の手漕ぎボート。ティルナがまん中で両手のオールを思いきり漕いで水しぶきをあげ、うしろのセフィリアがつ",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/c923259eeb76.webp",
+   "thumb": "img/g/sfw/lilia/c923259eeb76_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "c2a5f63363fb",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "和室の鑑定の席。白い手袋のティルナが、古い壺と茶碗を前に虫めがねを持ったまま「どっちから見よう…」と口をまるくして迷う",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/tiru/c2a5f63363fb.webp",
+   "thumb": "img/g/sfw/tiru/c2a5f63363fb_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "90d8aebf855e",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "真夜中の部屋の床。古いレコードを何枚も広げた真ん中にあおむけに寝ころんだリリアが、大きなヘッドホンで音楽を聴きながら目を",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/90d8aebf855e.webp",
+   "thumb": "img/g/sfw/lilia/90d8aebf855e_t.webp",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "id": "85e2b3bee244",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": true,
+   "level": 0,
+   "title": "雨の庭の石畳。黄色いレインコートのティルナが、傘を逆さに持って雨つぶをためようとし、たまっていく水を見てくすっと笑う",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/tiru/85e2b3bee244.webp",
+   "thumb": "img/g/sfw/tiru/85e2b3bee244_t.webp",
    "w": 720,
    "h": 1280
   },
@@ -84,6 +149,32 @@
    "h": 1280
   },
   {
+   "id": "5140730232c1",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 夜のバッティングセンターで思いきりバット",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/5140730232c1.webp",
+   "thumb": "img/g/sfw/lilia/5140730232c1_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "3e8901686d58",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "冬の昼の明るい広間の床に広げた色の丸のマットで、3人がからまりあってツイスターをしている。ティルナが両手両足を大きく広げ",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/3e8901686d58.webp",
+   "thumb": "img/g/sfw/lilia/3e8901686d58_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "3afe4ca47b36",
    "char": "tiru",
    "nsfw": false,
@@ -97,6 +188,32 @@
    "h": 1280
   },
   {
+   "id": "31a14c2968bc",
+   "char": "tiru",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "プロンプト配布 うちの子が押し絵羽子板になるプロンプト（",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/tiru/31a14c2968bc.webp",
+   "thumb": "img/g/sfw/tiru/31a14c2968bc_t.webp",
+   "w": 853,
+   "h": 1280
+  },
+  {
+   "id": "2b575be896a2",
+   "char": "lilia",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "師走を前にした買い物日和にちなんで、紙袋",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/lilia/2b575be896a2.webp",
+   "thumb": "img/g/sfw/lilia/2b575be896a2_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
    "id": "2aee9aeb3f81",
    "char": "tiru",
    "nsfw": false,
@@ -106,6 +223,19 @@
    "date": "2026-11-27",
    "src": "img/g/sfw/tiru/2aee9aeb3f81.webp",
    "thumb": "img/g/sfw/tiru/2aee9aeb3f81_t.webp",
+   "w": 720,
+   "h": 1280
+  },
+  {
+   "id": "1aa51bac0480",
+   "char": "sefi",
+   "nsfw": false,
+   "r18": false,
+   "level": null,
+   "title": "朝の電車の中。網棚の鞄に背伸びしたセフィリアが、指先が触れるだけで届かず、揺れでつり革ごと体が泳いで、頬をふくらませても",
+   "date": "2026-11-27",
+   "src": "img/g/sfw/sefi/1aa51bac0480.webp",
+   "thumb": "img/g/sfw/sefi/1aa51bac0480_t.webp",
    "w": 720,
    "h": 1280
   },
